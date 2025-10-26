@@ -15,52 +15,28 @@
         "title": "Gahre Pani Paith (गहरे पानी पैठ) 1",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 1,
-        "streams": [
-          {
-            "title": "Gahre Pani Paith (गहरे पानी पैठ) 1",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Gahre_Pani_Peth_01.mp3"
-          }
-        ]
+        "episode": 1
       },
       {
         "id": "02_ow_gahre-pani-paith-by-osho-1-4",
         "title": "Gahre Pani Paith (गहरे पानी पैठ) 2",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 2,
-        "streams": [
-          {
-            "title": "Gahre Pani Paith (गहरे पानी पैठ) 2",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Gahre_Pani_Peth_02.mp3"
-          }
-        ]
+        "episode": 2
       },
       {
         "id": "03_ow_gahre-pani-paith-by-osho-1-4",
         "title": "Gahre Pani Paith (गहरे पानी पैठ) 3",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 3,
-        "streams": [
-          {
-            "title": "Gahre Pani Paith (गहरे पानी पैठ) 3",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Gahre_Pani_Peth_03.mp3"
-          }
-        ]
+        "episode": 3
       },
       {
         "id": "04_ow_gahre-pani-paith-by-osho-1-4",
         "title": "Gahre Pani Paith (गहरे पानी पैठ) 4",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 4,
-        "streams": [
-          {
-            "title": "Gahre Pani Paith (गहरे पानी पैठ) 4",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Gahre_Pani_Peth_04.mp3"
-          }
-        ]
+        "episode": 4
       }
     ]
   }

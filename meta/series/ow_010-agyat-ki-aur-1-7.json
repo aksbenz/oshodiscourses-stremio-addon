@@ -15,91 +15,49 @@
         "title": "Agyat Ki Aur (अज्ञात की ओर) 1",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 1,
-        "streams": [
-          {
-            "title": "Agyat Ki Aur (अज्ञात की ओर) 1",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Agyat_Ki_Aur_01.mp3"
-          }
-        ]
+        "episode": 1
       },
       {
         "id": "02_ow_010-agyat-ki-aur-1-7",
         "title": "Agyat Ki Aur (अज्ञात की ओर) 2",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 2,
-        "streams": [
-          {
-            "title": "Agyat Ki Aur (अज्ञात की ओर) 2",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Agyat_Ki_Aur_02.mp3"
-          }
-        ]
+        "episode": 2
       },
       {
         "id": "03_ow_010-agyat-ki-aur-1-7",
         "title": "Agyat Ki Aur (अज्ञात की ओर) 3",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 3,
-        "streams": [
-          {
-            "title": "Agyat Ki Aur (अज्ञात की ओर) 3",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Agyat_Ki_Aur_03.mp3"
-          }
-        ]
+        "episode": 3
       },
       {
         "id": "04_ow_010-agyat-ki-aur-1-7",
         "title": "Agyat Ki Aur (अज्ञात की ओर) 4",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 4,
-        "streams": [
-          {
-            "title": "Agyat Ki Aur (अज्ञात की ओर) 4",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Agyat_Ki_Aur_04.mp3"
-          }
-        ]
+        "episode": 4
       },
       {
         "id": "05_ow_010-agyat-ki-aur-1-7",
         "title": "Agyat Ki Aur (अज्ञात की ओर) 5",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 5,
-        "streams": [
-          {
-            "title": "Agyat Ki Aur (अज्ञात की ओर) 5",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Agyat_Ki_Aur_05.mp3"
-          }
-        ]
+        "episode": 5
       },
       {
         "id": "06_ow_010-agyat-ki-aur-1-7",
         "title": "Agyat Ki Aur (अज्ञात की ओर) 6",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 6,
-        "streams": [
-          {
-            "title": "Agyat Ki Aur (अज्ञात की ओर) 6",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Agyat_Ki_Aur_06.mp3"
-          }
-        ]
+        "episode": 6
       },
       {
         "id": "07_ow_010-agyat-ki-aur-1-7",
         "title": "Agyat Ki Aur (अज्ञात की ओर) 7",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 7,
-        "streams": [
-          {
-            "title": "Agyat Ki Aur (अज्ञात की ओर) 7",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Agyat_Ki_Aur_07.mp3"
-          }
-        ]
+        "episode": 7
       }
     ]
   }

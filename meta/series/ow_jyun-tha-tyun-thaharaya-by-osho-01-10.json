@@ -3,10 +3,10 @@
     "id": "ow_jyun-tha-tyun-thaharaya-by-osho-01-10",
     "name": "Jyun Tha Tyun Thaharaya # 01-10",
     "year": 1970,
-    "poster": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
+    "poster": "https://placehold.co/600x400?text=Jyun Tha Tyun Thaharaya",
     "posterShape": "regular",
-    "logo": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
-    "background": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
+    "logo": "https://placehold.co/600x400?text=Jyun Tha Tyun Thaharaya",
+    "background": "https://placehold.co/600x400?text=Jyun Tha Tyun Thaharaya",
     "isFree": true,
     "type": "series",
     "videos": [
@@ -15,130 +15,70 @@
         "title": "Jyun Tha Tyun Thaharaya 1",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 1,
-        "streams": [
-          {
-            "title": "Jyun Tha Tyun Thaharaya 1",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyun_Tha_Tyun_Thaharaya_01.mp3"
-          }
-        ]
+        "episode": 1
       },
       {
         "id": "02_ow_jyun-tha-tyun-thaharaya-by-osho-01-10",
         "title": "Jyun Tha Tyun Thaharaya 2",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 2,
-        "streams": [
-          {
-            "title": "Jyun Tha Tyun Thaharaya 2",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyun_Tha_Tyun_Thaharaya_02.mp3"
-          }
-        ]
+        "episode": 2
       },
       {
         "id": "03_ow_jyun-tha-tyun-thaharaya-by-osho-01-10",
         "title": "Jyun Tha Tyun Thaharaya 3",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 3,
-        "streams": [
-          {
-            "title": "Jyun Tha Tyun Thaharaya 3",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyun_Tha_Tyun_Thaharaya_03.mp3"
-          }
-        ]
+        "episode": 3
       },
       {
         "id": "04_ow_jyun-tha-tyun-thaharaya-by-osho-01-10",
         "title": "Jyun Tha Tyun Thaharaya 4",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 4,
-        "streams": [
-          {
-            "title": "Jyun Tha Tyun Thaharaya 4",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyun_Tha_Tyun_Thaharaya_04.mp3"
-          }
-        ]
+        "episode": 4
       },
       {
         "id": "05_ow_jyun-tha-tyun-thaharaya-by-osho-01-10",
         "title": "Jyun Tha Tyun Thaharaya 5",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 5,
-        "streams": [
-          {
-            "title": "Jyun Tha Tyun Thaharaya 5",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyun_Tha_Tyun_Thaharaya_05.mp3"
-          }
-        ]
+        "episode": 5
       },
       {
         "id": "06_ow_jyun-tha-tyun-thaharaya-by-osho-01-10",
         "title": "Jyun Tha Tyun Thaharaya 6",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 6,
-        "streams": [
-          {
-            "title": "Jyun Tha Tyun Thaharaya 6",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyun_Tha_Tyun_Thaharaya_06.mp3"
-          }
-        ]
+        "episode": 6
       },
       {
         "id": "07_ow_jyun-tha-tyun-thaharaya-by-osho-01-10",
         "title": "Jyun Tha Tyun Thaharaya 7",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 7,
-        "streams": [
-          {
-            "title": "Jyun Tha Tyun Thaharaya 7",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyun_Tha_Tyun_Thaharaya_07.mp3"
-          }
-        ]
+        "episode": 7
       },
       {
         "id": "08_ow_jyun-tha-tyun-thaharaya-by-osho-01-10",
         "title": "Jyun Tha Tyun Thaharaya 8",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 8,
-        "streams": [
-          {
-            "title": "Jyun Tha Tyun Thaharaya 8",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyun_Tha_Tyun_Thaharaya_08.mp3"
-          }
-        ]
+        "episode": 8
       },
       {
         "id": "09_ow_jyun-tha-tyun-thaharaya-by-osho-01-10",
         "title": "Jyun Tha Tyun Thaharaya 9",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 9,
-        "streams": [
-          {
-            "title": "Jyun Tha Tyun Thaharaya 9",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyun_Tha_Tyun_Thaharaya_09.mp3"
-          }
-        ]
+        "episode": 9
       },
       {
         "id": "10_ow_jyun-tha-tyun-thaharaya-by-osho-01-10",
         "title": "Jyun Tha Tyun Thaharaya 10",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 10,
-        "streams": [
-          {
-            "title": "Jyun Tha Tyun Thaharaya 10",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyun_Tha_Tyun_Thaharaya_10.mp3"
-          }
-        ]
+        "episode": 10
       }
     ]
   }

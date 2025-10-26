@@ -3,10 +3,10 @@
     "id": "ow_kaha-kahun-us-desh-ki-by-osho-01-02",
     "name": "Kaha Kahun Us Desh Ki # 01-02",
     "year": 1970,
-    "poster": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
+    "poster": "https://placehold.co/600x400?text=Kaha Kahun Us Desh Ki",
     "posterShape": "regular",
-    "logo": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
-    "background": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
+    "logo": "https://placehold.co/600x400?text=Kaha Kahun Us Desh Ki",
+    "background": "https://placehold.co/600x400?text=Kaha Kahun Us Desh Ki",
     "isFree": true,
     "type": "series",
     "videos": [
@@ -15,26 +15,14 @@
         "title": "Kaha Kahun Us Desh Ki 1",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 1,
-        "streams": [
-          {
-            "title": "Kaha Kahun Us Desh Ki 1",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kaha_Kahun_Us_Desh_Ki_01.mp3"
-          }
-        ]
+        "episode": 1
       },
       {
         "id": "02_ow_kaha-kahun-us-desh-ki-by-osho-01-02",
         "title": "Kaha Kahun Us Desh Ki 2",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 2,
-        "streams": [
-          {
-            "title": "Kaha Kahun Us Desh Ki 2",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kaha_Kahun_Us_Desh_Ki_02.mp3"
-          }
-        ]
+        "episode": 2
       }
     ]
   }

@@ -3,10 +3,10 @@
     "id": "ow_jevan-rahasya-by-osho-01-13",
     "name": "Jevan Rahasya # 01-13",
     "year": 1970,
-    "poster": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
+    "poster": "https://placehold.co/600x400?text=Jevan Rahasya",
     "posterShape": "regular",
-    "logo": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
-    "background": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
+    "logo": "https://placehold.co/600x400?text=Jevan Rahasya",
+    "background": "https://placehold.co/600x400?text=Jevan Rahasya",
     "isFree": true,
     "type": "series",
     "videos": [
@@ -15,169 +15,91 @@
         "title": "Jevan Rahasya 1",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 1,
-        "streams": [
-          {
-            "title": "Jevan Rahasya 1",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jevan_Rahasya_01.mp3"
-          }
-        ]
+        "episode": 1
       },
       {
         "id": "02_ow_jevan-rahasya-by-osho-01-13",
         "title": "Jevan Rahasya 2",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 2,
-        "streams": [
-          {
-            "title": "Jevan Rahasya 2",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jevan_Rahasya_02.mp3"
-          }
-        ]
+        "episode": 2
       },
       {
         "id": "03_ow_jevan-rahasya-by-osho-01-13",
         "title": "Jevan Rahasya 3",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 3,
-        "streams": [
-          {
-            "title": "Jevan Rahasya 3",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jevan_Rahasya_03.mp3"
-          }
-        ]
+        "episode": 3
       },
       {
         "id": "04_ow_jevan-rahasya-by-osho-01-13",
         "title": "Jevan Rahasya 4",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 4,
-        "streams": [
-          {
-            "title": "Jevan Rahasya 4",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jevan_Rahasya_04.mp3"
-          }
-        ]
+        "episode": 4
       },
       {
         "id": "05_ow_jevan-rahasya-by-osho-01-13",
         "title": "Jevan Rahasya 5",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 5,
-        "streams": [
-          {
-            "title": "Jevan Rahasya 5",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jevan_Rahasya_05.mp3"
-          }
-        ]
+        "episode": 5
       },
       {
         "id": "06_ow_jevan-rahasya-by-osho-01-13",
         "title": "Jevan Rahasya 6",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 6,
-        "streams": [
-          {
-            "title": "Jevan Rahasya 6",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jevan_Rahasya_06.mp3"
-          }
-        ]
+        "episode": 6
       },
       {
         "id": "07_ow_jevan-rahasya-by-osho-01-13",
         "title": "Jevan Rahasya 7",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 7,
-        "streams": [
-          {
-            "title": "Jevan Rahasya 7",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jevan_Rahasya_07.mp3"
-          }
-        ]
+        "episode": 7
       },
       {
         "id": "08_ow_jevan-rahasya-by-osho-01-13",
         "title": "Jevan Rahasya 8",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 8,
-        "streams": [
-          {
-            "title": "Jevan Rahasya 8",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jevan_Rahasya_08.mp3"
-          }
-        ]
+        "episode": 8
       },
       {
         "id": "09_ow_jevan-rahasya-by-osho-01-13",
         "title": "Jevan Rahasya 9",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 9,
-        "streams": [
-          {
-            "title": "Jevan Rahasya 9",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jevan_Rahasya_09.mp3"
-          }
-        ]
+        "episode": 9
       },
       {
         "id": "10_ow_jevan-rahasya-by-osho-01-13",
         "title": "Jevan Rahasya 10",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 10,
-        "streams": [
-          {
-            "title": "Jevan Rahasya 10",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jevan_Rahasya_10.mp3"
-          }
-        ]
+        "episode": 10
       },
       {
         "id": "11_ow_jevan-rahasya-by-osho-01-13",
         "title": "Jevan Rahasya 11",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 11,
-        "streams": [
-          {
-            "title": "Jevan Rahasya 11",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jevan_Rahasya_11.mp3"
-          }
-        ]
+        "episode": 11
       },
       {
         "id": "12_ow_jevan-rahasya-by-osho-01-13",
         "title": "Jevan Rahasya 12",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 12,
-        "streams": [
-          {
-            "title": "Jevan Rahasya 12",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jevan_Rahasya_12.mp3"
-          }
-        ]
+        "episode": 12
       },
       {
         "id": "13_ow_jevan-rahasya-by-osho-01-13",
         "title": "Jevan Rahasya 13",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 13,
-        "streams": [
-          {
-            "title": "Jevan Rahasya 13",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jevan_Rahasya_13.mp3"
-          }
-        ]
+        "episode": 13
       }
     ]
   }

@@ -3,10 +3,10 @@
     "id": "ow_utsav-amar-jati-anand-amar-gotar-by-osho-01-10",
     "name": "Utsav Amar Jati Anand Amar Gotar # 01-10",
     "year": 1970,
-    "poster": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
+    "poster": "https://placehold.co/600x400?text=Utsav Amar Jati Anand Amar Gotar",
     "posterShape": "regular",
-    "logo": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
-    "background": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
+    "logo": "https://placehold.co/600x400?text=Utsav Amar Jati Anand Amar Gotar",
+    "background": "https://placehold.co/600x400?text=Utsav Amar Jati Anand Amar Gotar",
     "isFree": true,
     "type": "series",
     "videos": [
@@ -15,130 +15,70 @@
         "title": "Utsav Amar Jati Anand Amar Gotar 1",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 1,
-        "streams": [
-          {
-            "title": "Utsav Amar Jati Anand Amar Gotar 1",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Utsav_Amar_Jati_Anand_Amar_Gotar_01.mp3"
-          }
-        ]
+        "episode": 1
       },
       {
         "id": "02_ow_utsav-amar-jati-anand-amar-gotar-by-osho-01-10",
         "title": "Utsav Amar Jati Anand Amar Gotar 2",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 2,
-        "streams": [
-          {
-            "title": "Utsav Amar Jati Anand Amar Gotar 2",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Utsav_Amar_Jati_Anand_Amar_Gotar_02.mp3"
-          }
-        ]
+        "episode": 2
       },
       {
         "id": "03_ow_utsav-amar-jati-anand-amar-gotar-by-osho-01-10",
         "title": "Utsav Amar Jati Anand Amar Gotar 3",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 3,
-        "streams": [
-          {
-            "title": "Utsav Amar Jati Anand Amar Gotar 3",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Utsav_Amar_Jati_Anand_Amar_Gotar_03.mp3"
-          }
-        ]
+        "episode": 3
       },
       {
         "id": "04_ow_utsav-amar-jati-anand-amar-gotar-by-osho-01-10",
         "title": "Utsav Amar Jati Anand Amar Gotar 4",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 4,
-        "streams": [
-          {
-            "title": "Utsav Amar Jati Anand Amar Gotar 4",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Utsav_Amar_Jati_Anand_Amar_Gotar_04.mp3"
-          }
-        ]
+        "episode": 4
       },
       {
         "id": "05_ow_utsav-amar-jati-anand-amar-gotar-by-osho-01-10",
         "title": "Utsav Amar Jati Anand Amar Gotar 5",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 5,
-        "streams": [
-          {
-            "title": "Utsav Amar Jati Anand Amar Gotar 5",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Utsav_Amar_Jati_Anand_Amar_Gotar_05.mp3"
-          }
-        ]
+        "episode": 5
       },
       {
         "id": "06_ow_utsav-amar-jati-anand-amar-gotar-by-osho-01-10",
         "title": "Utsav Amar Jati Anand Amar Gotar 6",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 6,
-        "streams": [
-          {
-            "title": "Utsav Amar Jati Anand Amar Gotar 6",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Utsav_Amar_Jati_Anand_Amar_Gotar_06.mp3"
-          }
-        ]
+        "episode": 6
       },
       {
         "id": "07_ow_utsav-amar-jati-anand-amar-gotar-by-osho-01-10",
         "title": "Utsav Amar Jati Anand Amar Gotar 7",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 7,
-        "streams": [
-          {
-            "title": "Utsav Amar Jati Anand Amar Gotar 7",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Utsav_Amar_Jati_Anand_Amar_Gotar_07.mp3"
-          }
-        ]
+        "episode": 7
       },
       {
         "id": "08_ow_utsav-amar-jati-anand-amar-gotar-by-osho-01-10",
         "title": "Utsav Amar Jati Anand Amar Gotar 8",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 8,
-        "streams": [
-          {
-            "title": "Utsav Amar Jati Anand Amar Gotar 8",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Utsav_Amar_Jati_Anand_Amar_Gotar_08.mp3"
-          }
-        ]
+        "episode": 8
       },
       {
         "id": "09_ow_utsav-amar-jati-anand-amar-gotar-by-osho-01-10",
         "title": "Utsav Amar Jati Anand Amar Gotar 9",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 9,
-        "streams": [
-          {
-            "title": "Utsav Amar Jati Anand Amar Gotar 9",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Utsav_Amar_Jati_Anand_Amar_Gotar_09.mp3"
-          }
-        ]
+        "episode": 9
       },
       {
         "id": "10_ow_utsav-amar-jati-anand-amar-gotar-by-osho-01-10",
         "title": "Utsav Amar Jati Anand Amar Gotar 10",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 10,
-        "streams": [
-          {
-            "title": "Utsav Amar Jati Anand Amar Gotar 10",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Utsav_Amar_Jati_Anand_Amar_Gotar_10.mp3"
-          }
-        ]
+        "episode": 10
       }
     ]
   }

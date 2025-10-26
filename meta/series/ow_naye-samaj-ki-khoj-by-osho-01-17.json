@@ -3,10 +3,10 @@
     "id": "ow_naye-samaj-ki-khoj-by-osho-01-17",
     "name": "Naye Samaj Ki Khoj # 01-17",
     "year": 1970,
-    "poster": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
+    "poster": "https://placehold.co/600x400?text=Naye Samaj Ki Khoj",
     "posterShape": "regular",
-    "logo": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
-    "background": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
+    "logo": "https://placehold.co/600x400?text=Naye Samaj Ki Khoj",
+    "background": "https://placehold.co/600x400?text=Naye Samaj Ki Khoj",
     "isFree": true,
     "type": "series",
     "videos": [
@@ -15,221 +15,119 @@
         "title": "Naye Samaj Ki Khoj 1",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 1,
-        "streams": [
-          {
-            "title": "Naye Samaj Ki Khoj 1",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Naye_Samaj_Ki_Khoj_01.mp3"
-          }
-        ]
+        "episode": 1
       },
       {
         "id": "02_ow_naye-samaj-ki-khoj-by-osho-01-17",
         "title": "Naye Samaj Ki Khoj 2",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 2,
-        "streams": [
-          {
-            "title": "Naye Samaj Ki Khoj 2",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Naye_Samaj_Ki_Khoj_02.mp3"
-          }
-        ]
+        "episode": 2
       },
       {
         "id": "03_ow_naye-samaj-ki-khoj-by-osho-01-17",
         "title": "Naye Samaj Ki Khoj 3",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 3,
-        "streams": [
-          {
-            "title": "Naye Samaj Ki Khoj 3",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Naye_Samaj_Ki_Khoj_03.mp3"
-          }
-        ]
+        "episode": 3
       },
       {
         "id": "04_ow_naye-samaj-ki-khoj-by-osho-01-17",
         "title": "Naye Samaj Ki Khoj 4",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 4,
-        "streams": [
-          {
-            "title": "Naye Samaj Ki Khoj 4",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Naye_Samaj_Ki_Khoj_04.mp3"
-          }
-        ]
+        "episode": 4
       },
       {
         "id": "05_ow_naye-samaj-ki-khoj-by-osho-01-17",
         "title": "Naye Samaj Ki Khoj 5",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 5,
-        "streams": [
-          {
-            "title": "Naye Samaj Ki Khoj 5",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Naye_Samaj_Ki_Khoj_05.mp3"
-          }
-        ]
+        "episode": 5
       },
       {
         "id": "06_ow_naye-samaj-ki-khoj-by-osho-01-17",
         "title": "Naye Samaj Ki Khoj 6",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 6,
-        "streams": [
-          {
-            "title": "Naye Samaj Ki Khoj 6",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Naye_Samaj_Ki_Khoj_06.mp3"
-          }
-        ]
+        "episode": 6
       },
       {
         "id": "07_ow_naye-samaj-ki-khoj-by-osho-01-17",
         "title": "Naye Samaj Ki Khoj 7",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 7,
-        "streams": [
-          {
-            "title": "Naye Samaj Ki Khoj 7",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Naye_Samaj_Ki_Khoj_07.mp3"
-          }
-        ]
+        "episode": 7
       },
       {
         "id": "08_ow_naye-samaj-ki-khoj-by-osho-01-17",
         "title": "Naye Samaj Ki Khoj 8",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 8,
-        "streams": [
-          {
-            "title": "Naye Samaj Ki Khoj 8",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Naye_Samaj_Ki_Khoj_08.mp3"
-          }
-        ]
+        "episode": 8
       },
       {
         "id": "09_ow_naye-samaj-ki-khoj-by-osho-01-17",
         "title": "Naye Samaj Ki Khoj 9",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 9,
-        "streams": [
-          {
-            "title": "Naye Samaj Ki Khoj 9",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Naye_Samaj_Ki_Khoj_09.mp3"
-          }
-        ]
+        "episode": 9
       },
       {
         "id": "10_ow_naye-samaj-ki-khoj-by-osho-01-17",
         "title": "Naye Samaj Ki Khoj 10",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 10,
-        "streams": [
-          {
-            "title": "Naye Samaj Ki Khoj 10",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Naye_Samaj_Ki_Khoj_10.mp3"
-          }
-        ]
+        "episode": 10
       },
       {
         "id": "11_ow_naye-samaj-ki-khoj-by-osho-01-17",
         "title": "Naye Samaj Ki Khoj 11",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 11,
-        "streams": [
-          {
-            "title": "Naye Samaj Ki Khoj 11",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Naye_Samaj_Ki_Khoj_11.mp3"
-          }
-        ]
+        "episode": 11
       },
       {
         "id": "12_ow_naye-samaj-ki-khoj-by-osho-01-17",
         "title": "Naye Samaj Ki Khoj 12",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 12,
-        "streams": [
-          {
-            "title": "Naye Samaj Ki Khoj 12",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Naye_Samaj_Ki_Khoj_12.mp3"
-          }
-        ]
+        "episode": 12
       },
       {
         "id": "13_ow_naye-samaj-ki-khoj-by-osho-01-17",
         "title": "Naye Samaj Ki Khoj 13",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 13,
-        "streams": [
-          {
-            "title": "Naye Samaj Ki Khoj 13",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Naye_Samaj_Ki_Khoj_13.mp3"
-          }
-        ]
+        "episode": 13
       },
       {
         "id": "14_ow_naye-samaj-ki-khoj-by-osho-01-17",
         "title": "Naye Samaj Ki Khoj 14",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 14,
-        "streams": [
-          {
-            "title": "Naye Samaj Ki Khoj 14",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Naye_Samaj_Ki_Khoj_14.mp3"
-          }
-        ]
+        "episode": 14
       },
       {
         "id": "15_ow_naye-samaj-ki-khoj-by-osho-01-17",
         "title": "Naye Samaj Ki Khoj 15",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 15,
-        "streams": [
-          {
-            "title": "Naye Samaj Ki Khoj 15",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Naye_Samaj_Ki_Khoj_15.mp3"
-          }
-        ]
+        "episode": 15
       },
       {
         "id": "16_ow_naye-samaj-ki-khoj-by-osho-01-17",
         "title": "Naye Samaj Ki Khoj 16",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 16,
-        "streams": [
-          {
-            "title": "Naye Samaj Ki Khoj 16",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Naye_Samaj_Ki_Khoj_16.mp3"
-          }
-        ]
+        "episode": 16
       },
       {
         "id": "17_ow_naye-samaj-ki-khoj-by-osho-01-17",
         "title": "Naye Samaj Ki Khoj 17",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 17,
-        "streams": [
-          {
-            "title": "Naye Samaj Ki Khoj 17",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Naye_Samaj_Ki_Khoj_17.mp3"
-          }
-        ]
+        "episode": 17
       }
     ]
   }

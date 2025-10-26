@@ -3,10 +3,10 @@
     "id": "ow_tamso-ma-jyotirgamaya-by-osho-01-08",
     "name": "Tamso Ma Jyotirgamaya # 01-08",
     "year": 1970,
-    "poster": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
+    "poster": "https://placehold.co/600x400?text=Tamso Ma Jyotirgamaya",
     "posterShape": "regular",
-    "logo": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
-    "background": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
+    "logo": "https://placehold.co/600x400?text=Tamso Ma Jyotirgamaya",
+    "background": "https://placehold.co/600x400?text=Tamso Ma Jyotirgamaya",
     "isFree": true,
     "type": "series",
     "videos": [
@@ -15,104 +15,56 @@
         "title": "Tamso Ma Jyotirgamaya 1",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 1,
-        "streams": [
-          {
-            "title": "Tamso Ma Jyotirgamaya 1",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tamso_Ma_Jyotirgamaya_01.mp3"
-          }
-        ]
+        "episode": 1
       },
       {
         "id": "02_ow_tamso-ma-jyotirgamaya-by-osho-01-08",
         "title": "Tamso Ma Jyotirgamaya 2",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 2,
-        "streams": [
-          {
-            "title": "Tamso Ma Jyotirgamaya 2",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tamso_Ma_Jyotirgamaya_02.mp3"
-          }
-        ]
+        "episode": 2
       },
       {
         "id": "03_ow_tamso-ma-jyotirgamaya-by-osho-01-08",
         "title": "Tamso Ma Jyotirgamaya 3",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 3,
-        "streams": [
-          {
-            "title": "Tamso Ma Jyotirgamaya 3",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tamso_Ma_Jyotirgamaya_03.mp3"
-          }
-        ]
+        "episode": 3
       },
       {
         "id": "04_ow_tamso-ma-jyotirgamaya-by-osho-01-08",
         "title": "Tamso Ma Jyotirgamaya 4",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 4,
-        "streams": [
-          {
-            "title": "Tamso Ma Jyotirgamaya 4",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tamso_Ma_Jyotirgamaya_04.mp3"
-          }
-        ]
+        "episode": 4
       },
       {
         "id": "05_ow_tamso-ma-jyotirgamaya-by-osho-01-08",
         "title": "Tamso Ma Jyotirgamaya 5",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 5,
-        "streams": [
-          {
-            "title": "Tamso Ma Jyotirgamaya 5",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tamso_Ma_Jyotirgamaya_05.mp3"
-          }
-        ]
+        "episode": 5
       },
       {
         "id": "06_ow_tamso-ma-jyotirgamaya-by-osho-01-08",
         "title": "Tamso Ma Jyotirgamaya 6",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 6,
-        "streams": [
-          {
-            "title": "Tamso Ma Jyotirgamaya 6",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tamso_Ma_Jyotirgamaya_06.mp3"
-          }
-        ]
+        "episode": 6
       },
       {
         "id": "07_ow_tamso-ma-jyotirgamaya-by-osho-01-08",
         "title": "Tamso Ma Jyotirgamaya 7",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 7,
-        "streams": [
-          {
-            "title": "Tamso Ma Jyotirgamaya 7",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tamso_Ma_Jyotirgamaya_07.mp3"
-          }
-        ]
+        "episode": 7
       },
       {
         "id": "08_ow_tamso-ma-jyotirgamaya-by-osho-01-08",
         "title": "Tamso Ma Jyotirgamaya 8",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 8,
-        "streams": [
-          {
-            "title": "Tamso Ma Jyotirgamaya 8",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tamso_Ma_Jyotirgamaya_08.mp3"
-          }
-        ]
+        "episode": 8
       }
     ]
   }

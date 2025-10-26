@@ -3,10 +3,10 @@
     "id": "ow_satya-ki-pyas-01-09-by-osho",
     "name": "Satya Ki Pyas # 01-09",
     "year": 1970,
-    "poster": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
+    "poster": "https://placehold.co/600x400?text=Satya Ki Pyas",
     "posterShape": "regular",
-    "logo": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
-    "background": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
+    "logo": "https://placehold.co/600x400?text=Satya Ki Pyas",
+    "background": "https://placehold.co/600x400?text=Satya Ki Pyas",
     "isFree": true,
     "type": "series",
     "videos": [
@@ -15,117 +15,63 @@
         "title": "Satya Ki Pyas 1",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 1,
-        "streams": [
-          {
-            "title": "Satya Ki Pyas 1",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Satya_Ki_Pyas_01.mp3"
-          }
-        ]
+        "episode": 1
       },
       {
         "id": "02_ow_satya-ki-pyas-01-09-by-osho",
         "title": "Satya Ki Pyas 2",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 2,
-        "streams": [
-          {
-            "title": "Satya Ki Pyas 2",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Satya_Ki_Pyas_02.mp3"
-          }
-        ]
+        "episode": 2
       },
       {
         "id": "03_ow_satya-ki-pyas-01-09-by-osho",
         "title": "Satya Ki Pyas 3",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 3,
-        "streams": [
-          {
-            "title": "Satya Ki Pyas 3",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Satya_Ki_Pyas_03.mp3"
-          }
-        ]
+        "episode": 3
       },
       {
         "id": "04_ow_satya-ki-pyas-01-09-by-osho",
         "title": "Satya Ki Pyas 4",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 4,
-        "streams": [
-          {
-            "title": "Satya Ki Pyas 4",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Satya_Ki_Pyas_04.mp3"
-          }
-        ]
+        "episode": 4
       },
       {
         "id": "05_ow_satya-ki-pyas-01-09-by-osho",
         "title": "Satya Ki Pyas 5",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 5,
-        "streams": [
-          {
-            "title": "Satya Ki Pyas 5",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Satya_Ki_Pyas_05.mp3"
-          }
-        ]
+        "episode": 5
       },
       {
         "id": "06_ow_satya-ki-pyas-01-09-by-osho",
         "title": "Satya Ki Pyas 6",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 6,
-        "streams": [
-          {
-            "title": "Satya Ki Pyas 6",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Satya_Ki_Pyas_06.mp3"
-          }
-        ]
+        "episode": 6
       },
       {
         "id": "07_ow_satya-ki-pyas-01-09-by-osho",
         "title": "Satya Ki Pyas 7",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 7,
-        "streams": [
-          {
-            "title": "Satya Ki Pyas 7",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Satya_Ki_Pyas_07.mp3"
-          }
-        ]
+        "episode": 7
       },
       {
         "id": "08_ow_satya-ki-pyas-01-09-by-osho",
         "title": "Satya Ki Pyas 8",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 8,
-        "streams": [
-          {
-            "title": "Satya Ki Pyas 8",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Satya_Ki_Pyas_08.mp3"
-          }
-        ]
+        "episode": 8
       },
       {
         "id": "09_ow_satya-ki-pyas-01-09-by-osho",
         "title": "Satya Ki Pyas 9",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 9,
-        "streams": [
-          {
-            "title": "Satya Ki Pyas 9",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Satya_Ki_Pyas_09.mp3"
-          }
-        ]
+        "episode": 9
       }
     ]
   }

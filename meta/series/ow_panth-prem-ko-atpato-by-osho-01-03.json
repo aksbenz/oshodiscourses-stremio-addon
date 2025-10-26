@@ -3,10 +3,10 @@
     "id": "ow_panth-prem-ko-atpato-by-osho-01-03",
     "name": "Panth Prem Ko Atpato # 01-03",
     "year": 1970,
-    "poster": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
+    "poster": "https://placehold.co/600x400?text=Panth Prem Ko Atpato",
     "posterShape": "regular",
-    "logo": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
-    "background": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
+    "logo": "https://placehold.co/600x400?text=Panth Prem Ko Atpato",
+    "background": "https://placehold.co/600x400?text=Panth Prem Ko Atpato",
     "isFree": true,
     "type": "series",
     "videos": [
@@ -15,39 +15,21 @@
         "title": "Panth Prem Ko Atpato 1",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 1,
-        "streams": [
-          {
-            "title": "Panth Prem Ko Atpato 1",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Panth_Prem_Ko_Atpato_01.mp3"
-          }
-        ]
+        "episode": 1
       },
       {
         "id": "02_ow_panth-prem-ko-atpato-by-osho-01-03",
         "title": "Panth Prem Ko Atpato 2",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 2,
-        "streams": [
-          {
-            "title": "Panth Prem Ko Atpato 2",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Panth_Prem_Ko_Atpato_02.mp3"
-          }
-        ]
+        "episode": 2
       },
       {
         "id": "03_ow_panth-prem-ko-atpato-by-osho-01-03",
         "title": "Panth Prem Ko Atpato 3",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 3,
-        "streams": [
-          {
-            "title": "Panth Prem Ko Atpato 3",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Panth_Prem_Ko_Atpato_03.mp3"
-          }
-        ]
+        "episode": 3
       }
     ]
   }

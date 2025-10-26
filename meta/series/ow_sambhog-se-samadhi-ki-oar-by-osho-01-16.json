@@ -3,10 +3,10 @@
     "id": "ow_sambhog-se-samadhi-ki-oar-by-osho-01-16",
     "name": "Sambhog Se Samadhi Ki Aur # 01-16",
     "year": 1970,
-    "poster": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
+    "poster": "https://placehold.co/600x400?text=Sambhog Se Samadhi Ki Aur",
     "posterShape": "regular",
-    "logo": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
-    "background": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
+    "logo": "https://placehold.co/600x400?text=Sambhog Se Samadhi Ki Aur",
+    "background": "https://placehold.co/600x400?text=Sambhog Se Samadhi Ki Aur",
     "isFree": true,
     "type": "series",
     "videos": [
@@ -15,208 +15,112 @@
         "title": "Sambhog Se Samadhi Ki Aur 1",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 1,
-        "streams": [
-          {
-            "title": "Sambhog Se Samadhi Ki Aur 1",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sambhog_Se_Samadhi_Ki_Aur_01.mp3"
-          }
-        ]
+        "episode": 1
       },
       {
         "id": "02_ow_sambhog-se-samadhi-ki-oar-by-osho-01-16",
         "title": "Sambhog Se Samadhi Ki Aur 2",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 2,
-        "streams": [
-          {
-            "title": "Sambhog Se Samadhi Ki Aur 2",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sambhog_Se_Samadhi_Ki_Aur_02.mp3"
-          }
-        ]
+        "episode": 2
       },
       {
         "id": "03_ow_sambhog-se-samadhi-ki-oar-by-osho-01-16",
         "title": "Sambhog Se Samadhi Ki Aur 3",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 3,
-        "streams": [
-          {
-            "title": "Sambhog Se Samadhi Ki Aur 3",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sambhog_Se_Samadhi_Ki_Aur_03.mp3"
-          }
-        ]
+        "episode": 3
       },
       {
         "id": "04_ow_sambhog-se-samadhi-ki-oar-by-osho-01-16",
         "title": "Sambhog Se Samadhi Ki Aur 4",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 4,
-        "streams": [
-          {
-            "title": "Sambhog Se Samadhi Ki Aur 4",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sambhog_Se_Samadhi_Ki_Aur_04.mp3"
-          }
-        ]
+        "episode": 4
       },
       {
         "id": "05_ow_sambhog-se-samadhi-ki-oar-by-osho-01-16",
         "title": "Sambhog Se Samadhi Ki Aur 5",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 5,
-        "streams": [
-          {
-            "title": "Sambhog Se Samadhi Ki Aur 5",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sambhog_Se_Samadhi_Ki_Aur_05.mp3"
-          }
-        ]
+        "episode": 5
       },
       {
         "id": "06_ow_sambhog-se-samadhi-ki-oar-by-osho-01-16",
         "title": "Sambhog Se Samadhi Ki Aur 6",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 6,
-        "streams": [
-          {
-            "title": "Sambhog Se Samadhi Ki Aur 6",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sambhog_Se_Samadhi_Ki_Aur_06.mp3"
-          }
-        ]
+        "episode": 6
       },
       {
         "id": "07_ow_sambhog-se-samadhi-ki-oar-by-osho-01-16",
         "title": "Sambhog Se Samadhi Ki Aur 7",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 7,
-        "streams": [
-          {
-            "title": "Sambhog Se Samadhi Ki Aur 7",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sambhog_Se_Samadhi_Ki_Aur_07.mp3"
-          }
-        ]
+        "episode": 7
       },
       {
         "id": "08_ow_sambhog-se-samadhi-ki-oar-by-osho-01-16",
         "title": "Sambhog Se Samadhi Ki Aur 8",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 8,
-        "streams": [
-          {
-            "title": "Sambhog Se Samadhi Ki Aur 8",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sambhog_Se_Samadhi_Ki_Aur_08.mp3"
-          }
-        ]
+        "episode": 8
       },
       {
         "id": "09_ow_sambhog-se-samadhi-ki-oar-by-osho-01-16",
         "title": "Sambhog Se Samadhi Ki Aur 9",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 9,
-        "streams": [
-          {
-            "title": "Sambhog Se Samadhi Ki Aur 9",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sambhog_Se_Samadhi_Ki_Aur_09.mp3"
-          }
-        ]
+        "episode": 9
       },
       {
         "id": "10_ow_sambhog-se-samadhi-ki-oar-by-osho-01-16",
         "title": "Sambhog Se Samadhi Ki Aur 10",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 10,
-        "streams": [
-          {
-            "title": "Sambhog Se Samadhi Ki Aur 10",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sambhog_Se_Samadhi_Ki_Aur_10.mp3"
-          }
-        ]
+        "episode": 10
       },
       {
         "id": "11_ow_sambhog-se-samadhi-ki-oar-by-osho-01-16",
         "title": "Sambhog Se Samadhi Ki Aur 11",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 11,
-        "streams": [
-          {
-            "title": "Sambhog Se Samadhi Ki Aur 11",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sambhog_Se_Samadhi_Ki_Aur_11.mp3"
-          }
-        ]
+        "episode": 11
       },
       {
         "id": "12_ow_sambhog-se-samadhi-ki-oar-by-osho-01-16",
         "title": "Sambhog Se Samadhi Ki Aur 12",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 12,
-        "streams": [
-          {
-            "title": "Sambhog Se Samadhi Ki Aur 12",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sambhog_Se_Samadhi_Ki_Aur_12.mp3"
-          }
-        ]
+        "episode": 12
       },
       {
         "id": "13_ow_sambhog-se-samadhi-ki-oar-by-osho-01-16",
         "title": "Sambhog Se Samadhi Ki Aur 13",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 13,
-        "streams": [
-          {
-            "title": "Sambhog Se Samadhi Ki Aur 13",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sambhog_Se_Samadhi_Ki_Aur_13.mp3"
-          }
-        ]
+        "episode": 13
       },
       {
         "id": "14_ow_sambhog-se-samadhi-ki-oar-by-osho-01-16",
         "title": "Sambhog Se Samadhi Ki Aur 14",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 14,
-        "streams": [
-          {
-            "title": "Sambhog Se Samadhi Ki Aur 14",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sambhog_Se_Samadhi_Ki_Aur_14.mp3"
-          }
-        ]
+        "episode": 14
       },
       {
         "id": "15_ow_sambhog-se-samadhi-ki-oar-by-osho-01-16",
         "title": "Sambhog Se Samadhi Ki Aur 15",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 15,
-        "streams": [
-          {
-            "title": "Sambhog Se Samadhi Ki Aur 15",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sambhog_Se_Samadhi_Ki_Aur_15.mp3"
-          }
-        ]
+        "episode": 15
       },
       {
         "id": "16_ow_sambhog-se-samadhi-ki-oar-by-osho-01-16",
         "title": "Sambhog Se Samadhi Ki Aur 16",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 16,
-        "streams": [
-          {
-            "title": "Sambhog Se Samadhi Ki Aur 16",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sambhog_Se_Samadhi_Ki_Aur_16.mp3"
-          }
-        ]
+        "episode": 16
       }
     ]
   }

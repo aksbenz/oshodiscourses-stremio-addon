@@ -15,78 +15,42 @@
         "title": "Amrit Dwar (अमृत द्वार) 1",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 1,
-        "streams": [
-          {
-            "title": "Amrit Dwar (अमृत द्वार) 1",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Amrit_Dwar_01.mp3"
-          }
-        ]
+        "episode": 1
       },
       {
         "id": "02_ow_011-amrit-dwar-1-6",
         "title": "Amrit Dwar (अमृत द्वार) 2",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 2,
-        "streams": [
-          {
-            "title": "Amrit Dwar (अमृत द्वार) 2",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Amrit_Dwar_02.mp3"
-          }
-        ]
+        "episode": 2
       },
       {
         "id": "03_ow_011-amrit-dwar-1-6",
         "title": "Amrit Dwar (अमृत द्वार) 3",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 3,
-        "streams": [
-          {
-            "title": "Amrit Dwar (अमृत द्वार) 3",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Amrit_Dwar_03.mp3"
-          }
-        ]
+        "episode": 3
       },
       {
         "id": "04_ow_011-amrit-dwar-1-6",
         "title": "Amrit Dwar (अमृत द्वार) 4",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 4,
-        "streams": [
-          {
-            "title": "Amrit Dwar (अमृत द्वार) 4",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Amrit_Dwar_04.mp3"
-          }
-        ]
+        "episode": 4
       },
       {
         "id": "05_ow_011-amrit-dwar-1-6",
         "title": "Amrit Dwar (अमृत द्वार) 5",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 5,
-        "streams": [
-          {
-            "title": "Amrit Dwar (अमृत द्वार) 5",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Amrit_Dwar_05.mp3"
-          }
-        ]
+        "episode": 5
       },
       {
         "id": "06_ow_011-amrit-dwar-1-6",
         "title": "Amrit Dwar (अमृत द्वार) 6",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 6,
-        "streams": [
-          {
-            "title": "Amrit Dwar (अमृत द्वार) 6",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Amrit_Dwar_06.mp3"
-          }
-        ]
+        "episode": 6
       }
     ]
   }

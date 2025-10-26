@@ -3,10 +3,10 @@
     "id": "ow_jyon-ki-tyon-by-osho-01-13",
     "name": "Jyon Ki Tyon # 01-13",
     "year": 1970,
-    "poster": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
+    "poster": "https://placehold.co/600x400?text=Jyon Ki Tyon",
     "posterShape": "regular",
-    "logo": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
-    "background": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
+    "logo": "https://placehold.co/600x400?text=Jyon Ki Tyon",
+    "background": "https://placehold.co/600x400?text=Jyon Ki Tyon",
     "isFree": true,
     "type": "series",
     "videos": [
@@ -15,169 +15,91 @@
         "title": "Jyon Ki Tyon 1",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 1,
-        "streams": [
-          {
-            "title": "Jyon Ki Tyon 1",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyon_Ki_Tyon_01.mp3"
-          }
-        ]
+        "episode": 1
       },
       {
         "id": "02_ow_jyon-ki-tyon-by-osho-01-13",
         "title": "Jyon Ki Tyon 2",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 2,
-        "streams": [
-          {
-            "title": "Jyon Ki Tyon 2",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyon_Ki_Tyon_02.mp3"
-          }
-        ]
+        "episode": 2
       },
       {
         "id": "03_ow_jyon-ki-tyon-by-osho-01-13",
         "title": "Jyon Ki Tyon 3",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 3,
-        "streams": [
-          {
-            "title": "Jyon Ki Tyon 3",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyon_Ki_Tyon_03.mp3"
-          }
-        ]
+        "episode": 3
       },
       {
         "id": "04_ow_jyon-ki-tyon-by-osho-01-13",
         "title": "Jyon Ki Tyon 4",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 4,
-        "streams": [
-          {
-            "title": "Jyon Ki Tyon 4",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyon_Ki_Tyon_04.mp3"
-          }
-        ]
+        "episode": 4
       },
       {
         "id": "05_ow_jyon-ki-tyon-by-osho-01-13",
         "title": "Jyon Ki Tyon 5",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 5,
-        "streams": [
-          {
-            "title": "Jyon Ki Tyon 5",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyon_Ki_Tyon_05.mp3"
-          }
-        ]
+        "episode": 5
       },
       {
         "id": "06_ow_jyon-ki-tyon-by-osho-01-13",
         "title": "Jyon Ki Tyon 6",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 6,
-        "streams": [
-          {
-            "title": "Jyon Ki Tyon 6",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyon_Ki_Tyon_06.mp3"
-          }
-        ]
+        "episode": 6
       },
       {
         "id": "07_ow_jyon-ki-tyon-by-osho-01-13",
         "title": "Jyon Ki Tyon 7",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 7,
-        "streams": [
-          {
-            "title": "Jyon Ki Tyon 7",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyon_Ki_Tyon_07.mp3"
-          }
-        ]
+        "episode": 7
       },
       {
         "id": "08_ow_jyon-ki-tyon-by-osho-01-13",
         "title": "Jyon Ki Tyon 8",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 8,
-        "streams": [
-          {
-            "title": "Jyon Ki Tyon 8",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyon_Ki_Tyon_08.mp3"
-          }
-        ]
+        "episode": 8
       },
       {
         "id": "09_ow_jyon-ki-tyon-by-osho-01-13",
         "title": "Jyon Ki Tyon 9",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 9,
-        "streams": [
-          {
-            "title": "Jyon Ki Tyon 9",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyon_Ki_Tyon_09.mp3"
-          }
-        ]
+        "episode": 9
       },
       {
         "id": "10_ow_jyon-ki-tyon-by-osho-01-13",
         "title": "Jyon Ki Tyon 10",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 10,
-        "streams": [
-          {
-            "title": "Jyon Ki Tyon 10",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyon_Ki_Tyon_10.mp3"
-          }
-        ]
+        "episode": 10
       },
       {
         "id": "11_ow_jyon-ki-tyon-by-osho-01-13",
         "title": "Jyon Ki Tyon 11",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 11,
-        "streams": [
-          {
-            "title": "Jyon Ki Tyon 11",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyon_Ki_Tyon_11.mp3"
-          }
-        ]
+        "episode": 11
       },
       {
         "id": "12_ow_jyon-ki-tyon-by-osho-01-13",
         "title": "Jyon Ki Tyon 12",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 12,
-        "streams": [
-          {
-            "title": "Jyon Ki Tyon 12",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyon_Ki_Tyon_12.mp3"
-          }
-        ]
+        "episode": 12
       },
       {
         "id": "13_ow_jyon-ki-tyon-by-osho-01-13",
         "title": "Jyon Ki Tyon 13",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 13,
-        "streams": [
-          {
-            "title": "Jyon Ki Tyon 13",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyon_Ki_Tyon_13.mp3"
-          }
-        ]
+        "episode": 13
       }
     ]
   }

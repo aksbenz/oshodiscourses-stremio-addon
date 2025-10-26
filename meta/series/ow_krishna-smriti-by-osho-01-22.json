@@ -3,10 +3,10 @@
     "id": "ow_krishna-smriti-by-osho-01-22",
     "name": "Krishna Smriti # 01-22",
     "year": 1970,
-    "poster": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
+    "poster": "https://placehold.co/600x400?text=Krishna Smriti",
     "posterShape": "regular",
-    "logo": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
-    "background": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
+    "logo": "https://placehold.co/600x400?text=Krishna Smriti",
+    "background": "https://placehold.co/600x400?text=Krishna Smriti",
     "isFree": true,
     "type": "series",
     "videos": [
@@ -15,286 +15,154 @@
         "title": "Krishna Smriti 1",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 1,
-        "streams": [
-          {
-            "title": "Krishna Smriti 1",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_01.mp3"
-          }
-        ]
+        "episode": 1
       },
       {
         "id": "02_ow_krishna-smriti-by-osho-01-22",
         "title": "Krishna Smriti 2",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 2,
-        "streams": [
-          {
-            "title": "Krishna Smriti 2",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_02.mp3"
-          }
-        ]
+        "episode": 2
       },
       {
         "id": "03_ow_krishna-smriti-by-osho-01-22",
         "title": "Krishna Smriti 3",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 3,
-        "streams": [
-          {
-            "title": "Krishna Smriti 3",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_03.mp3"
-          }
-        ]
+        "episode": 3
       },
       {
         "id": "04_ow_krishna-smriti-by-osho-01-22",
         "title": "Krishna Smriti 4",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 4,
-        "streams": [
-          {
-            "title": "Krishna Smriti 4",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_04.mp3"
-          }
-        ]
+        "episode": 4
       },
       {
         "id": "05_ow_krishna-smriti-by-osho-01-22",
         "title": "Krishna Smriti 5",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 5,
-        "streams": [
-          {
-            "title": "Krishna Smriti 5",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_05.mp3"
-          }
-        ]
+        "episode": 5
       },
       {
         "id": "06_ow_krishna-smriti-by-osho-01-22",
         "title": "Krishna Smriti 6",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 6,
-        "streams": [
-          {
-            "title": "Krishna Smriti 6",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_06.mp3"
-          }
-        ]
+        "episode": 6
       },
       {
         "id": "07_ow_krishna-smriti-by-osho-01-22",
         "title": "Krishna Smriti 7",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 7,
-        "streams": [
-          {
-            "title": "Krishna Smriti 7",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_07.mp3"
-          }
-        ]
+        "episode": 7
       },
       {
         "id": "08_ow_krishna-smriti-by-osho-01-22",
         "title": "Krishna Smriti 8",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 8,
-        "streams": [
-          {
-            "title": "Krishna Smriti 8",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_08.mp3"
-          }
-        ]
+        "episode": 8
       },
       {
         "id": "09_ow_krishna-smriti-by-osho-01-22",
         "title": "Krishna Smriti 9",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 9,
-        "streams": [
-          {
-            "title": "Krishna Smriti 9",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_09.mp3"
-          }
-        ]
+        "episode": 9
       },
       {
         "id": "10_ow_krishna-smriti-by-osho-01-22",
         "title": "Krishna Smriti 10",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 10,
-        "streams": [
-          {
-            "title": "Krishna Smriti 10",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_10.mp3"
-          }
-        ]
+        "episode": 10
       },
       {
         "id": "11_ow_krishna-smriti-by-osho-01-22",
         "title": "Krishna Smriti 11",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 11,
-        "streams": [
-          {
-            "title": "Krishna Smriti 11",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_11.mp3"
-          }
-        ]
+        "episode": 11
       },
       {
         "id": "12_ow_krishna-smriti-by-osho-01-22",
         "title": "Krishna Smriti 12",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 12,
-        "streams": [
-          {
-            "title": "Krishna Smriti 12",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_12.mp3"
-          }
-        ]
+        "episode": 12
       },
       {
         "id": "13_ow_krishna-smriti-by-osho-01-22",
         "title": "Krishna Smriti 13",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 13,
-        "streams": [
-          {
-            "title": "Krishna Smriti 13",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_13.mp3"
-          }
-        ]
+        "episode": 13
       },
       {
         "id": "14_ow_krishna-smriti-by-osho-01-22",
         "title": "Krishna Smriti 14",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 14,
-        "streams": [
-          {
-            "title": "Krishna Smriti 14",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_14.mp3"
-          }
-        ]
+        "episode": 14
       },
       {
         "id": "15_ow_krishna-smriti-by-osho-01-22",
         "title": "Krishna Smriti 15",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 15,
-        "streams": [
-          {
-            "title": "Krishna Smriti 15",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_15.mp3"
-          }
-        ]
+        "episode": 15
       },
       {
         "id": "16_ow_krishna-smriti-by-osho-01-22",
         "title": "Krishna Smriti 16",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 16,
-        "streams": [
-          {
-            "title": "Krishna Smriti 16",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_16.mp3"
-          }
-        ]
+        "episode": 16
       },
       {
         "id": "17_ow_krishna-smriti-by-osho-01-22",
         "title": "Krishna Smriti 17",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 17,
-        "streams": [
-          {
-            "title": "Krishna Smriti 17",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_17.mp3"
-          }
-        ]
+        "episode": 17
       },
       {
         "id": "18_ow_krishna-smriti-by-osho-01-22",
         "title": "Krishna Smriti 18",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 18,
-        "streams": [
-          {
-            "title": "Krishna Smriti 18",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_18.mp3"
-          }
-        ]
+        "episode": 18
       },
       {
         "id": "19_ow_krishna-smriti-by-osho-01-22",
         "title": "Krishna Smriti 19",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 19,
-        "streams": [
-          {
-            "title": "Krishna Smriti 19",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_19.mp3"
-          }
-        ]
+        "episode": 19
       },
       {
         "id": "20_ow_krishna-smriti-by-osho-01-22",
         "title": "Krishna Smriti 20",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 20,
-        "streams": [
-          {
-            "title": "Krishna Smriti 20",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_20.mp3"
-          }
-        ]
+        "episode": 20
       },
       {
         "id": "21_ow_krishna-smriti-by-osho-01-22",
         "title": "Krishna Smriti 21",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 21,
-        "streams": [
-          {
-            "title": "Krishna Smriti 21",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_21.mp3"
-          }
-        ]
+        "episode": 21
       },
       {
         "id": "22_ow_krishna-smriti-by-osho-01-22",
         "title": "Krishna Smriti 22",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 22,
-        "streams": [
-          {
-            "title": "Krishna Smriti 22",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_22.mp3"
-          }
-        ]
+        "episode": 22
       }
     ]
   }

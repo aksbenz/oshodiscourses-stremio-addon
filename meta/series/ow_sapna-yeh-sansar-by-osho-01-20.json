@@ -3,10 +3,10 @@
     "id": "ow_sapna-yeh-sansar-by-osho-01-20",
     "name": "Sapna Yeh Sansar # 01-20",
     "year": 1970,
-    "poster": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
+    "poster": "https://placehold.co/600x400?text=Sapna Yeh Sansar",
     "posterShape": "regular",
-    "logo": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
-    "background": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
+    "logo": "https://placehold.co/600x400?text=Sapna Yeh Sansar",
+    "background": "https://placehold.co/600x400?text=Sapna Yeh Sansar",
     "isFree": true,
     "type": "series",
     "videos": [
@@ -15,260 +15,140 @@
         "title": "Sapna Yeh Sansar 1",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 1,
-        "streams": [
-          {
-            "title": "Sapna Yeh Sansar 1",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sapna_Yeh_Sansar_01.mp3"
-          }
-        ]
+        "episode": 1
       },
       {
         "id": "02_ow_sapna-yeh-sansar-by-osho-01-20",
         "title": "Sapna Yeh Sansar 2",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 2,
-        "streams": [
-          {
-            "title": "Sapna Yeh Sansar 2",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sapna_Yeh_Sansar_02.mp3"
-          }
-        ]
+        "episode": 2
       },
       {
         "id": "03_ow_sapna-yeh-sansar-by-osho-01-20",
         "title": "Sapna Yeh Sansar 3",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 3,
-        "streams": [
-          {
-            "title": "Sapna Yeh Sansar 3",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sapna_Yeh_Sansar_03.mp3"
-          }
-        ]
+        "episode": 3
       },
       {
         "id": "04_ow_sapna-yeh-sansar-by-osho-01-20",
         "title": "Sapna Yeh Sansar 4",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 4,
-        "streams": [
-          {
-            "title": "Sapna Yeh Sansar 4",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sapna_Yeh_Sansar_04.mp3"
-          }
-        ]
+        "episode": 4
       },
       {
         "id": "05_ow_sapna-yeh-sansar-by-osho-01-20",
         "title": "Sapna Yeh Sansar 5",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 5,
-        "streams": [
-          {
-            "title": "Sapna Yeh Sansar 5",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sapna_Yeh_Sansar_05.mp3"
-          }
-        ]
+        "episode": 5
       },
       {
         "id": "06_ow_sapna-yeh-sansar-by-osho-01-20",
         "title": "Sapna Yeh Sansar 6",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 6,
-        "streams": [
-          {
-            "title": "Sapna Yeh Sansar 6",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sapna_Yeh_Sansar_06.mp3"
-          }
-        ]
+        "episode": 6
       },
       {
         "id": "07_ow_sapna-yeh-sansar-by-osho-01-20",
         "title": "Sapna Yeh Sansar 7",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 7,
-        "streams": [
-          {
-            "title": "Sapna Yeh Sansar 7",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sapna_Yeh_Sansar_07.mp3"
-          }
-        ]
+        "episode": 7
       },
       {
         "id": "08_ow_sapna-yeh-sansar-by-osho-01-20",
         "title": "Sapna Yeh Sansar 8",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 8,
-        "streams": [
-          {
-            "title": "Sapna Yeh Sansar 8",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sapna_Yeh_Sansar_08.mp3"
-          }
-        ]
+        "episode": 8
       },
       {
         "id": "09_ow_sapna-yeh-sansar-by-osho-01-20",
         "title": "Sapna Yeh Sansar 9",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 9,
-        "streams": [
-          {
-            "title": "Sapna Yeh Sansar 9",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sapna_Yeh_Sansar_09.mp3"
-          }
-        ]
+        "episode": 9
       },
       {
         "id": "10_ow_sapna-yeh-sansar-by-osho-01-20",
         "title": "Sapna Yeh Sansar 10",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 10,
-        "streams": [
-          {
-            "title": "Sapna Yeh Sansar 10",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sapna_Yeh_Sansar_10.mp3"
-          }
-        ]
+        "episode": 10
       },
       {
         "id": "11_ow_sapna-yeh-sansar-by-osho-01-20",
         "title": "Sapna Yeh Sansar 11",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 11,
-        "streams": [
-          {
-            "title": "Sapna Yeh Sansar 11",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sapna_Yeh_Sansar_11.mp3"
-          }
-        ]
+        "episode": 11
       },
       {
         "id": "12_ow_sapna-yeh-sansar-by-osho-01-20",
         "title": "Sapna Yeh Sansar 12",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 12,
-        "streams": [
-          {
-            "title": "Sapna Yeh Sansar 12",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sapna_Yeh_Sansar_12.mp3"
-          }
-        ]
+        "episode": 12
       },
       {
         "id": "13_ow_sapna-yeh-sansar-by-osho-01-20",
         "title": "Sapna Yeh Sansar 13",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 13,
-        "streams": [
-          {
-            "title": "Sapna Yeh Sansar 13",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sapna_Yeh_Sansar_13.mp3"
-          }
-        ]
+        "episode": 13
       },
       {
         "id": "14_ow_sapna-yeh-sansar-by-osho-01-20",
         "title": "Sapna Yeh Sansar 14",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 14,
-        "streams": [
-          {
-            "title": "Sapna Yeh Sansar 14",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sapna_Yeh_Sansar_14.mp3"
-          }
-        ]
+        "episode": 14
       },
       {
         "id": "15_ow_sapna-yeh-sansar-by-osho-01-20",
         "title": "Sapna Yeh Sansar 15",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 15,
-        "streams": [
-          {
-            "title": "Sapna Yeh Sansar 15",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sapna_Yeh_Sansar_15.mp3"
-          }
-        ]
+        "episode": 15
       },
       {
         "id": "16_ow_sapna-yeh-sansar-by-osho-01-20",
         "title": "Sapna Yeh Sansar 16",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 16,
-        "streams": [
-          {
-            "title": "Sapna Yeh Sansar 16",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sapna_Yeh_Sansar_16.mp3"
-          }
-        ]
+        "episode": 16
       },
       {
         "id": "17_ow_sapna-yeh-sansar-by-osho-01-20",
         "title": "Sapna Yeh Sansar 17",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 17,
-        "streams": [
-          {
-            "title": "Sapna Yeh Sansar 17",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sapna_Yeh_Sansar_17.mp3"
-          }
-        ]
+        "episode": 17
       },
       {
         "id": "18_ow_sapna-yeh-sansar-by-osho-01-20",
         "title": "Sapna Yeh Sansar 18",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 18,
-        "streams": [
-          {
-            "title": "Sapna Yeh Sansar 18",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sapna_Yeh_Sansar_18.mp3"
-          }
-        ]
+        "episode": 18
       },
       {
         "id": "19_ow_sapna-yeh-sansar-by-osho-01-20",
         "title": "Sapna Yeh Sansar 19",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 19,
-        "streams": [
-          {
-            "title": "Sapna Yeh Sansar 19",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sapna_Yeh_Sansar_19.mp3"
-          }
-        ]
+        "episode": 19
       },
       {
         "id": "20_ow_sapna-yeh-sansar-by-osho-01-20",
         "title": "Sapna Yeh Sansar 20",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 20,
-        "streams": [
-          {
-            "title": "Sapna Yeh Sansar 20",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sapna_Yeh_Sansar_20.mp3"
-          }
-        ]
+        "episode": 20
       }
     ]
   }

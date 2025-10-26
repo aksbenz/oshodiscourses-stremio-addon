@@ -3,10 +3,10 @@
     "id": "ow_jin-khoja-tin-paiyan-by-osho-01-19",
     "name": "Jin Khoja Tin Paiyan # 01-19",
     "year": 1970,
-    "poster": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
+    "poster": "https://placehold.co/600x400?text=Jin Khoja Tin Paiyan",
     "posterShape": "regular",
-    "logo": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
-    "background": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
+    "logo": "https://placehold.co/600x400?text=Jin Khoja Tin Paiyan",
+    "background": "https://placehold.co/600x400?text=Jin Khoja Tin Paiyan",
     "isFree": true,
     "type": "series",
     "videos": [
@@ -15,247 +15,133 @@
         "title": "Jin Khoja Tin Paiyan 1",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 1,
-        "streams": [
-          {
-            "title": "Jin Khoja Tin Paiyan 1",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Khoja_Tin_Paiyan_01.mp3"
-          }
-        ]
+        "episode": 1
       },
       {
         "id": "02_ow_jin-khoja-tin-paiyan-by-osho-01-19",
         "title": "Jin Khoja Tin Paiyan 2",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 2,
-        "streams": [
-          {
-            "title": "Jin Khoja Tin Paiyan 2",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Khoja_Tin_Paiyan_02.mp3"
-          }
-        ]
+        "episode": 2
       },
       {
         "id": "03_ow_jin-khoja-tin-paiyan-by-osho-01-19",
         "title": "Jin Khoja Tin Paiyan 3",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 3,
-        "streams": [
-          {
-            "title": "Jin Khoja Tin Paiyan 3",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Khoja_Tin_Paiyan_03.mp3"
-          }
-        ]
+        "episode": 3
       },
       {
         "id": "04_ow_jin-khoja-tin-paiyan-by-osho-01-19",
         "title": "Jin Khoja Tin Paiyan 4",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 4,
-        "streams": [
-          {
-            "title": "Jin Khoja Tin Paiyan 4",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Khoja_Tin_Paiyan_04.mp3"
-          }
-        ]
+        "episode": 4
       },
       {
         "id": "05_ow_jin-khoja-tin-paiyan-by-osho-01-19",
         "title": "Jin Khoja Tin Paiyan 5",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 5,
-        "streams": [
-          {
-            "title": "Jin Khoja Tin Paiyan 5",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Khoja_Tin_Paiyan_05.mp3"
-          }
-        ]
+        "episode": 5
       },
       {
         "id": "06_ow_jin-khoja-tin-paiyan-by-osho-01-19",
         "title": "Jin Khoja Tin Paiyan 6",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 6,
-        "streams": [
-          {
-            "title": "Jin Khoja Tin Paiyan 6",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Khoja_Tin_Paiyan_06.mp3"
-          }
-        ]
+        "episode": 6
       },
       {
         "id": "07_ow_jin-khoja-tin-paiyan-by-osho-01-19",
         "title": "Jin Khoja Tin Paiyan 7",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 7,
-        "streams": [
-          {
-            "title": "Jin Khoja Tin Paiyan 7",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Khoja_Tin_Paiyan_07.mp3"
-          }
-        ]
+        "episode": 7
       },
       {
         "id": "08_ow_jin-khoja-tin-paiyan-by-osho-01-19",
         "title": "Jin Khoja Tin Paiyan 8",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 8,
-        "streams": [
-          {
-            "title": "Jin Khoja Tin Paiyan 8",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Khoja_Tin_Paiyan_08.mp3"
-          }
-        ]
+        "episode": 8
       },
       {
         "id": "09_ow_jin-khoja-tin-paiyan-by-osho-01-19",
         "title": "Jin Khoja Tin Paiyan 9",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 9,
-        "streams": [
-          {
-            "title": "Jin Khoja Tin Paiyan 9",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Khoja_Tin_Paiyan_09.mp3"
-          }
-        ]
+        "episode": 9
       },
       {
         "id": "10_ow_jin-khoja-tin-paiyan-by-osho-01-19",
         "title": "Jin Khoja Tin Paiyan 10",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 10,
-        "streams": [
-          {
-            "title": "Jin Khoja Tin Paiyan 10",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Khoja_Tin_Paiyan_10.mp3"
-          }
-        ]
+        "episode": 10
       },
       {
         "id": "11_ow_jin-khoja-tin-paiyan-by-osho-01-19",
         "title": "Jin Khoja Tin Paiyan 11",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 11,
-        "streams": [
-          {
-            "title": "Jin Khoja Tin Paiyan 11",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Khoja_Tin_Paiyan_11.mp3"
-          }
-        ]
+        "episode": 11
       },
       {
         "id": "12_ow_jin-khoja-tin-paiyan-by-osho-01-19",
         "title": "Jin Khoja Tin Paiyan 12",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 12,
-        "streams": [
-          {
-            "title": "Jin Khoja Tin Paiyan 12",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Khoja_Tin_Paiyan_12.mp3"
-          }
-        ]
+        "episode": 12
       },
       {
         "id": "13_ow_jin-khoja-tin-paiyan-by-osho-01-19",
         "title": "Jin Khoja Tin Paiyan 13",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 13,
-        "streams": [
-          {
-            "title": "Jin Khoja Tin Paiyan 13",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Khoja_Tin_Paiyan_13.mp3"
-          }
-        ]
+        "episode": 13
       },
       {
         "id": "14_ow_jin-khoja-tin-paiyan-by-osho-01-19",
         "title": "Jin Khoja Tin Paiyan 14",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 14,
-        "streams": [
-          {
-            "title": "Jin Khoja Tin Paiyan 14",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Khoja_Tin_Paiyan_14.mp3"
-          }
-        ]
+        "episode": 14
       },
       {
         "id": "15_ow_jin-khoja-tin-paiyan-by-osho-01-19",
         "title": "Jin Khoja Tin Paiyan 15",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 15,
-        "streams": [
-          {
-            "title": "Jin Khoja Tin Paiyan 15",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Khoja_Tin_Paiyan_15.mp3"
-          }
-        ]
+        "episode": 15
       },
       {
         "id": "16_ow_jin-khoja-tin-paiyan-by-osho-01-19",
         "title": "Jin Khoja Tin Paiyan 16",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 16,
-        "streams": [
-          {
-            "title": "Jin Khoja Tin Paiyan 16",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Khoja_Tin_Paiyan_16.mp3"
-          }
-        ]
+        "episode": 16
       },
       {
         "id": "17_ow_jin-khoja-tin-paiyan-by-osho-01-19",
         "title": "Jin Khoja Tin Paiyan 17",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 17,
-        "streams": [
-          {
-            "title": "Jin Khoja Tin Paiyan 17",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Khoja_Tin_Paiyan_17.mp3"
-          }
-        ]
+        "episode": 17
       },
       {
         "id": "18_ow_jin-khoja-tin-paiyan-by-osho-01-19",
         "title": "Jin Khoja Tin Paiyan 18",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 18,
-        "streams": [
-          {
-            "title": "Jin Khoja Tin Paiyan 18",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Khoja_Tin_Paiyan_18.mp3"
-          }
-        ]
+        "episode": 18
       },
       {
         "id": "19_ow_jin-khoja-tin-paiyan-by-osho-01-19",
         "title": "Jin Khoja Tin Paiyan 19",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 19,
-        "streams": [
-          {
-            "title": "Jin Khoja Tin Paiyan 19",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Khoja_Tin_Paiyan_19.mp3"
-          }
-        ]
+        "episode": 19
       }
     ]
   }

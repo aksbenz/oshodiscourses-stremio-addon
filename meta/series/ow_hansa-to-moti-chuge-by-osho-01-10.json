@@ -3,10 +3,10 @@
     "id": "ow_hansa-to-moti-chuge-by-osho-01-10",
     "name": "Hansa To Moti Chuge (हंसा तो मोती चुगैं ) # 01-10",
     "year": 1970,
-    "poster": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
+    "poster": "https://placehold.co/600x400?text=Hansa To Moti Chuge (हंसा तो मोती चुगैं )",
     "posterShape": "regular",
-    "logo": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
-    "background": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
+    "logo": "https://placehold.co/600x400?text=Hansa To Moti Chuge (हंसा तो मोती चुगैं )",
+    "background": "https://placehold.co/600x400?text=Hansa To Moti Chuge (हंसा तो मोती चुगैं )",
     "isFree": true,
     "type": "series",
     "videos": [
@@ -15,130 +15,70 @@
         "title": "Hansa To Moti Chuge (हंसा तो मोती चुगैं ) 1",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 1,
-        "streams": [
-          {
-            "title": "Hansa To Moti Chuge (हंसा तो मोती चुगैं ) 1",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Hansa_To_Moti_Chuge_01.mp3"
-          }
-        ]
+        "episode": 1
       },
       {
         "id": "02_ow_hansa-to-moti-chuge-by-osho-01-10",
         "title": "Hansa To Moti Chuge (हंसा तो मोती चुगैं ) 2",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 2,
-        "streams": [
-          {
-            "title": "Hansa To Moti Chuge (हंसा तो मोती चुगैं ) 2",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Hansa_To_Moti_Chuge_02.mp3"
-          }
-        ]
+        "episode": 2
       },
       {
         "id": "03_ow_hansa-to-moti-chuge-by-osho-01-10",
         "title": "Hansa To Moti Chuge (हंसा तो मोती चुगैं ) 3",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 3,
-        "streams": [
-          {
-            "title": "Hansa To Moti Chuge (हंसा तो मोती चुगैं ) 3",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Hansa_To_Moti_Chuge_03.mp3"
-          }
-        ]
+        "episode": 3
       },
       {
         "id": "04_ow_hansa-to-moti-chuge-by-osho-01-10",
         "title": "Hansa To Moti Chuge (हंसा तो मोती चुगैं ) 4",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 4,
-        "streams": [
-          {
-            "title": "Hansa To Moti Chuge (हंसा तो मोती चुगैं ) 4",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Hansa_To_Moti_Chuge_04.mp3"
-          }
-        ]
+        "episode": 4
       },
       {
         "id": "05_ow_hansa-to-moti-chuge-by-osho-01-10",
         "title": "Hansa To Moti Chuge (हंसा तो मोती चुगैं ) 5",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 5,
-        "streams": [
-          {
-            "title": "Hansa To Moti Chuge (हंसा तो मोती चुगैं ) 5",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Hansa_To_Moti_Chuge_05.mp3"
-          }
-        ]
+        "episode": 5
       },
       {
         "id": "06_ow_hansa-to-moti-chuge-by-osho-01-10",
         "title": "Hansa To Moti Chuge (हंसा तो मोती चुगैं ) 6",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 6,
-        "streams": [
-          {
-            "title": "Hansa To Moti Chuge (हंसा तो मोती चुगैं ) 6",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Hansa_To_Moti_Chuge_06.mp3"
-          }
-        ]
+        "episode": 6
       },
       {
         "id": "07_ow_hansa-to-moti-chuge-by-osho-01-10",
         "title": "Hansa To Moti Chuge (हंसा तो मोती चुगैं ) 7",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 7,
-        "streams": [
-          {
-            "title": "Hansa To Moti Chuge (हंसा तो मोती चुगैं ) 7",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Hansa_To_Moti_Chuge_07.mp3"
-          }
-        ]
+        "episode": 7
       },
       {
         "id": "08_ow_hansa-to-moti-chuge-by-osho-01-10",
         "title": "Hansa To Moti Chuge (हंसा तो मोती चुगैं ) 8",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 8,
-        "streams": [
-          {
-            "title": "Hansa To Moti Chuge (हंसा तो मोती चुगैं ) 8",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Hansa_To_Moti_Chuge_08.mp3"
-          }
-        ]
+        "episode": 8
       },
       {
         "id": "09_ow_hansa-to-moti-chuge-by-osho-01-10",
         "title": "Hansa To Moti Chuge (हंसा तो मोती चुगैं ) 9",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 9,
-        "streams": [
-          {
-            "title": "Hansa To Moti Chuge (हंसा तो मोती चुगैं ) 9",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Hansa_To_Moti_Chuge_09.mp3"
-          }
-        ]
+        "episode": 9
       },
       {
         "id": "10_ow_hansa-to-moti-chuge-by-osho-01-10",
         "title": "Hansa To Moti Chuge (हंसा तो मोती चुगैं ) 10",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 10,
-        "streams": [
-          {
-            "title": "Hansa To Moti Chuge (हंसा तो मोती चुगैं ) 10",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Hansa_To_Moti_Chuge_10.mp3"
-          }
-        ]
+        "episode": 10
       }
     ]
   }

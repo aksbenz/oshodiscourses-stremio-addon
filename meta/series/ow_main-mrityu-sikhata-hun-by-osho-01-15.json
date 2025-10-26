@@ -3,10 +3,10 @@
     "id": "ow_main-mrityu-sikhata-hun-by-osho-01-15",
     "name": "Main Mrityu Sikhata Hun # 01-15",
     "year": 1970,
-    "poster": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
+    "poster": "https://placehold.co/600x400?text=Main Mrityu Sikhata Hun",
     "posterShape": "regular",
-    "logo": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
-    "background": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
+    "logo": "https://placehold.co/600x400?text=Main Mrityu Sikhata Hun",
+    "background": "https://placehold.co/600x400?text=Main Mrityu Sikhata Hun",
     "isFree": true,
     "type": "series",
     "videos": [
@@ -15,195 +15,105 @@
         "title": "Main Mrityu Sikhata Hun 1",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 1,
-        "streams": [
-          {
-            "title": "Main Mrityu Sikhata Hun 1",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Main_Mrityu_Sikhata_Hun_01.mp3"
-          }
-        ]
+        "episode": 1
       },
       {
         "id": "02_ow_main-mrityu-sikhata-hun-by-osho-01-15",
         "title": "Main Mrityu Sikhata Hun 2",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 2,
-        "streams": [
-          {
-            "title": "Main Mrityu Sikhata Hun 2",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Main_Mrityu_Sikhata_Hun_02.mp3"
-          }
-        ]
+        "episode": 2
       },
       {
         "id": "03_ow_main-mrityu-sikhata-hun-by-osho-01-15",
         "title": "Main Mrityu Sikhata Hun 3",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 3,
-        "streams": [
-          {
-            "title": "Main Mrityu Sikhata Hun 3",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Main_Mrityu_Sikhata_Hun_03.mp3"
-          }
-        ]
+        "episode": 3
       },
       {
         "id": "04_ow_main-mrityu-sikhata-hun-by-osho-01-15",
         "title": "Main Mrityu Sikhata Hun 4",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 4,
-        "streams": [
-          {
-            "title": "Main Mrityu Sikhata Hun 4",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Main_Mrityu_Sikhata_Hun_04.mp3"
-          }
-        ]
+        "episode": 4
       },
       {
         "id": "05_ow_main-mrityu-sikhata-hun-by-osho-01-15",
         "title": "Main Mrityu Sikhata Hun 5",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 5,
-        "streams": [
-          {
-            "title": "Main Mrityu Sikhata Hun 5",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Main_Mrityu_Sikhata_Hun_05.mp3"
-          }
-        ]
+        "episode": 5
       },
       {
         "id": "06_ow_main-mrityu-sikhata-hun-by-osho-01-15",
         "title": "Main Mrityu Sikhata Hun 6",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 6,
-        "streams": [
-          {
-            "title": "Main Mrityu Sikhata Hun 6",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Main_Mrityu_Sikhata_Hun_06.mp3"
-          }
-        ]
+        "episode": 6
       },
       {
         "id": "07_ow_main-mrityu-sikhata-hun-by-osho-01-15",
         "title": "Main Mrityu Sikhata Hun 7",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 7,
-        "streams": [
-          {
-            "title": "Main Mrityu Sikhata Hun 7",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Main_Mrityu_Sikhata_Hun_07.mp3"
-          }
-        ]
+        "episode": 7
       },
       {
         "id": "08_ow_main-mrityu-sikhata-hun-by-osho-01-15",
         "title": "Main Mrityu Sikhata Hun 8",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 8,
-        "streams": [
-          {
-            "title": "Main Mrityu Sikhata Hun 8",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Main_Mrityu_Sikhata_Hun_08.mp3"
-          }
-        ]
+        "episode": 8
       },
       {
         "id": "09_ow_main-mrityu-sikhata-hun-by-osho-01-15",
         "title": "Main Mrityu Sikhata Hun 9",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 9,
-        "streams": [
-          {
-            "title": "Main Mrityu Sikhata Hun 9",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Main_Mrityu_Sikhata_Hun_09.mp3"
-          }
-        ]
+        "episode": 9
       },
       {
         "id": "10_ow_main-mrityu-sikhata-hun-by-osho-01-15",
         "title": "Main Mrityu Sikhata Hun 10",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 10,
-        "streams": [
-          {
-            "title": "Main Mrityu Sikhata Hun 10",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Main_Mrityu_Sikhata_Hun_10.mp3"
-          }
-        ]
+        "episode": 10
       },
       {
         "id": "11_ow_main-mrityu-sikhata-hun-by-osho-01-15",
         "title": "Main Mrityu Sikhata Hun 11",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 11,
-        "streams": [
-          {
-            "title": "Main Mrityu Sikhata Hun 11",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Main_Mrityu_Sikhata_Hun_11.mp3"
-          }
-        ]
+        "episode": 11
       },
       {
         "id": "12_ow_main-mrityu-sikhata-hun-by-osho-01-15",
         "title": "Main Mrityu Sikhata Hun 12",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 12,
-        "streams": [
-          {
-            "title": "Main Mrityu Sikhata Hun 12",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Main_Mrityu_Sikhata_Hun_12.mp3"
-          }
-        ]
+        "episode": 12
       },
       {
         "id": "13_ow_main-mrityu-sikhata-hun-by-osho-01-15",
         "title": "Main Mrityu Sikhata Hun 13",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 13,
-        "streams": [
-          {
-            "title": "Main Mrityu Sikhata Hun 13",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Main_Mrityu_Sikhata_Hun_13.mp3"
-          }
-        ]
+        "episode": 13
       },
       {
         "id": "14_ow_main-mrityu-sikhata-hun-by-osho-01-15",
         "title": "Main Mrityu Sikhata Hun 14",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 14,
-        "streams": [
-          {
-            "title": "Main Mrityu Sikhata Hun 14",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Main_Mrityu_Sikhata_Hun_14.mp3"
-          }
-        ]
+        "episode": 14
       },
       {
         "id": "15_ow_main-mrityu-sikhata-hun-by-osho-01-15",
         "title": "Main Mrityu Sikhata Hun 15",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 15,
-        "streams": [
-          {
-            "title": "Main Mrityu Sikhata Hun 15",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Main_Mrityu_Sikhata_Hun_15.mp3"
-          }
-        ]
+        "episode": 15
       }
     ]
   }

@@ -3,10 +3,10 @@
     "id": "ow_jin-sutra-by-osho-01-62",
     "name": "Jin Sutra # 01-62",
     "year": 1970,
-    "poster": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
+    "poster": "https://placehold.co/600x400?text=Jin Sutra",
     "posterShape": "regular",
-    "logo": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
-    "background": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
+    "logo": "https://placehold.co/600x400?text=Jin Sutra",
+    "background": "https://placehold.co/600x400?text=Jin Sutra",
     "isFree": true,
     "type": "series",
     "videos": [
@@ -15,806 +15,434 @@
         "title": "Jin Sutra 1",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 1,
-        "streams": [
-          {
-            "title": "Jin Sutra 1",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_01.mp3"
-          }
-        ]
+        "episode": 1
       },
       {
         "id": "02_ow_jin-sutra-by-osho-01-62",
         "title": "Jin Sutra 2",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 2,
-        "streams": [
-          {
-            "title": "Jin Sutra 2",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_02.mp3"
-          }
-        ]
+        "episode": 2
       },
       {
         "id": "03_ow_jin-sutra-by-osho-01-62",
         "title": "Jin Sutra 3",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 3,
-        "streams": [
-          {
-            "title": "Jin Sutra 3",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_03.mp3"
-          }
-        ]
+        "episode": 3
       },
       {
         "id": "04_ow_jin-sutra-by-osho-01-62",
         "title": "Jin Sutra 4",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 4,
-        "streams": [
-          {
-            "title": "Jin Sutra 4",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_04.mp3"
-          }
-        ]
+        "episode": 4
       },
       {
         "id": "05_ow_jin-sutra-by-osho-01-62",
         "title": "Jin Sutra 5",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 5,
-        "streams": [
-          {
-            "title": "Jin Sutra 5",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_05.mp3"
-          }
-        ]
+        "episode": 5
       },
       {
         "id": "06_ow_jin-sutra-by-osho-01-62",
         "title": "Jin Sutra 6",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 6,
-        "streams": [
-          {
-            "title": "Jin Sutra 6",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_06.mp3"
-          }
-        ]
+        "episode": 6
       },
       {
         "id": "07_ow_jin-sutra-by-osho-01-62",
         "title": "Jin Sutra 7",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 7,
-        "streams": [
-          {
-            "title": "Jin Sutra 7",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_07.mp3"
-          }
-        ]
+        "episode": 7
       },
       {
         "id": "08_ow_jin-sutra-by-osho-01-62",
         "title": "Jin Sutra 8",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 8,
-        "streams": [
-          {
-            "title": "Jin Sutra 8",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_08.mp3"
-          }
-        ]
+        "episode": 8
       },
       {
         "id": "09_ow_jin-sutra-by-osho-01-62",
         "title": "Jin Sutra 9",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 9,
-        "streams": [
-          {
-            "title": "Jin Sutra 9",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_09.mp3"
-          }
-        ]
+        "episode": 9
       },
       {
         "id": "10_ow_jin-sutra-by-osho-01-62",
         "title": "Jin Sutra 10",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 10,
-        "streams": [
-          {
-            "title": "Jin Sutra 10",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_10.mp3"
-          }
-        ]
+        "episode": 10
       },
       {
         "id": "11_ow_jin-sutra-by-osho-01-62",
         "title": "Jin Sutra 11",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 11,
-        "streams": [
-          {
-            "title": "Jin Sutra 11",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_11.mp3"
-          }
-        ]
+        "episode": 11
       },
       {
         "id": "12_ow_jin-sutra-by-osho-01-62",
         "title": "Jin Sutra 12",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 12,
-        "streams": [
-          {
-            "title": "Jin Sutra 12",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_12.mp3"
-          }
-        ]
+        "episode": 12
       },
       {
         "id": "13_ow_jin-sutra-by-osho-01-62",
         "title": "Jin Sutra 13",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 13,
-        "streams": [
-          {
-            "title": "Jin Sutra 13",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_13.mp3"
-          }
-        ]
+        "episode": 13
       },
       {
         "id": "14_ow_jin-sutra-by-osho-01-62",
         "title": "Jin Sutra 14",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 14,
-        "streams": [
-          {
-            "title": "Jin Sutra 14",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_14.mp3"
-          }
-        ]
+        "episode": 14
       },
       {
         "id": "15_ow_jin-sutra-by-osho-01-62",
         "title": "Jin Sutra 15",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 15,
-        "streams": [
-          {
-            "title": "Jin Sutra 15",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_15.mp3"
-          }
-        ]
+        "episode": 15
       },
       {
         "id": "16_ow_jin-sutra-by-osho-01-62",
         "title": "Jin Sutra 16",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 16,
-        "streams": [
-          {
-            "title": "Jin Sutra 16",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_16.mp3"
-          }
-        ]
+        "episode": 16
       },
       {
         "id": "17_ow_jin-sutra-by-osho-01-62",
         "title": "Jin Sutra 17",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 17,
-        "streams": [
-          {
-            "title": "Jin Sutra 17",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_17.mp3"
-          }
-        ]
+        "episode": 17
       },
       {
         "id": "18_ow_jin-sutra-by-osho-01-62",
         "title": "Jin Sutra 18",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 18,
-        "streams": [
-          {
-            "title": "Jin Sutra 18",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_18.mp3"
-          }
-        ]
+        "episode": 18
       },
       {
         "id": "19_ow_jin-sutra-by-osho-01-62",
         "title": "Jin Sutra 19",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 19,
-        "streams": [
-          {
-            "title": "Jin Sutra 19",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_19.mp3"
-          }
-        ]
+        "episode": 19
       },
       {
         "id": "20_ow_jin-sutra-by-osho-01-62",
         "title": "Jin Sutra 20",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 20,
-        "streams": [
-          {
-            "title": "Jin Sutra 20",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_20.mp3"
-          }
-        ]
+        "episode": 20
       },
       {
         "id": "21_ow_jin-sutra-by-osho-01-62",
         "title": "Jin Sutra 21",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 21,
-        "streams": [
-          {
-            "title": "Jin Sutra 21",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_21.mp3"
-          }
-        ]
+        "episode": 21
       },
       {
         "id": "22_ow_jin-sutra-by-osho-01-62",
         "title": "Jin Sutra 22",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 22,
-        "streams": [
-          {
-            "title": "Jin Sutra 22",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_22.mp3"
-          }
-        ]
+        "episode": 22
       },
       {
         "id": "23_ow_jin-sutra-by-osho-01-62",
         "title": "Jin Sutra 23",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 23,
-        "streams": [
-          {
-            "title": "Jin Sutra 23",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_23.mp3"
-          }
-        ]
+        "episode": 23
       },
       {
         "id": "24_ow_jin-sutra-by-osho-01-62",
         "title": "Jin Sutra 24",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 24,
-        "streams": [
-          {
-            "title": "Jin Sutra 24",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_24.mp3"
-          }
-        ]
+        "episode": 24
       },
       {
         "id": "25_ow_jin-sutra-by-osho-01-62",
         "title": "Jin Sutra 25",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 25,
-        "streams": [
-          {
-            "title": "Jin Sutra 25",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_25.mp3"
-          }
-        ]
+        "episode": 25
       },
       {
         "id": "26_ow_jin-sutra-by-osho-01-62",
         "title": "Jin Sutra 26",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 26,
-        "streams": [
-          {
-            "title": "Jin Sutra 26",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_26.mp3"
-          }
-        ]
+        "episode": 26
       },
       {
         "id": "27_ow_jin-sutra-by-osho-01-62",
         "title": "Jin Sutra 27",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 27,
-        "streams": [
-          {
-            "title": "Jin Sutra 27",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_27.mp3"
-          }
-        ]
+        "episode": 27
       },
       {
         "id": "28_ow_jin-sutra-by-osho-01-62",
         "title": "Jin Sutra 28",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 28,
-        "streams": [
-          {
-            "title": "Jin Sutra 28",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_28.mp3"
-          }
-        ]
+        "episode": 28
       },
       {
         "id": "29_ow_jin-sutra-by-osho-01-62",
         "title": "Jin Sutra 29",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 29,
-        "streams": [
-          {
-            "title": "Jin Sutra 29",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_29.mp3"
-          }
-        ]
+        "episode": 29
       },
       {
         "id": "30_ow_jin-sutra-by-osho-01-62",
         "title": "Jin Sutra 30",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 30,
-        "streams": [
-          {
-            "title": "Jin Sutra 30",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_30.mp3"
-          }
-        ]
+        "episode": 30
       },
       {
         "id": "31_ow_jin-sutra-by-osho-01-62",
         "title": "Jin Sutra 31",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 31,
-        "streams": [
-          {
-            "title": "Jin Sutra 31",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_31.mp3"
-          }
-        ]
+        "episode": 31
       },
       {
         "id": "32_ow_jin-sutra-by-osho-01-62",
         "title": "Jin Sutra 32",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 32,
-        "streams": [
-          {
-            "title": "Jin Sutra 32",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_32.mp3"
-          }
-        ]
+        "episode": 32
       },
       {
         "id": "33_ow_jin-sutra-by-osho-01-62",
         "title": "Jin Sutra 33",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 33,
-        "streams": [
-          {
-            "title": "Jin Sutra 33",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_33.mp3"
-          }
-        ]
+        "episode": 33
       },
       {
         "id": "34_ow_jin-sutra-by-osho-01-62",
         "title": "Jin Sutra 34",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 34,
-        "streams": [
-          {
-            "title": "Jin Sutra 34",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_34.mp3"
-          }
-        ]
+        "episode": 34
       },
       {
         "id": "35_ow_jin-sutra-by-osho-01-62",
         "title": "Jin Sutra 35",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 35,
-        "streams": [
-          {
-            "title": "Jin Sutra 35",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_35.mp3"
-          }
-        ]
+        "episode": 35
       },
       {
         "id": "36_ow_jin-sutra-by-osho-01-62",
         "title": "Jin Sutra 36",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 36,
-        "streams": [
-          {
-            "title": "Jin Sutra 36",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_36.mp3"
-          }
-        ]
+        "episode": 36
       },
       {
         "id": "37_ow_jin-sutra-by-osho-01-62",
         "title": "Jin Sutra 37",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 37,
-        "streams": [
-          {
-            "title": "Jin Sutra 37",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_37.mp3"
-          }
-        ]
+        "episode": 37
       },
       {
         "id": "38_ow_jin-sutra-by-osho-01-62",
         "title": "Jin Sutra 38",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 38,
-        "streams": [
-          {
-            "title": "Jin Sutra 38",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_38.mp3"
-          }
-        ]
+        "episode": 38
       },
       {
         "id": "39_ow_jin-sutra-by-osho-01-62",
         "title": "Jin Sutra 39",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 39,
-        "streams": [
-          {
-            "title": "Jin Sutra 39",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_39.mp3"
-          }
-        ]
+        "episode": 39
       },
       {
         "id": "40_ow_jin-sutra-by-osho-01-62",
         "title": "Jin Sutra 40",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 40,
-        "streams": [
-          {
-            "title": "Jin Sutra 40",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_40.mp3"
-          }
-        ]
+        "episode": 40
       },
       {
         "id": "41_ow_jin-sutra-by-osho-01-62",
         "title": "Jin Sutra 41",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 41,
-        "streams": [
-          {
-            "title": "Jin Sutra 41",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_41.mp3"
-          }
-        ]
+        "episode": 41
       },
       {
         "id": "42_ow_jin-sutra-by-osho-01-62",
         "title": "Jin Sutra 42",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 42,
-        "streams": [
-          {
-            "title": "Jin Sutra 42",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_42.mp3"
-          }
-        ]
+        "episode": 42
       },
       {
         "id": "43_ow_jin-sutra-by-osho-01-62",
         "title": "Jin Sutra 43",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 43,
-        "streams": [
-          {
-            "title": "Jin Sutra 43",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_43.mp3"
-          }
-        ]
+        "episode": 43
       },
       {
         "id": "44_ow_jin-sutra-by-osho-01-62",
         "title": "Jin Sutra 44",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 44,
-        "streams": [
-          {
-            "title": "Jin Sutra 44",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_44.mp3"
-          }
-        ]
+        "episode": 44
       },
       {
         "id": "45_ow_jin-sutra-by-osho-01-62",
         "title": "Jin Sutra 45",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 45,
-        "streams": [
-          {
-            "title": "Jin Sutra 45",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_45.mp3"
-          }
-        ]
+        "episode": 45
       },
       {
         "id": "46_ow_jin-sutra-by-osho-01-62",
         "title": "Jin Sutra 46",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 46,
-        "streams": [
-          {
-            "title": "Jin Sutra 46",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_46.mp3"
-          }
-        ]
+        "episode": 46
       },
       {
         "id": "47_ow_jin-sutra-by-osho-01-62",
         "title": "Jin Sutra 47",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 47,
-        "streams": [
-          {
-            "title": "Jin Sutra 47",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_47.mp3"
-          }
-        ]
+        "episode": 47
       },
       {
         "id": "48_ow_jin-sutra-by-osho-01-62",
         "title": "Jin Sutra 48",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 48,
-        "streams": [
-          {
-            "title": "Jin Sutra 48",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_48.mp3"
-          }
-        ]
+        "episode": 48
       },
       {
         "id": "49_ow_jin-sutra-by-osho-01-62",
         "title": "Jin Sutra 49",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 49,
-        "streams": [
-          {
-            "title": "Jin Sutra 49",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_49.mp3"
-          }
-        ]
+        "episode": 49
       },
       {
         "id": "50_ow_jin-sutra-by-osho-01-62",
         "title": "Jin Sutra 50",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 50,
-        "streams": [
-          {
-            "title": "Jin Sutra 50",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_50.mp3"
-          }
-        ]
+        "episode": 50
       },
       {
         "id": "51_ow_jin-sutra-by-osho-01-62",
         "title": "Jin Sutra 51",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 51,
-        "streams": [
-          {
-            "title": "Jin Sutra 51",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_51.mp3"
-          }
-        ]
+        "episode": 51
       },
       {
         "id": "52_ow_jin-sutra-by-osho-01-62",
         "title": "Jin Sutra 52",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 52,
-        "streams": [
-          {
-            "title": "Jin Sutra 52",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_52.mp3"
-          }
-        ]
+        "episode": 52
       },
       {
         "id": "53_ow_jin-sutra-by-osho-01-62",
         "title": "Jin Sutra 53",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 53,
-        "streams": [
-          {
-            "title": "Jin Sutra 53",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_53.mp3"
-          }
-        ]
+        "episode": 53
       },
       {
         "id": "54_ow_jin-sutra-by-osho-01-62",
         "title": "Jin Sutra 54",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 54,
-        "streams": [
-          {
-            "title": "Jin Sutra 54",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_54.mp3"
-          }
-        ]
+        "episode": 54
       },
       {
         "id": "55_ow_jin-sutra-by-osho-01-62",
         "title": "Jin Sutra 55",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 55,
-        "streams": [
-          {
-            "title": "Jin Sutra 55",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_55.mp3"
-          }
-        ]
+        "episode": 55
       },
       {
         "id": "56_ow_jin-sutra-by-osho-01-62",
         "title": "Jin Sutra 56",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 56,
-        "streams": [
-          {
-            "title": "Jin Sutra 56",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_56.mp3"
-          }
-        ]
+        "episode": 56
       },
       {
         "id": "57_ow_jin-sutra-by-osho-01-62",
         "title": "Jin Sutra 57",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 57,
-        "streams": [
-          {
-            "title": "Jin Sutra 57",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_57.mp3"
-          }
-        ]
+        "episode": 57
       },
       {
         "id": "58_ow_jin-sutra-by-osho-01-62",
         "title": "Jin Sutra 58",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 58,
-        "streams": [
-          {
-            "title": "Jin Sutra 58",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_58.mp3"
-          }
-        ]
+        "episode": 58
       },
       {
         "id": "59_ow_jin-sutra-by-osho-01-62",
         "title": "Jin Sutra 59",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 59,
-        "streams": [
-          {
-            "title": "Jin Sutra 59",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_59.mp3"
-          }
-        ]
+        "episode": 59
       },
       {
         "id": "60_ow_jin-sutra-by-osho-01-62",
         "title": "Jin Sutra 60",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 60,
-        "streams": [
-          {
-            "title": "Jin Sutra 60",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_60.mp3"
-          }
-        ]
+        "episode": 60
       },
       {
         "id": "61_ow_jin-sutra-by-osho-01-62",
         "title": "Jin Sutra 61",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 61,
-        "streams": [
-          {
-            "title": "Jin Sutra 61",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_61.mp3"
-          }
-        ]
+        "episode": 61
       },
       {
         "id": "62_ow_jin-sutra-by-osho-01-62",
         "title": "Jin Sutra 62",
         "released": "1970-01-01T00:00:00.000Z",
         "season": 1,
-        "episode": 62,
-        "streams": [
-          {
-            "title": "Jin Sutra 62",
-            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_62.mp3"
-          }
-        ]
+        "episode": 62
       }
     ]
   }

@@ -1,0 +1,106 @@
+{
+  "meta": {
+    "id": "ow_167-swayam-ki-satta-01-07",
+    "name": "Swayam Ki Satta # 01-07",
+    "year": 1970,
+    "poster": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
+    "posterShape": "regular",
+    "logo": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
+    "background": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
+    "isFree": true,
+    "type": "series",
+    "videos": [
+      {
+        "id": "01_ow_167-swayam-ki-satta-01-07",
+        "title": "Swayam Ki Satta 1",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "title": "Swayam Ki Satta 1",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Swayam_Ki_Satta_01.mp3"
+          }
+        ]
+      },
+      {
+        "id": "02_ow_167-swayam-ki-satta-01-07",
+        "title": "Swayam Ki Satta 2",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "title": "Swayam Ki Satta 2",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Swayam_Ki_Satta_02.mp3"
+          }
+        ]
+      },
+      {
+        "id": "03_ow_167-swayam-ki-satta-01-07",
+        "title": "Swayam Ki Satta 3",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 3,
+        "streams": [
+          {
+            "title": "Swayam Ki Satta 3",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Swayam_Ki_Satta_03.mp3"
+          }
+        ]
+      },
+      {
+        "id": "04_ow_167-swayam-ki-satta-01-07",
+        "title": "Swayam Ki Satta 4",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 4,
+        "streams": [
+          {
+            "title": "Swayam Ki Satta 4",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Swayam_Ki_Satta_04.mp3"
+          }
+        ]
+      },
+      {
+        "id": "05_ow_167-swayam-ki-satta-01-07",
+        "title": "Swayam Ki Satta 5",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 5,
+        "streams": [
+          {
+            "title": "Swayam Ki Satta 5",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Swayam_Ki_Satta_05.mp3"
+          }
+        ]
+      },
+      {
+        "id": "06_ow_167-swayam-ki-satta-01-07",
+        "title": "Swayam Ki Satta 6",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 6,
+        "streams": [
+          {
+            "title": "Swayam Ki Satta 6",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Swayam_Ki_Satta_06.mp3"
+          }
+        ]
+      },
+      {
+        "id": "07_ow_167-swayam-ki-satta-01-07",
+        "title": "Swayam Ki Satta 7",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 7,
+        "streams": [
+          {
+            "title": "Swayam Ki Satta 7",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Swayam_Ki_Satta_07.mp3"
+          }
+        ]
+      }
+    ]
+  }
+}

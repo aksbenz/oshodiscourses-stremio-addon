@@ -1,0 +1,132 @@
+{
+  "meta": {
+    "id": "ow_rom-rom-ras-peejiye-by-osho-01-09",
+    "name": "Rom Rom Ras Peejiye # 01-09",
+    "year": 1970,
+    "poster": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
+    "posterShape": "regular",
+    "logo": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
+    "background": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
+    "isFree": true,
+    "type": "series",
+    "videos": [
+      {
+        "id": "01_ow_rom-rom-ras-peejiye-by-osho-01-09",
+        "title": "Rom Rom Ras Peejiye 1",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "title": "Rom Rom Ras Peejiye 1",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Rom_Rom_Ras_Peejiye_01.mp3"
+          }
+        ]
+      },
+      {
+        "id": "02_ow_rom-rom-ras-peejiye-by-osho-01-09",
+        "title": "Rom Rom Ras Peejiye 2",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "title": "Rom Rom Ras Peejiye 2",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Rom_Rom_Ras_Peejiye_02.mp3"
+          }
+        ]
+      },
+      {
+        "id": "03_ow_rom-rom-ras-peejiye-by-osho-01-09",
+        "title": "Rom Rom Ras Peejiye 3",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 3,
+        "streams": [
+          {
+            "title": "Rom Rom Ras Peejiye 3",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Rom_Rom_Ras_Peejiye_03.mp3"
+          }
+        ]
+      },
+      {
+        "id": "04_ow_rom-rom-ras-peejiye-by-osho-01-09",
+        "title": "Rom Rom Ras Peejiye 4",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 4,
+        "streams": [
+          {
+            "title": "Rom Rom Ras Peejiye 4",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Rom_Rom_Ras_Peejiye_04.mp3"
+          }
+        ]
+      },
+      {
+        "id": "05_ow_rom-rom-ras-peejiye-by-osho-01-09",
+        "title": "Rom Rom Ras Peejiye 5",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 5,
+        "streams": [
+          {
+            "title": "Rom Rom Ras Peejiye 5",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Rom_Rom_Ras_Peejiye_05.mp3"
+          }
+        ]
+      },
+      {
+        "id": "06_ow_rom-rom-ras-peejiye-by-osho-01-09",
+        "title": "Rom Rom Ras Peejiye 6",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 6,
+        "streams": [
+          {
+            "title": "Rom Rom Ras Peejiye 6",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Rom_Rom_Ras_Peejiye_06.mp3"
+          }
+        ]
+      },
+      {
+        "id": "07_ow_rom-rom-ras-peejiye-by-osho-01-09",
+        "title": "Rom Rom Ras Peejiye 7",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 7,
+        "streams": [
+          {
+            "title": "Rom Rom Ras Peejiye 7",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Rom_Rom_Ras_Peejiye_07.mp3"
+          }
+        ]
+      },
+      {
+        "id": "08_ow_rom-rom-ras-peejiye-by-osho-01-09",
+        "title": "Rom Rom Ras Peejiye 8",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 8,
+        "streams": [
+          {
+            "title": "Rom Rom Ras Peejiye 8",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Rom_Rom_Ras_Peejiye_08.mp3"
+          }
+        ]
+      },
+      {
+        "id": "09_ow_rom-rom-ras-peejiye-by-osho-01-09",
+        "title": "Rom Rom Ras Peejiye 9",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 9,
+        "streams": [
+          {
+            "title": "Rom Rom Ras Peejiye 9",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Rom_Rom_Ras_Peejiye_09.mp3"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "meta": {
+    "id": "ow_dhyan-sutra-by-osho-1-9",
+    "name": "Dhyan-Sutra (ध्यान-सूत्र) # 1-9",
+    "year": 1970,
+    "poster": "https://oshoworld.com/uploads/200px-Dhyan_Sutra_cover.jpg",
+    "posterShape": "regular",
+    "logo": "https://oshoworld.com/uploads/200px-Dhyan_Sutra_cover.jpg",
+    "background": "https://oshoworld.com/uploads/200px-Dhyan_Sutra_cover.jpg",
+    "isFree": true,
+    "type": "series",
+    "videos": [
+      {
+        "id": "01_ow_dhyan-sutra-by-osho-1-9",
+        "title": "Dhyan-Sutra (ध्यान-सूत्र) 1",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "title": "Dhyan-Sutra (ध्यान-सूत्र) 1",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dhyan_Sutra_01.mp3"
+          }
+        ]
+      },
+      {
+        "id": "02_ow_dhyan-sutra-by-osho-1-9",
+        "title": "Dhyan-Sutra (ध्यान-सूत्र) 2",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "title": "Dhyan-Sutra (ध्यान-सूत्र) 2",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dhyan_Sutra_02.mp3"
+          }
+        ]
+      },
+      {
+        "id": "03_ow_dhyan-sutra-by-osho-1-9",
+        "title": "Dhyan-Sutra (ध्यान-सूत्र) 3",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 3,
+        "streams": [
+          {
+            "title": "Dhyan-Sutra (ध्यान-सूत्र) 3",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dhyan_Sutra_03.mp3"
+          }
+        ]
+      },
+      {
+        "id": "04_ow_dhyan-sutra-by-osho-1-9",
+        "title": "Dhyan-Sutra (ध्यान-सूत्र) 4",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 4,
+        "streams": [
+          {
+            "title": "Dhyan-Sutra (ध्यान-सूत्र) 4",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dhyan_Sutra_04.mp3"
+          }
+        ]
+      },
+      {
+        "id": "05_ow_dhyan-sutra-by-osho-1-9",
+        "title": "Dhyan-Sutra (ध्यान-सूत्र) 5",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 5,
+        "streams": [
+          {
+            "title": "Dhyan-Sutra (ध्यान-सूत्र) 5",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dhyan_Sutra_05.mp3"
+          }
+        ]
+      },
+      {
+        "id": "06_ow_dhyan-sutra-by-osho-1-9",
+        "title": "Dhyan-Sutra (ध्यान-सूत्र) 6",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 6,
+        "streams": [
+          {
+            "title": "Dhyan-Sutra (ध्यान-सूत्र) 6",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dhyan_Sutra_06.mp3"
+          }
+        ]
+      },
+      {
+        "id": "07_ow_dhyan-sutra-by-osho-1-9",
+        "title": "Dhyan-Sutra (ध्यान-सूत्र) 7",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 7,
+        "streams": [
+          {
+            "title": "Dhyan-Sutra (ध्यान-सूत्र) 7",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dhyan_Sutra_07.mp3"
+          }
+        ]
+      },
+      {
+        "id": "08_ow_dhyan-sutra-by-osho-1-9",
+        "title": "Dhyan-Sutra (ध्यान-सूत्र) 8",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 8,
+        "streams": [
+          {
+            "title": "Dhyan-Sutra (ध्यान-सूत्र) 8",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dhyan_Sutra_08.mp3"
+          }
+        ]
+      },
+      {
+        "id": "09_ow_dhyan-sutra-by-osho-1-9",
+        "title": "Dhyan-Sutra (ध्यान-सूत्र) 9",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 9,
+        "streams": [
+          {
+            "title": "Dhyan-Sutra (ध्यान-सूत्र) 9",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dhyan_Sutra_09.mp3"
+          }
+        ]
+      }
+    ]
+  }
+}

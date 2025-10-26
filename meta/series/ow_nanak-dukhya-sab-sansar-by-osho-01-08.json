@@ -1,0 +1,119 @@
+{
+  "meta": {
+    "id": "ow_nanak-dukhya-sab-sansar-by-osho-01-08",
+    "name": "Nanak Dukhya Sab Sansar # 01-08",
+    "year": 1970,
+    "poster": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
+    "posterShape": "regular",
+    "logo": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
+    "background": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
+    "isFree": true,
+    "type": "series",
+    "videos": [
+      {
+        "id": "01_ow_nanak-dukhya-sab-sansar-by-osho-01-08",
+        "title": "Nanak Dukhya Sab Sansar 1",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "title": "Nanak Dukhya Sab Sansar 1",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Nanak_Dukhya_Sab_Sansar_01.mp3"
+          }
+        ]
+      },
+      {
+        "id": "02_ow_nanak-dukhya-sab-sansar-by-osho-01-08",
+        "title": "Nanak Dukhya Sab Sansar 2",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "title": "Nanak Dukhya Sab Sansar 2",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Nanak_Dukhya_Sab_Sansar_02.mp3"
+          }
+        ]
+      },
+      {
+        "id": "03_ow_nanak-dukhya-sab-sansar-by-osho-01-08",
+        "title": "Nanak Dukhya Sab Sansar 3",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 3,
+        "streams": [
+          {
+            "title": "Nanak Dukhya Sab Sansar 3",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Nanak_Dukhya_Sab_Sansar_03.mp3"
+          }
+        ]
+      },
+      {
+        "id": "04_ow_nanak-dukhya-sab-sansar-by-osho-01-08",
+        "title": "Nanak Dukhya Sab Sansar 4",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 4,
+        "streams": [
+          {
+            "title": "Nanak Dukhya Sab Sansar 4",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Nanak_Dukhya_Sab_Sansar_04.mp3"
+          }
+        ]
+      },
+      {
+        "id": "05_ow_nanak-dukhya-sab-sansar-by-osho-01-08",
+        "title": "Nanak Dukhya Sab Sansar 5",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 5,
+        "streams": [
+          {
+            "title": "Nanak Dukhya Sab Sansar 5",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Nanak_Dukhya_Sab_Sansar_05.mp3"
+          }
+        ]
+      },
+      {
+        "id": "06_ow_nanak-dukhya-sab-sansar-by-osho-01-08",
+        "title": "Nanak Dukhya Sab Sansar 6",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 6,
+        "streams": [
+          {
+            "title": "Nanak Dukhya Sab Sansar 6",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Nanak_Dukhya_Sab_Sansar_06.mp3"
+          }
+        ]
+      },
+      {
+        "id": "07_ow_nanak-dukhya-sab-sansar-by-osho-01-08",
+        "title": "Nanak Dukhya Sab Sansar 7",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 7,
+        "streams": [
+          {
+            "title": "Nanak Dukhya Sab Sansar 7",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Nanak_Dukhya_Sab_Sansar_07.mp3"
+          }
+        ]
+      },
+      {
+        "id": "08_ow_nanak-dukhya-sab-sansar-by-osho-01-08",
+        "title": "Nanak Dukhya Sab Sansar 8",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 8,
+        "streams": [
+          {
+            "title": "Nanak Dukhya Sab Sansar 8",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Nanak_Dukhya_Sab_Sansar_08.mp3"
+          }
+        ]
+      }
+    ]
+  }
+}

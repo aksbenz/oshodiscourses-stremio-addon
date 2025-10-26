@@ -1,0 +1,119 @@
+{
+  "meta": {
+    "id": "ow_jo-ghar-bare-aapna-by-osho-01-08",
+    "name": "Jo Ghar Bare Aapna # 01-08",
+    "year": 1970,
+    "poster": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
+    "posterShape": "regular",
+    "logo": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
+    "background": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
+    "isFree": true,
+    "type": "series",
+    "videos": [
+      {
+        "id": "01_ow_jo-ghar-bare-aapna-by-osho-01-08",
+        "title": "Jo Ghar Bare Aapna 1",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "title": "Jo Ghar Bare Aapna 1",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jo_Ghar_Bare_Aapna_01.mp3"
+          }
+        ]
+      },
+      {
+        "id": "02_ow_jo-ghar-bare-aapna-by-osho-01-08",
+        "title": "Jo Ghar Bare Aapna 2",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "title": "Jo Ghar Bare Aapna 2",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jo_Ghar_Bare_Aapna_02.mp3"
+          }
+        ]
+      },
+      {
+        "id": "03_ow_jo-ghar-bare-aapna-by-osho-01-08",
+        "title": "Jo Ghar Bare Aapna 3",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 3,
+        "streams": [
+          {
+            "title": "Jo Ghar Bare Aapna 3",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jo_Ghar_Bare_Aapna_03.mp3"
+          }
+        ]
+      },
+      {
+        "id": "04_ow_jo-ghar-bare-aapna-by-osho-01-08",
+        "title": "Jo Ghar Bare Aapna 4",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 4,
+        "streams": [
+          {
+            "title": "Jo Ghar Bare Aapna 4",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jo_Ghar_Bare_Aapna_04.mp3"
+          }
+        ]
+      },
+      {
+        "id": "05_ow_jo-ghar-bare-aapna-by-osho-01-08",
+        "title": "Jo Ghar Bare Aapna 5",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 5,
+        "streams": [
+          {
+            "title": "Jo Ghar Bare Aapna 5",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jo_Ghar_Bare_Aapna_05.mp3"
+          }
+        ]
+      },
+      {
+        "id": "06_ow_jo-ghar-bare-aapna-by-osho-01-08",
+        "title": "Jo Ghar Bare Aapna 6",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 6,
+        "streams": [
+          {
+            "title": "Jo Ghar Bare Aapna 6",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jo_Ghar_Bare_Aapna_06.mp3"
+          }
+        ]
+      },
+      {
+        "id": "07_ow_jo-ghar-bare-aapna-by-osho-01-08",
+        "title": "Jo Ghar Bare Aapna 7",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 7,
+        "streams": [
+          {
+            "title": "Jo Ghar Bare Aapna 7",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jo_Ghar_Bare_Aapna_07.mp3"
+          }
+        ]
+      },
+      {
+        "id": "08_ow_jo-ghar-bare-aapna-by-osho-01-08",
+        "title": "Jo Ghar Bare Aapna 8",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 8,
+        "streams": [
+          {
+            "title": "Jo Ghar Bare Aapna 8",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jo_Ghar_Bare_Aapna_08.mp3"
+          }
+        ]
+      }
+    ]
+  }
+}

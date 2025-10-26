@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "id": "ow_yog-naye-aayam-by-osho-01-06",
+    "name": "Yog Naye Aayam # 01-06",
+    "year": 1970,
+    "poster": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
+    "posterShape": "regular",
+    "logo": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
+    "background": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
+    "isFree": true,
+    "type": "series",
+    "videos": [
+      {
+        "id": "01_ow_yog-naye-aayam-by-osho-01-06",
+        "title": "Yog Naye Aayam 1",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "title": "Yog Naye Aayam 1",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Yog_Naye_Aayam_01.mp3"
+          }
+        ]
+      },
+      {
+        "id": "02_ow_yog-naye-aayam-by-osho-01-06",
+        "title": "Yog Naye Aayam 2",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "title": "Yog Naye Aayam 2",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Yog_Naye_Aayam_02.mp3"
+          }
+        ]
+      },
+      {
+        "id": "03_ow_yog-naye-aayam-by-osho-01-06",
+        "title": "Yog Naye Aayam 3",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 3,
+        "streams": [
+          {
+            "title": "Yog Naye Aayam 3",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Yog_Naye_Aayam_03.mp3"
+          }
+        ]
+      },
+      {
+        "id": "04_ow_yog-naye-aayam-by-osho-01-06",
+        "title": "Yog Naye Aayam 4",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 4,
+        "streams": [
+          {
+            "title": "Yog Naye Aayam 4",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Yog_Naye_Aayam_04.mp3"
+          }
+        ]
+      },
+      {
+        "id": "05_ow_yog-naye-aayam-by-osho-01-06",
+        "title": "Yog Naye Aayam 5",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 5,
+        "streams": [
+          {
+            "title": "Yog Naye Aayam 5",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Yog_Naye_Aayam_05.mp3"
+          }
+        ]
+      },
+      {
+        "id": "06_ow_yog-naye-aayam-by-osho-01-06",
+        "title": "Yog Naye Aayam 6",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 6,
+        "streams": [
+          {
+            "title": "Yog Naye Aayam 6",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Yog_Naye_Aayam_06.mp3"
+          }
+        ]
+      }
+    ]
+  }
+}

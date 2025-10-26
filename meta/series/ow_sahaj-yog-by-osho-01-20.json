@@ -1,0 +1,275 @@
+{
+  "meta": {
+    "id": "ow_sahaj-yog-by-osho-01-20",
+    "name": "Sahaj Yog # 01-20",
+    "year": 1970,
+    "poster": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
+    "posterShape": "regular",
+    "logo": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
+    "background": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
+    "isFree": true,
+    "type": "series",
+    "videos": [
+      {
+        "id": "01_ow_sahaj-yog-by-osho-01-20",
+        "title": "Sahaj Yog 1",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "title": "Sahaj Yog 1",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sahaj_Yog_01.mp3"
+          }
+        ]
+      },
+      {
+        "id": "02_ow_sahaj-yog-by-osho-01-20",
+        "title": "Sahaj Yog 2",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "title": "Sahaj Yog 2",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sahaj_Yog_02.mp3"
+          }
+        ]
+      },
+      {
+        "id": "03_ow_sahaj-yog-by-osho-01-20",
+        "title": "Sahaj Yog 3",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 3,
+        "streams": [
+          {
+            "title": "Sahaj Yog 3",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sahaj_Yog_03.mp3"
+          }
+        ]
+      },
+      {
+        "id": "04_ow_sahaj-yog-by-osho-01-20",
+        "title": "Sahaj Yog 4",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 4,
+        "streams": [
+          {
+            "title": "Sahaj Yog 4",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sahaj_Yog_04.mp3"
+          }
+        ]
+      },
+      {
+        "id": "05_ow_sahaj-yog-by-osho-01-20",
+        "title": "Sahaj Yog 5",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 5,
+        "streams": [
+          {
+            "title": "Sahaj Yog 5",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sahaj_Yog_05.mp3"
+          }
+        ]
+      },
+      {
+        "id": "06_ow_sahaj-yog-by-osho-01-20",
+        "title": "Sahaj Yog 6",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 6,
+        "streams": [
+          {
+            "title": "Sahaj Yog 6",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sahaj_Yog_06.mp3"
+          }
+        ]
+      },
+      {
+        "id": "07_ow_sahaj-yog-by-osho-01-20",
+        "title": "Sahaj Yog 7",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 7,
+        "streams": [
+          {
+            "title": "Sahaj Yog 7",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sahaj_Yog_07.mp3"
+          }
+        ]
+      },
+      {
+        "id": "08_ow_sahaj-yog-by-osho-01-20",
+        "title": "Sahaj Yog 8",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 8,
+        "streams": [
+          {
+            "title": "Sahaj Yog 8",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sahaj_Yog_08.mp3"
+          }
+        ]
+      },
+      {
+        "id": "09_ow_sahaj-yog-by-osho-01-20",
+        "title": "Sahaj Yog 9",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 9,
+        "streams": [
+          {
+            "title": "Sahaj Yog 9",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sahaj_Yog_09.mp3"
+          }
+        ]
+      },
+      {
+        "id": "10_ow_sahaj-yog-by-osho-01-20",
+        "title": "Sahaj Yog 10",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 10,
+        "streams": [
+          {
+            "title": "Sahaj Yog 10",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sahaj_Yog_10.mp3"
+          }
+        ]
+      },
+      {
+        "id": "11_ow_sahaj-yog-by-osho-01-20",
+        "title": "Sahaj Yog 11",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 11,
+        "streams": [
+          {
+            "title": "Sahaj Yog 11",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sahaj_Yog_11.mp3"
+          }
+        ]
+      },
+      {
+        "id": "12_ow_sahaj-yog-by-osho-01-20",
+        "title": "Sahaj Yog 12",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 12,
+        "streams": [
+          {
+            "title": "Sahaj Yog 12",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sahaj_Yog_12.mp3"
+          }
+        ]
+      },
+      {
+        "id": "13_ow_sahaj-yog-by-osho-01-20",
+        "title": "Sahaj Yog 13",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 13,
+        "streams": [
+          {
+            "title": "Sahaj Yog 13",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sahaj_Yog_13.mp3"
+          }
+        ]
+      },
+      {
+        "id": "14_ow_sahaj-yog-by-osho-01-20",
+        "title": "Sahaj Yog 14",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 14,
+        "streams": [
+          {
+            "title": "Sahaj Yog 14",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sahaj_Yog_14.mp3"
+          }
+        ]
+      },
+      {
+        "id": "15_ow_sahaj-yog-by-osho-01-20",
+        "title": "Sahaj Yog 15",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 15,
+        "streams": [
+          {
+            "title": "Sahaj Yog 15",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sahaj_Yog_15.mp3"
+          }
+        ]
+      },
+      {
+        "id": "16_ow_sahaj-yog-by-osho-01-20",
+        "title": "Sahaj Yog 16",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 16,
+        "streams": [
+          {
+            "title": "Sahaj Yog 16",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sahaj_Yog_16.mp3"
+          }
+        ]
+      },
+      {
+        "id": "17_ow_sahaj-yog-by-osho-01-20",
+        "title": "Sahaj Yog 17",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 17,
+        "streams": [
+          {
+            "title": "Sahaj Yog 17",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sahaj_Yog_17.mp3"
+          }
+        ]
+      },
+      {
+        "id": "18_ow_sahaj-yog-by-osho-01-20",
+        "title": "Sahaj Yog 18",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 18,
+        "streams": [
+          {
+            "title": "Sahaj Yog 18",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sahaj_Yog_18.mp3"
+          }
+        ]
+      },
+      {
+        "id": "19_ow_sahaj-yog-by-osho-01-20",
+        "title": "Sahaj Yog 19",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 19,
+        "streams": [
+          {
+            "title": "Sahaj Yog 19",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sahaj_Yog_19.mp3"
+          }
+        ]
+      },
+      {
+        "id": "20_ow_sahaj-yog-by-osho-01-20",
+        "title": "Sahaj Yog 20",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 20,
+        "streams": [
+          {
+            "title": "Sahaj Yog 20",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sahaj_Yog_20.mp3"
+          }
+        ]
+      }
+    ]
+  }
+}

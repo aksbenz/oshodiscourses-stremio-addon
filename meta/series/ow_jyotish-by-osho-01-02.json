@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "id": "ow_jyotish-by-osho-01-02",
+    "name": "Jyotish # 01-02",
+    "year": 1970,
+    "poster": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
+    "posterShape": "regular",
+    "logo": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
+    "background": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
+    "isFree": true,
+    "type": "series",
+    "videos": [
+      {
+        "id": "01_ow_jyotish-by-osho-01-02",
+        "title": "Jyotish 1",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "title": "Jyotish 1",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyotish_Adwait_Ka_Vigyan_01.mp3"
+          }
+        ]
+      },
+      {
+        "id": "02_ow_jyotish-by-osho-01-02",
+        "title": "Jyotish 2",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "title": "Jyotish 2",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyotish_Adwait_Ka_Vigyan_02.mp3"
+          }
+        ]
+      }
+    ]
+  }
+}

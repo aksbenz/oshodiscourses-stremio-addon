@@ -1,0 +1,275 @@
+{
+  "meta": {
+    "id": "ow_ek-omkar-satnam-by-osho-01-20",
+    "name": "Ek Omkar Satnam # 01-20",
+    "year": 1970,
+    "poster": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
+    "posterShape": "regular",
+    "logo": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
+    "background": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
+    "isFree": true,
+    "type": "series",
+    "videos": [
+      {
+        "id": "01_ow_ek-omkar-satnam-by-osho-01-20",
+        "title": "Ek Omkar Satnam 1",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "title": "Ek Omkar Satnam 1",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ek_Omkar_Satnam_01.mp3"
+          }
+        ]
+      },
+      {
+        "id": "02_ow_ek-omkar-satnam-by-osho-01-20",
+        "title": "Ek Omkar Satnam 2",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "title": "Ek Omkar Satnam 2",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ek_Omkar_Satnam_02.mp3"
+          }
+        ]
+      },
+      {
+        "id": "03_ow_ek-omkar-satnam-by-osho-01-20",
+        "title": "Ek Omkar Satnam 3",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 3,
+        "streams": [
+          {
+            "title": "Ek Omkar Satnam 3",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ek_Omkar_Satnam_03.mp3"
+          }
+        ]
+      },
+      {
+        "id": "04_ow_ek-omkar-satnam-by-osho-01-20",
+        "title": "Ek Omkar Satnam 4",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 4,
+        "streams": [
+          {
+            "title": "Ek Omkar Satnam 4",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ek_Omkar_Satnam_04.mp3"
+          }
+        ]
+      },
+      {
+        "id": "05_ow_ek-omkar-satnam-by-osho-01-20",
+        "title": "Ek Omkar Satnam 5",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 5,
+        "streams": [
+          {
+            "title": "Ek Omkar Satnam 5",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ek_Omkar_Satnam_05.mp3"
+          }
+        ]
+      },
+      {
+        "id": "06_ow_ek-omkar-satnam-by-osho-01-20",
+        "title": "Ek Omkar Satnam 6",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 6,
+        "streams": [
+          {
+            "title": "Ek Omkar Satnam 6",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ek_Omkar_Satnam_06.mp3"
+          }
+        ]
+      },
+      {
+        "id": "07_ow_ek-omkar-satnam-by-osho-01-20",
+        "title": "Ek Omkar Satnam 7",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 7,
+        "streams": [
+          {
+            "title": "Ek Omkar Satnam 7",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ek_Omkar_Satnam_07.mp3"
+          }
+        ]
+      },
+      {
+        "id": "08_ow_ek-omkar-satnam-by-osho-01-20",
+        "title": "Ek Omkar Satnam 8",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 8,
+        "streams": [
+          {
+            "title": "Ek Omkar Satnam 8",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ek_Omkar_Satnam_08.mp3"
+          }
+        ]
+      },
+      {
+        "id": "09_ow_ek-omkar-satnam-by-osho-01-20",
+        "title": "Ek Omkar Satnam 9",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 9,
+        "streams": [
+          {
+            "title": "Ek Omkar Satnam 9",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ek_Omkar_Satnam_09.mp3"
+          }
+        ]
+      },
+      {
+        "id": "10_ow_ek-omkar-satnam-by-osho-01-20",
+        "title": "Ek Omkar Satnam 10",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 10,
+        "streams": [
+          {
+            "title": "Ek Omkar Satnam 10",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ek_Omkar_Satnam_10.mp3"
+          }
+        ]
+      },
+      {
+        "id": "11_ow_ek-omkar-satnam-by-osho-01-20",
+        "title": "Ek Omkar Satnam 11",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 11,
+        "streams": [
+          {
+            "title": "Ek Omkar Satnam 11",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ek_Omkar_Satnam_11.mp3"
+          }
+        ]
+      },
+      {
+        "id": "12_ow_ek-omkar-satnam-by-osho-01-20",
+        "title": "Ek Omkar Satnam 12",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 12,
+        "streams": [
+          {
+            "title": "Ek Omkar Satnam 12",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ek_Omkar_Satnam_12.mp3"
+          }
+        ]
+      },
+      {
+        "id": "13_ow_ek-omkar-satnam-by-osho-01-20",
+        "title": "Ek Omkar Satnam 13",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 13,
+        "streams": [
+          {
+            "title": "Ek Omkar Satnam 13",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ek_Omkar_Satnam_13.mp3"
+          }
+        ]
+      },
+      {
+        "id": "14_ow_ek-omkar-satnam-by-osho-01-20",
+        "title": "Ek Omkar Satnam 14",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 14,
+        "streams": [
+          {
+            "title": "Ek Omkar Satnam 14",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ek_Omkar_Satnam_14.mp3"
+          }
+        ]
+      },
+      {
+        "id": "15_ow_ek-omkar-satnam-by-osho-01-20",
+        "title": "Ek Omkar Satnam 15",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 15,
+        "streams": [
+          {
+            "title": "Ek Omkar Satnam 15",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ek_Omkar_Satnam_15.mp3"
+          }
+        ]
+      },
+      {
+        "id": "16_ow_ek-omkar-satnam-by-osho-01-20",
+        "title": "Ek Omkar Satnam 16",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 16,
+        "streams": [
+          {
+            "title": "Ek Omkar Satnam 16",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ek_Omkar_Satnam_16.mp3"
+          }
+        ]
+      },
+      {
+        "id": "17_ow_ek-omkar-satnam-by-osho-01-20",
+        "title": "Ek Omkar Satnam 17",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 17,
+        "streams": [
+          {
+            "title": "Ek Omkar Satnam 17",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ek_Omkar_Satnam_17.mp3"
+          }
+        ]
+      },
+      {
+        "id": "18_ow_ek-omkar-satnam-by-osho-01-20",
+        "title": "Ek Omkar Satnam 18",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 18,
+        "streams": [
+          {
+            "title": "Ek Omkar Satnam 18",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ek_Omkar_Satnam_18.mp3"
+          }
+        ]
+      },
+      {
+        "id": "19_ow_ek-omkar-satnam-by-osho-01-20",
+        "title": "Ek Omkar Satnam 19",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 19,
+        "streams": [
+          {
+            "title": "Ek Omkar Satnam 19",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ek_Omkar_Satnam_19.mp3"
+          }
+        ]
+      },
+      {
+        "id": "20_ow_ek-omkar-satnam-by-osho-01-20",
+        "title": "Ek Omkar Satnam 20",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 20,
+        "streams": [
+          {
+            "title": "Ek Omkar Satnam 20",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ek_Omkar_Satnam_20.mp3"
+          }
+        ]
+      }
+    ]
+  }
+}

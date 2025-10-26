@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "id": "ow_bahutere-hain-ghat-by-osho-1-4",
+    "name": "Bahutere Hain Ghat (बहुतेरे हैं घाट) # 1-4",
+    "year": 1970,
+    "poster": "https://oshoworld.com/uploads/200px-Bahutere_Hain_Ghat1_cover.jpg",
+    "posterShape": "regular",
+    "logo": "https://oshoworld.com/uploads/200px-Bahutere_Hain_Ghat1_cover.jpg",
+    "background": "https://oshoworld.com/uploads/200px-Bahutere_Hain_Ghat1_cover.jpg",
+    "isFree": true,
+    "type": "series",
+    "videos": [
+      {
+        "id": "01_ow_bahutere-hain-ghat-by-osho-1-4",
+        "title": "Bahutere Hain Ghat (बहुतेरे हैं घाट) 1",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "title": "Bahutere Hain Ghat (बहुतेरे हैं घाट) 1",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Bahutere_Hain_Ghat_01.mp3"
+          }
+        ]
+      },
+      {
+        "id": "02_ow_bahutere-hain-ghat-by-osho-1-4",
+        "title": "Bahutere Hain Ghat (बहुतेरे हैं घाट) 2",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "title": "Bahutere Hain Ghat (बहुतेरे हैं घाट) 2",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Bahutere_Hain_Ghat_02.mp3"
+          }
+        ]
+      },
+      {
+        "id": "03_ow_bahutere-hain-ghat-by-osho-1-4",
+        "title": "Bahutere Hain Ghat (बहुतेरे हैं घाट) 3",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 3,
+        "streams": [
+          {
+            "title": "Bahutere Hain Ghat (बहुतेरे हैं घाट) 3",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Bahutere_Hain_Ghat_03.mp3"
+          }
+        ]
+      },
+      {
+        "id": "04_ow_bahutere-hain-ghat-by-osho-1-4",
+        "title": "Bahutere Hain Ghat (बहुतेरे हैं घाट) 4",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 4,
+        "streams": [
+          {
+            "title": "Bahutere Hain Ghat (बहुतेरे हैं घाट) 4",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Bahutere_Hain_Ghat_04.mp3"
+          }
+        ]
+      }
+    ]
+  }
+}

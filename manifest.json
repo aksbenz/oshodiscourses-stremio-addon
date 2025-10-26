@@ -1,0 +1,18 @@
+{
+  "id": "com.stremio.osho.discourses",
+  "version": "1.0.0",
+  "name": "Osho Discourses",
+  "description": "Osho Discourses from Osho World Stremio Addon",
+  "resources": [
+    {"name": "catalog", "types": ["discourses"]}, 
+    { "name": "meta", "types": ["series"], "idPrefixes": ["ow_"]}, 
+    "stream"],
+  "types": ["discourses"],
+  "catalogs": [
+    {
+      "type": "discourses",
+      "id": "OshoHindiDiscourse",
+      "name": "Osho Hindi Discourses"
+    }
+  ]
+}

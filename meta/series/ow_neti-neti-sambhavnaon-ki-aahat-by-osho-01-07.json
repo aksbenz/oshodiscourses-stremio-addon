@@ -1,0 +1,106 @@
+{
+  "meta": {
+    "id": "ow_neti-neti-sambhavnaon-ki-aahat-by-osho-01-07",
+    "name": "Neti Neti Sambhavnaon Ki Aahat # 01-07",
+    "year": 1970,
+    "poster": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
+    "posterShape": "regular",
+    "logo": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
+    "background": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
+    "isFree": true,
+    "type": "series",
+    "videos": [
+      {
+        "id": "01_ow_neti-neti-sambhavnaon-ki-aahat-by-osho-01-07",
+        "title": "Neti Neti Sambhavnaon Ki Aahat 1",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "title": "Neti Neti Sambhavnaon Ki Aahat 1",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sambhavnaon_Ki_Aahat_01.mp3"
+          }
+        ]
+      },
+      {
+        "id": "02_ow_neti-neti-sambhavnaon-ki-aahat-by-osho-01-07",
+        "title": "Neti Neti Sambhavnaon Ki Aahat 2",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "title": "Neti Neti Sambhavnaon Ki Aahat 2",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sambhavnaon_Ki_Aahat_02.mp3"
+          }
+        ]
+      },
+      {
+        "id": "03_ow_neti-neti-sambhavnaon-ki-aahat-by-osho-01-07",
+        "title": "Neti Neti Sambhavnaon Ki Aahat 3",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 3,
+        "streams": [
+          {
+            "title": "Neti Neti Sambhavnaon Ki Aahat 3",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sambhavnaon_Ki_Aahat_03.mp3"
+          }
+        ]
+      },
+      {
+        "id": "04_ow_neti-neti-sambhavnaon-ki-aahat-by-osho-01-07",
+        "title": "Neti Neti Sambhavnaon Ki Aahat 4",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 4,
+        "streams": [
+          {
+            "title": "Neti Neti Sambhavnaon Ki Aahat 4",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sambhavnaon_Ki_Aahat_04.mp3"
+          }
+        ]
+      },
+      {
+        "id": "05_ow_neti-neti-sambhavnaon-ki-aahat-by-osho-01-07",
+        "title": "Neti Neti Sambhavnaon Ki Aahat 5",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 5,
+        "streams": [
+          {
+            "title": "Neti Neti Sambhavnaon Ki Aahat 5",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sambhavnaon_Ki_Aahat_05.mp3"
+          }
+        ]
+      },
+      {
+        "id": "06_ow_neti-neti-sambhavnaon-ki-aahat-by-osho-01-07",
+        "title": "Neti Neti Sambhavnaon Ki Aahat 6",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 6,
+        "streams": [
+          {
+            "title": "Neti Neti Sambhavnaon Ki Aahat 6",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sambhavnaon_Ki_Aahat_06.mp3"
+          }
+        ]
+      },
+      {
+        "id": "07_ow_neti-neti-sambhavnaon-ki-aahat-by-osho-01-07",
+        "title": "Neti Neti Sambhavnaon Ki Aahat 7",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 7,
+        "streams": [
+          {
+            "title": "Neti Neti Sambhavnaon Ki Aahat 7",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sambhavnaon_Ki_Aahat_07.mp3"
+          }
+        ]
+      }
+    ]
+  }
+}

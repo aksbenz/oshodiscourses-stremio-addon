@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "id": "ow_chit-chakmak-lage-nahin-by-osho-1-6",
+    "name": "Chit Chakmak Lage Nahin (चित चकमक लागै नहीं) # 1-6",
+    "year": 1970,
+    "poster": "https://oshoworld.com/uploads/200px-Chakmak-2.jpg",
+    "posterShape": "regular",
+    "logo": "https://oshoworld.com/uploads/200px-Chakmak-2.jpg",
+    "background": "https://oshoworld.com/uploads/200px-Chakmak-2.jpg",
+    "isFree": true,
+    "type": "series",
+    "videos": [
+      {
+        "id": "01_ow_chit-chakmak-lage-nahin-by-osho-1-6",
+        "title": "Chit Chakmak Lage Nahin (चित चकमक लागै नहीं) 1",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "title": "Chit Chakmak Lage Nahin (चित चकमक लागै नहीं) 1",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Chit_Chakmak_Lage_Nahin_01.mp3"
+          }
+        ]
+      },
+      {
+        "id": "02_ow_chit-chakmak-lage-nahin-by-osho-1-6",
+        "title": "Chit Chakmak Lage Nahin (चित चकमक लागै नहीं) 2",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "title": "Chit Chakmak Lage Nahin (चित चकमक लागै नहीं) 2",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Chit_Chakmak_Lage_Nahin_02.mp3"
+          }
+        ]
+      },
+      {
+        "id": "03_ow_chit-chakmak-lage-nahin-by-osho-1-6",
+        "title": "Chit Chakmak Lage Nahin (चित चकमक लागै नहीं) 3",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 3,
+        "streams": [
+          {
+            "title": "Chit Chakmak Lage Nahin (चित चकमक लागै नहीं) 3",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Chit_Chakmak_Lage_Nahin_03.mp3"
+          }
+        ]
+      },
+      {
+        "id": "04_ow_chit-chakmak-lage-nahin-by-osho-1-6",
+        "title": "Chit Chakmak Lage Nahin (चित चकमक लागै नहीं) 4",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 4,
+        "streams": [
+          {
+            "title": "Chit Chakmak Lage Nahin (चित चकमक लागै नहीं) 4",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Chit_Chakmak_Lage_Nahin_04.mp3"
+          }
+        ]
+      },
+      {
+        "id": "05_ow_chit-chakmak-lage-nahin-by-osho-1-6",
+        "title": "Chit Chakmak Lage Nahin (चित चकमक लागै नहीं) 5",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 5,
+        "streams": [
+          {
+            "title": "Chit Chakmak Lage Nahin (चित चकमक लागै नहीं) 5",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Chit_Chakmak_Lage_Nahin_05.mp3"
+          }
+        ]
+      },
+      {
+        "id": "06_ow_chit-chakmak-lage-nahin-by-osho-1-6",
+        "title": "Chit Chakmak Lage Nahin (चित चकमक लागै नहीं) 6",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 6,
+        "streams": [
+          {
+            "title": "Chit Chakmak Lage Nahin (चित चकमक लागै नहीं) 6",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Chit_Chakmak_Lage_Nahin_06.mp3"
+          }
+        ]
+      }
+    ]
+  }
+}

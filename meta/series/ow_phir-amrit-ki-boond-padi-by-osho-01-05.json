@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "id": "ow_phir-amrit-ki-boond-padi-by-osho-01-05",
+    "name": "Phir Amrit Ki Boond Padi # 01-05",
+    "year": 1970,
+    "poster": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
+    "posterShape": "regular",
+    "logo": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
+    "background": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
+    "isFree": true,
+    "type": "series",
+    "videos": [
+      {
+        "id": "01_ow_phir-amrit-ki-boond-padi-by-osho-01-05",
+        "title": "Phir Amrit Ki Boond Padi 1",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "title": "Phir Amrit Ki Boond Padi 1",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Phir_Amrit_Ki_Boond_Padi_01.mp3"
+          }
+        ]
+      },
+      {
+        "id": "02_ow_phir-amrit-ki-boond-padi-by-osho-01-05",
+        "title": "Phir Amrit Ki Boond Padi 2",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "title": "Phir Amrit Ki Boond Padi 2",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Phir_Amrit_Ki_Boond_Padi_02.mp3"
+          }
+        ]
+      },
+      {
+        "id": "03_ow_phir-amrit-ki-boond-padi-by-osho-01-05",
+        "title": "Phir Amrit Ki Boond Padi 3",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 3,
+        "streams": [
+          {
+            "title": "Phir Amrit Ki Boond Padi 3",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Phir_Amrit_Ki_Boond_Padi_03.mp3"
+          }
+        ]
+      },
+      {
+        "id": "04_ow_phir-amrit-ki-boond-padi-by-osho-01-05",
+        "title": "Phir Amrit Ki Boond Padi 4",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 4,
+        "streams": [
+          {
+            "title": "Phir Amrit Ki Boond Padi 4",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Phir_Amrit_Ki_Boond_Padi_04.mp3"
+          }
+        ]
+      },
+      {
+        "id": "05_ow_phir-amrit-ki-boond-padi-by-osho-01-05",
+        "title": "Phir Amrit Ki Boond Padi 5",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 5,
+        "streams": [
+          {
+            "title": "Phir Amrit Ki Boond Padi 5",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Phir_Amrit_Ki_Boond_Padi_05.mp3"
+          }
+        ]
+      }
+    ]
+  }
+}

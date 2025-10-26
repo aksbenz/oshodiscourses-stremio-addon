@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "id": "ow_prem-darshan-by-osho-01-04",
+    "name": "Prem Darshan # 01-04",
+    "year": 1970,
+    "poster": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
+    "posterShape": "regular",
+    "logo": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
+    "background": "https://oshoworld.com/uploads/pics_1713897522194_no_image.png",
+    "isFree": true,
+    "type": "series",
+    "videos": [
+      {
+        "id": "01_ow_prem-darshan-by-osho-01-04",
+        "title": "Prem Darshan 1",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "title": "Prem Darshan 1",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Prem_Darshan_01.mp3"
+          }
+        ]
+      },
+      {
+        "id": "02_ow_prem-darshan-by-osho-01-04",
+        "title": "Prem Darshan 2",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "title": "Prem Darshan 2",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Prem_Darshan_02.mp3"
+          }
+        ]
+      },
+      {
+        "id": "03_ow_prem-darshan-by-osho-01-04",
+        "title": "Prem Darshan 3",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 3,
+        "streams": [
+          {
+            "title": "Prem Darshan 3",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Prem_Darshan_03.mp3"
+          }
+        ]
+      },
+      {
+        "id": "04_ow_prem-darshan-by-osho-01-04",
+        "title": "Prem Darshan 4",
+        "released": "1970-01-01T00:00:00.000Z",
+        "season": 1,
+        "episode": 4,
+        "streams": [
+          {
+            "title": "Prem Darshan 4",
+            "url": "https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Prem_Darshan_04.mp3"
+          }
+        ]
+      }
+    ]
+  }
+}

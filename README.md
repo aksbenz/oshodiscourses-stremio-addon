@@ -1,3 +1,1 @@
-Use this to Install:
-[button url="stremio://aksbenz.github.io/oshodiscourses-stremio-addon/manifest.json"]
-[Install](stremio://aksbenz.github.io/oshodiscourses-stremio-addon/manifest.json)
+[![Install](https://img.shields.io/badge/ML%20for%20Beginners-22C55E?style=for-the-badge&labelColor=E5E7EB&color=22C55E)](stremio://aksbenz.github.io/oshodiscourses-stremio-addon/manifest.json)

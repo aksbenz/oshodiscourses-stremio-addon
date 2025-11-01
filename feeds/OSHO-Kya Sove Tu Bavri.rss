@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[OSHO-Kya Sove Tu Bavri]]></title>
+        <description><![CDATA[Osho Discource: OSHO-Kya Sove Tu Bavri]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 31 Oct 2025 23:48:05 GMT</lastBuildDate>
+        <atom:link href="https://aksbenz.github.io/oshodiscourses-stremio-addon/feeds/OSHO-Kya Sove Tu Bavri.rss" rel="self" type="application/rss+xml"/>
+        <language><![CDATA[hi]]></language>
+        <item>
+            <title><![CDATA[01-OSHO-Kya Sove Tu Bavri]]></title>
+            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kya_Sove_Tu_Bavri_01.mp3</link>
+            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kya_Sove_Tu_Bavri_01.mp3</guid>
+            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[02-OSHO-Kya Sove Tu Bavri]]></title>
+            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kya_Sove_Tu_Bavri_02.mp3</link>
+            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kya_Sove_Tu_Bavri_02.mp3</guid>
+            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[03-OSHO-Kya Sove Tu Bavri]]></title>
+            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kya_Sove_Tu_Bavri_03.mp3</link>
+            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kya_Sove_Tu_Bavri_03.mp3</guid>
+            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[04-OSHO-Kya Sove Tu Bavri]]></title>
+            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kya_Sove_Tu_Bavri_04.mp3</link>
+            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kya_Sove_Tu_Bavri_04.mp3</guid>
+            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

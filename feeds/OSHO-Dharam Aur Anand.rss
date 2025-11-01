@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[OSHO-Dharam Aur Anand]]></title>
+        <description><![CDATA[Osho Discource: OSHO-Dharam Aur Anand]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 31 Oct 2025 23:48:05 GMT</lastBuildDate>
+        <atom:link href="https://aksbenz.github.io/oshodiscourses-stremio-addon/feeds/OSHO-Dharam Aur Anand.rss" rel="self" type="application/rss+xml"/>
+        <language><![CDATA[hi]]></language>
+        <item>
+            <title><![CDATA[01-OSHO-Dharam Aur Anand]]></title>
+            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dharam_Aur_Anand_01.mp3</link>
+            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dharam_Aur_Anand_01.mp3</guid>
+            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[02-OSHO-Dharam Aur Anand]]></title>
+            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dharam_Aur_Anand_02.mp3</link>
+            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dharam_Aur_Anand_02.mp3</guid>
+            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[03-OSHO-Dharam Aur Anand]]></title>
+            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dharam_Aur_Anand_03.mp3</link>
+            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dharam_Aur_Anand_03.mp3</guid>
+            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[04-OSHO-Dharam Aur Anand]]></title>
+            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dharam_Aur_Anand_04.mp3</link>
+            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dharam_Aur_Anand_04.mp3</guid>
+            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[05-OSHO-Dharam Aur Anand]]></title>
+            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dharam_Aur_Anand_05.mp3</link>
+            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dharam_Aur_Anand_05.mp3</guid>
+            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[06-OSHO-Dharam Aur Anand]]></title>
+            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dharam_Aur_Anand_06.mp3</link>
+            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dharam_Aur_Anand_06.mp3</guid>
+            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[07-OSHO-Dharam Aur Anand]]></title>
+            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dharam_Aur_Anand_07.mp3</link>
+            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dharam_Aur_Anand_07.mp3</guid>
+            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[08-OSHO-Dharam Aur Anand]]></title>
+            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dharam_Aur_Anand_08.mp3</link>
+            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dharam_Aur_Anand_08.mp3</guid>
+            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[09-OSHO-Dharam Aur Anand]]></title>
+            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dharam_Aur_Anand_09.mp3</link>
+            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dharam_Aur_Anand_09.mp3</guid>
+            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

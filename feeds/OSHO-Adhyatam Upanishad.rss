@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>OSHO-Adhyatam Upanishad</title>
     <description>OSHO-Adhyatam Upanishad</description>
     <link>https://www.oshoworld.com</link>
     <generator>Osho Podcasts</generator>
     <lastBuildDate>Mon, 03 Nov 2025 21:16:04 GMT</lastBuildDate>
-    <atom:link href="https://aksbenz.github.io/oshodiscourses-stremio-addon/feeds/OSHO-Adhyatam Upanishad.rss" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://aksbenz.github.io/oshodiscourses-stremio-addon/feeds/OSHO-Adhyatam%20Upanishad.rss" rel="self" type="application/rss+xml"></atom:link>
     <author>OSHO</author>
     <copyright>Oshoworld</copyright>
     <language>hi</language>
@@ -17,20 +17,20 @@
       <itunes:name>OSHO</itunes:name>
       <itunes:email>osho@oshoworld.com</itunes:email>
     </itunes:owner>
-    <itunes:explicit>false</itunes:explicit>
-    <itunes:category text="Discourses"></itunes:category>
-    <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Adhyatam Upanishad"></itunes:image>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Spirituality"></itunes:category>
+    <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Adhyatam%20Upanishad"></itunes:image>
     <item>
       <title>01-OSHO-Adhyatam Upanishad</title>
       <description>01-OSHO-Adhyatam Upanishad</description>
       <link>https://oshoworld.com/adhyatam-upanishad-by-osho-1-17</link>
-      <guid isPermaLink="false">OSHO-Adhyatam Upanishad</guid>
+      <guid isPermaLink="false">01-OSHO-Adhyatam Upanishad</guid>
       <dc:creator>Osho</dc:creator>
-      <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Adhyatam_Upanishad_01.mp3" type="audio/x-mp3"></enclosure>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 GMT</pubDate>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Adhyatam_Upanishad_01.mp3" length="0" type="audio/x-mp3"></enclosure>
       <itunes:summary>01-OSHO-Adhyatam Upanishad</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Adhyatam Upanishad"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Adhyatam%20Upanishad"></itunes:image>
       <itunes:season>1</itunes:season>
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -39,13 +39,13 @@
       <title>02-OSHO-Adhyatam Upanishad</title>
       <description>02-OSHO-Adhyatam Upanishad</description>
       <link>https://oshoworld.com/adhyatam-upanishad-by-osho-1-17</link>
-      <guid isPermaLink="false">OSHO-Adhyatam Upanishad</guid>
+      <guid isPermaLink="false">02-OSHO-Adhyatam Upanishad</guid>
       <dc:creator>Osho</dc:creator>
-      <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Adhyatam_Upanishad_02.mp3" type="audio/x-mp3"></enclosure>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 GMT</pubDate>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Adhyatam_Upanishad_02.mp3" length="0" type="audio/x-mp3"></enclosure>
       <itunes:summary>02-OSHO-Adhyatam Upanishad</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Adhyatam Upanishad"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Adhyatam%20Upanishad"></itunes:image>
       <itunes:season>1</itunes:season>
       <itunes:episode>2</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -54,13 +54,13 @@
       <title>03-OSHO-Adhyatam Upanishad</title>
       <description>03-OSHO-Adhyatam Upanishad</description>
       <link>https://oshoworld.com/adhyatam-upanishad-by-osho-1-17</link>
-      <guid isPermaLink="false">OSHO-Adhyatam Upanishad</guid>
+      <guid isPermaLink="false">03-OSHO-Adhyatam Upanishad</guid>
       <dc:creator>Osho</dc:creator>
-      <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Adhyatam_Upanishad_03.mp3" type="audio/x-mp3"></enclosure>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 GMT</pubDate>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Adhyatam_Upanishad_03.mp3" length="0" type="audio/x-mp3"></enclosure>
       <itunes:summary>03-OSHO-Adhyatam Upanishad</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Adhyatam Upanishad"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Adhyatam%20Upanishad"></itunes:image>
       <itunes:season>1</itunes:season>
       <itunes:episode>3</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -69,13 +69,13 @@
       <title>04-OSHO-Adhyatam Upanishad</title>
       <description>04-OSHO-Adhyatam Upanishad</description>
       <link>https://oshoworld.com/adhyatam-upanishad-by-osho-1-17</link>
-      <guid isPermaLink="false">OSHO-Adhyatam Upanishad</guid>
+      <guid isPermaLink="false">04-OSHO-Adhyatam Upanishad</guid>
       <dc:creator>Osho</dc:creator>
-      <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Adhyatam_Upanishad_04.mp3" type="audio/x-mp3"></enclosure>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 GMT</pubDate>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Adhyatam_Upanishad_04.mp3" length="0" type="audio/x-mp3"></enclosure>
       <itunes:summary>04-OSHO-Adhyatam Upanishad</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Adhyatam Upanishad"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Adhyatam%20Upanishad"></itunes:image>
       <itunes:season>1</itunes:season>
       <itunes:episode>4</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -84,13 +84,13 @@
       <title>05-OSHO-Adhyatam Upanishad</title>
       <description>05-OSHO-Adhyatam Upanishad</description>
       <link>https://oshoworld.com/adhyatam-upanishad-by-osho-1-17</link>
-      <guid isPermaLink="false">OSHO-Adhyatam Upanishad</guid>
+      <guid isPermaLink="false">05-OSHO-Adhyatam Upanishad</guid>
       <dc:creator>Osho</dc:creator>
-      <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Adhyatam_Upanishad_05.mp3" type="audio/x-mp3"></enclosure>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 GMT</pubDate>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Adhyatam_Upanishad_05.mp3" length="0" type="audio/x-mp3"></enclosure>
       <itunes:summary>05-OSHO-Adhyatam Upanishad</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Adhyatam Upanishad"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Adhyatam%20Upanishad"></itunes:image>
       <itunes:season>1</itunes:season>
       <itunes:episode>5</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -99,13 +99,13 @@
       <title>06-OSHO-Adhyatam Upanishad</title>
       <description>06-OSHO-Adhyatam Upanishad</description>
       <link>https://oshoworld.com/adhyatam-upanishad-by-osho-1-17</link>
-      <guid isPermaLink="false">OSHO-Adhyatam Upanishad</guid>
+      <guid isPermaLink="false">06-OSHO-Adhyatam Upanishad</guid>
       <dc:creator>Osho</dc:creator>
-      <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Adhyatam_Upanishad_06.mp3" type="audio/x-mp3"></enclosure>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 GMT</pubDate>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Adhyatam_Upanishad_06.mp3" length="0" type="audio/x-mp3"></enclosure>
       <itunes:summary>06-OSHO-Adhyatam Upanishad</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Adhyatam Upanishad"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Adhyatam%20Upanishad"></itunes:image>
       <itunes:season>1</itunes:season>
       <itunes:episode>6</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -114,13 +114,13 @@
       <title>07-OSHO-Adhyatam Upanishad</title>
       <description>07-OSHO-Adhyatam Upanishad</description>
       <link>https://oshoworld.com/adhyatam-upanishad-by-osho-1-17</link>
-      <guid isPermaLink="false">OSHO-Adhyatam Upanishad</guid>
+      <guid isPermaLink="false">07-OSHO-Adhyatam Upanishad</guid>
       <dc:creator>Osho</dc:creator>
-      <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Adhyatam_Upanishad_07.mp3" type="audio/x-mp3"></enclosure>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 GMT</pubDate>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Adhyatam_Upanishad_07.mp3" length="0" type="audio/x-mp3"></enclosure>
       <itunes:summary>07-OSHO-Adhyatam Upanishad</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Adhyatam Upanishad"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Adhyatam%20Upanishad"></itunes:image>
       <itunes:season>1</itunes:season>
       <itunes:episode>7</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -129,13 +129,13 @@
       <title>08-OSHO-Adhyatam Upanishad</title>
       <description>08-OSHO-Adhyatam Upanishad</description>
       <link>https://oshoworld.com/adhyatam-upanishad-by-osho-1-17</link>
-      <guid isPermaLink="false">OSHO-Adhyatam Upanishad</guid>
+      <guid isPermaLink="false">08-OSHO-Adhyatam Upanishad</guid>
       <dc:creator>Osho</dc:creator>
-      <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Adhyatam_Upanishad_08.mp3" type="audio/x-mp3"></enclosure>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 GMT</pubDate>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Adhyatam_Upanishad_08.mp3" length="0" type="audio/x-mp3"></enclosure>
       <itunes:summary>08-OSHO-Adhyatam Upanishad</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Adhyatam Upanishad"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Adhyatam%20Upanishad"></itunes:image>
       <itunes:season>1</itunes:season>
       <itunes:episode>8</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -144,13 +144,13 @@
       <title>09-OSHO-Adhyatam Upanishad</title>
       <description>09-OSHO-Adhyatam Upanishad</description>
       <link>https://oshoworld.com/adhyatam-upanishad-by-osho-1-17</link>
-      <guid isPermaLink="false">OSHO-Adhyatam Upanishad</guid>
+      <guid isPermaLink="false">09-OSHO-Adhyatam Upanishad</guid>
       <dc:creator>Osho</dc:creator>
-      <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Adhyatam_Upanishad_09.mp3" type="audio/x-mp3"></enclosure>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 GMT</pubDate>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Adhyatam_Upanishad_09.mp3" length="0" type="audio/x-mp3"></enclosure>
       <itunes:summary>09-OSHO-Adhyatam Upanishad</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Adhyatam Upanishad"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Adhyatam%20Upanishad"></itunes:image>
       <itunes:season>1</itunes:season>
       <itunes:episode>9</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -159,13 +159,13 @@
       <title>10-OSHO-Adhyatam Upanishad</title>
       <description>10-OSHO-Adhyatam Upanishad</description>
       <link>https://oshoworld.com/adhyatam-upanishad-by-osho-1-17</link>
-      <guid isPermaLink="false">OSHO-Adhyatam Upanishad</guid>
+      <guid isPermaLink="false">10-OSHO-Adhyatam Upanishad</guid>
       <dc:creator>Osho</dc:creator>
-      <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Adhyatam_Upanishad_10.mp3" type="audio/x-mp3"></enclosure>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 GMT</pubDate>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Adhyatam_Upanishad_10.mp3" length="0" type="audio/x-mp3"></enclosure>
       <itunes:summary>10-OSHO-Adhyatam Upanishad</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Adhyatam Upanishad"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Adhyatam%20Upanishad"></itunes:image>
       <itunes:season>1</itunes:season>
       <itunes:episode>10</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -174,13 +174,13 @@
       <title>11-OSHO-Adhyatam Upanishad</title>
       <description>11-OSHO-Adhyatam Upanishad</description>
       <link>https://oshoworld.com/adhyatam-upanishad-by-osho-1-17</link>
-      <guid isPermaLink="false">OSHO-Adhyatam Upanishad</guid>
+      <guid isPermaLink="false">11-OSHO-Adhyatam Upanishad</guid>
       <dc:creator>Osho</dc:creator>
-      <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Adhyatam_Upanishad_11.mp3" type="audio/x-mp3"></enclosure>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 GMT</pubDate>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Adhyatam_Upanishad_11.mp3" length="0" type="audio/x-mp3"></enclosure>
       <itunes:summary>11-OSHO-Adhyatam Upanishad</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Adhyatam Upanishad"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Adhyatam%20Upanishad"></itunes:image>
       <itunes:season>1</itunes:season>
       <itunes:episode>11</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -189,13 +189,13 @@
       <title>12-OSHO-Adhyatam Upanishad</title>
       <description>12-OSHO-Adhyatam Upanishad</description>
       <link>https://oshoworld.com/adhyatam-upanishad-by-osho-1-17</link>
-      <guid isPermaLink="false">OSHO-Adhyatam Upanishad</guid>
+      <guid isPermaLink="false">12-OSHO-Adhyatam Upanishad</guid>
       <dc:creator>Osho</dc:creator>
-      <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Adhyatam_Upanishad_12.mp3" type="audio/x-mp3"></enclosure>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 GMT</pubDate>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Adhyatam_Upanishad_12.mp3" length="0" type="audio/x-mp3"></enclosure>
       <itunes:summary>12-OSHO-Adhyatam Upanishad</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Adhyatam Upanishad"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Adhyatam%20Upanishad"></itunes:image>
       <itunes:season>1</itunes:season>
       <itunes:episode>12</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -204,13 +204,13 @@
       <title>13-OSHO-Adhyatam Upanishad</title>
       <description>13-OSHO-Adhyatam Upanishad</description>
       <link>https://oshoworld.com/adhyatam-upanishad-by-osho-1-17</link>
-      <guid isPermaLink="false">OSHO-Adhyatam Upanishad</guid>
+      <guid isPermaLink="false">13-OSHO-Adhyatam Upanishad</guid>
       <dc:creator>Osho</dc:creator>
-      <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Adhyatam_Upanishad_13.mp3" type="audio/x-mp3"></enclosure>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 GMT</pubDate>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Adhyatam_Upanishad_13.mp3" length="0" type="audio/x-mp3"></enclosure>
       <itunes:summary>13-OSHO-Adhyatam Upanishad</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Adhyatam Upanishad"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Adhyatam%20Upanishad"></itunes:image>
       <itunes:season>1</itunes:season>
       <itunes:episode>13</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -219,13 +219,13 @@
       <title>14-OSHO-Adhyatam Upanishad</title>
       <description>14-OSHO-Adhyatam Upanishad</description>
       <link>https://oshoworld.com/adhyatam-upanishad-by-osho-1-17</link>
-      <guid isPermaLink="false">OSHO-Adhyatam Upanishad</guid>
+      <guid isPermaLink="false">14-OSHO-Adhyatam Upanishad</guid>
       <dc:creator>Osho</dc:creator>
-      <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Adhyatam_Upanishad_14.mp3" type="audio/x-mp3"></enclosure>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 GMT</pubDate>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Adhyatam_Upanishad_14.mp3" length="0" type="audio/x-mp3"></enclosure>
       <itunes:summary>14-OSHO-Adhyatam Upanishad</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Adhyatam Upanishad"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Adhyatam%20Upanishad"></itunes:image>
       <itunes:season>1</itunes:season>
       <itunes:episode>14</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -234,13 +234,13 @@
       <title>15-OSHO-Adhyatam Upanishad</title>
       <description>15-OSHO-Adhyatam Upanishad</description>
       <link>https://oshoworld.com/adhyatam-upanishad-by-osho-1-17</link>
-      <guid isPermaLink="false">OSHO-Adhyatam Upanishad</guid>
+      <guid isPermaLink="false">15-OSHO-Adhyatam Upanishad</guid>
       <dc:creator>Osho</dc:creator>
-      <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Adhyatam_Upanishad_15.mp3" type="audio/x-mp3"></enclosure>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 GMT</pubDate>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Adhyatam_Upanishad_15.mp3" length="0" type="audio/x-mp3"></enclosure>
       <itunes:summary>15-OSHO-Adhyatam Upanishad</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Adhyatam Upanishad"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Adhyatam%20Upanishad"></itunes:image>
       <itunes:season>1</itunes:season>
       <itunes:episode>15</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -249,13 +249,13 @@
       <title>16-OSHO-Adhyatam Upanishad</title>
       <description>16-OSHO-Adhyatam Upanishad</description>
       <link>https://oshoworld.com/adhyatam-upanishad-by-osho-1-17</link>
-      <guid isPermaLink="false">OSHO-Adhyatam Upanishad</guid>
+      <guid isPermaLink="false">16-OSHO-Adhyatam Upanishad</guid>
       <dc:creator>Osho</dc:creator>
-      <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Adhyatam_Upanishad_16.mp3" type="audio/x-mp3"></enclosure>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 GMT</pubDate>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Adhyatam_Upanishad_16.mp3" length="0" type="audio/x-mp3"></enclosure>
       <itunes:summary>16-OSHO-Adhyatam Upanishad</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Adhyatam Upanishad"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Adhyatam%20Upanishad"></itunes:image>
       <itunes:season>1</itunes:season>
       <itunes:episode>16</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -264,13 +264,13 @@
       <title>17-OSHO-Adhyatam Upanishad</title>
       <description>17-OSHO-Adhyatam Upanishad</description>
       <link>https://oshoworld.com/adhyatam-upanishad-by-osho-1-17</link>
-      <guid isPermaLink="false">OSHO-Adhyatam Upanishad</guid>
+      <guid isPermaLink="false">17-OSHO-Adhyatam Upanishad</guid>
       <dc:creator>Osho</dc:creator>
-      <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Adhyatam_Upanishad_17.mp3" type="audio/x-mp3"></enclosure>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 GMT</pubDate>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Adhyatam_Upanishad_17.mp3" length="0" type="audio/x-mp3"></enclosure>
       <itunes:summary>17-OSHO-Adhyatam Upanishad</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Adhyatam Upanishad"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Adhyatam%20Upanishad"></itunes:image>
       <itunes:season>1</itunes:season>
       <itunes:episode>17</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>

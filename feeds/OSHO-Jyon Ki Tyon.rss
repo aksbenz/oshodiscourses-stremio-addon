@@ -1,89 +1,207 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title><![CDATA[OSHO-Jyon Ki Tyon]]></title>
-        <description><![CDATA[Osho Discource: OSHO-Jyon Ki Tyon]]></description>
-        <link>http://github.com/dylang/node-rss</link>
-        <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 06 Nov 2025 11:08:49 GMT</lastBuildDate>
-        <atom:link href="https://aksbenz.github.io/oshodiscourses-stremio-addon/feeds/OSHO-Jyon Ki Tyon.rss" rel="self" type="application/rss+xml"/>
-        <language><![CDATA[hi]]></language>
-        <item>
-            <title><![CDATA[01-OSHO-Jyon Ki Tyon]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyon_Ki_Tyon_01.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyon_Ki_Tyon_01.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[02-OSHO-Jyon Ki Tyon]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyon_Ki_Tyon_02.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyon_Ki_Tyon_02.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[03-OSHO-Jyon Ki Tyon]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyon_Ki_Tyon_03.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyon_Ki_Tyon_03.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[04-OSHO-Jyon Ki Tyon]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyon_Ki_Tyon_04.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyon_Ki_Tyon_04.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[05-OSHO-Jyon Ki Tyon]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyon_Ki_Tyon_05.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyon_Ki_Tyon_05.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[06-OSHO-Jyon Ki Tyon]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyon_Ki_Tyon_06.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyon_Ki_Tyon_06.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[07-OSHO-Jyon Ki Tyon]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyon_Ki_Tyon_07.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyon_Ki_Tyon_07.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[08-OSHO-Jyon Ki Tyon]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyon_Ki_Tyon_08.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyon_Ki_Tyon_08.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[09-OSHO-Jyon Ki Tyon]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyon_Ki_Tyon_09.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyon_Ki_Tyon_09.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[10-OSHO-Jyon Ki Tyon]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyon_Ki_Tyon_10.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyon_Ki_Tyon_10.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[11-OSHO-Jyon Ki Tyon]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyon_Ki_Tyon_11.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyon_Ki_Tyon_11.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[12-OSHO-Jyon Ki Tyon]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyon_Ki_Tyon_12.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyon_Ki_Tyon_12.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[13-OSHO-Jyon Ki Tyon]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyon_Ki_Tyon_13.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyon_Ki_Tyon_13.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-    </channel>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>OSHO-Jyon Ki Tyon</title>
+    <description>OSHO-Jyon Ki Tyon</description>
+    <link>https://www.oshoworld.com</link>
+    <generator>Osho Podcasts</generator>
+    <lastBuildDate>Mon, 03 Nov 2025 21:16:04 GMT</lastBuildDate>
+    <atom:link href="https://aksbenz.github.io/oshodiscourses-stremio-addon/feeds/OSHO-Jyon%20Ki%20Tyon.rss" rel="self" type="application/rss+xml"></atom:link>
+    <copyright>Oshoworld</copyright>
+    <language>hi</language>
+    <itunes:author>OSHO</itunes:author>
+    <itunes:summary>OSHO-Jyon Ki Tyon</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>OSHO</itunes:name>
+      <itunes:email>osho@oshoworld.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Spirituality"></itunes:category>
+    </itunes:category>
+    <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jyon%20Ki%20Tyon"></itunes:image>
+    <item>
+      <title>01-OSHO-Jyon Ki Tyon</title>
+      <description>01-OSHO-Jyon Ki Tyon</description>
+      <link>https://oshoworld.com/jyon-ki-tyon-by-osho-01-13</link>
+      <guid isPermaLink="false">01-OSHO-Jyon Ki Tyon</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyon_Ki_Tyon_01.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>01-OSHO-Jyon Ki Tyon</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jyon%20Ki%20Tyon"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>02-OSHO-Jyon Ki Tyon</title>
+      <description>02-OSHO-Jyon Ki Tyon</description>
+      <link>https://oshoworld.com/jyon-ki-tyon-by-osho-01-13</link>
+      <guid isPermaLink="false">02-OSHO-Jyon Ki Tyon</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyon_Ki_Tyon_02.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>02-OSHO-Jyon Ki Tyon</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jyon%20Ki%20Tyon"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>03-OSHO-Jyon Ki Tyon</title>
+      <description>03-OSHO-Jyon Ki Tyon</description>
+      <link>https://oshoworld.com/jyon-ki-tyon-by-osho-01-13</link>
+      <guid isPermaLink="false">03-OSHO-Jyon Ki Tyon</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyon_Ki_Tyon_03.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>03-OSHO-Jyon Ki Tyon</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jyon%20Ki%20Tyon"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>04-OSHO-Jyon Ki Tyon</title>
+      <description>04-OSHO-Jyon Ki Tyon</description>
+      <link>https://oshoworld.com/jyon-ki-tyon-by-osho-01-13</link>
+      <guid isPermaLink="false">04-OSHO-Jyon Ki Tyon</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyon_Ki_Tyon_04.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>04-OSHO-Jyon Ki Tyon</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jyon%20Ki%20Tyon"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>05-OSHO-Jyon Ki Tyon</title>
+      <description>05-OSHO-Jyon Ki Tyon</description>
+      <link>https://oshoworld.com/jyon-ki-tyon-by-osho-01-13</link>
+      <guid isPermaLink="false">05-OSHO-Jyon Ki Tyon</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyon_Ki_Tyon_05.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>05-OSHO-Jyon Ki Tyon</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jyon%20Ki%20Tyon"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>06-OSHO-Jyon Ki Tyon</title>
+      <description>06-OSHO-Jyon Ki Tyon</description>
+      <link>https://oshoworld.com/jyon-ki-tyon-by-osho-01-13</link>
+      <guid isPermaLink="false">06-OSHO-Jyon Ki Tyon</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyon_Ki_Tyon_06.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>06-OSHO-Jyon Ki Tyon</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jyon%20Ki%20Tyon"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>07-OSHO-Jyon Ki Tyon</title>
+      <description>07-OSHO-Jyon Ki Tyon</description>
+      <link>https://oshoworld.com/jyon-ki-tyon-by-osho-01-13</link>
+      <guid isPermaLink="false">07-OSHO-Jyon Ki Tyon</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyon_Ki_Tyon_07.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>07-OSHO-Jyon Ki Tyon</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jyon%20Ki%20Tyon"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>08-OSHO-Jyon Ki Tyon</title>
+      <description>08-OSHO-Jyon Ki Tyon</description>
+      <link>https://oshoworld.com/jyon-ki-tyon-by-osho-01-13</link>
+      <guid isPermaLink="false">08-OSHO-Jyon Ki Tyon</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyon_Ki_Tyon_08.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>08-OSHO-Jyon Ki Tyon</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jyon%20Ki%20Tyon"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>09-OSHO-Jyon Ki Tyon</title>
+      <description>09-OSHO-Jyon Ki Tyon</description>
+      <link>https://oshoworld.com/jyon-ki-tyon-by-osho-01-13</link>
+      <guid isPermaLink="false">09-OSHO-Jyon Ki Tyon</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyon_Ki_Tyon_09.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>09-OSHO-Jyon Ki Tyon</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jyon%20Ki%20Tyon"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>10-OSHO-Jyon Ki Tyon</title>
+      <description>10-OSHO-Jyon Ki Tyon</description>
+      <link>https://oshoworld.com/jyon-ki-tyon-by-osho-01-13</link>
+      <guid isPermaLink="false">10-OSHO-Jyon Ki Tyon</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyon_Ki_Tyon_10.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>10-OSHO-Jyon Ki Tyon</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jyon%20Ki%20Tyon"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>11-OSHO-Jyon Ki Tyon</title>
+      <description>11-OSHO-Jyon Ki Tyon</description>
+      <link>https://oshoworld.com/jyon-ki-tyon-by-osho-01-13</link>
+      <guid isPermaLink="false">11-OSHO-Jyon Ki Tyon</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyon_Ki_Tyon_11.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>11-OSHO-Jyon Ki Tyon</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jyon%20Ki%20Tyon"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>12-OSHO-Jyon Ki Tyon</title>
+      <description>12-OSHO-Jyon Ki Tyon</description>
+      <link>https://oshoworld.com/jyon-ki-tyon-by-osho-01-13</link>
+      <guid isPermaLink="false">12-OSHO-Jyon Ki Tyon</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyon_Ki_Tyon_12.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>12-OSHO-Jyon Ki Tyon</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jyon%20Ki%20Tyon"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>13-OSHO-Jyon Ki Tyon</title>
+      <description>13-OSHO-Jyon Ki Tyon</description>
+      <link>https://oshoworld.com/jyon-ki-tyon-by-osho-01-13</link>
+      <guid isPermaLink="false">13-OSHO-Jyon Ki Tyon</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyon_Ki_Tyon_13.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>13-OSHO-Jyon Ki Tyon</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jyon%20Ki%20Tyon"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
 </rss>

@@ -1,557 +1,1299 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title><![CDATA[OSHO-Ashtravakra Maha Geeta]]></title>
-        <description><![CDATA[Osho Discource: OSHO-Ashtravakra Maha Geeta]]></description>
-        <link>http://github.com/dylang/node-rss</link>
-        <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 06 Nov 2025 11:08:49 GMT</lastBuildDate>
-        <atom:link href="https://aksbenz.github.io/oshodiscourses-stremio-addon/feeds/OSHO-Ashtravakra Maha Geeta.rss" rel="self" type="application/rss+xml"/>
-        <language><![CDATA[hi]]></language>
-        <item>
-            <title><![CDATA[01-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_01.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_01.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[02-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_02.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_02.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[03-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_03.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_03.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[04-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_04.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_04.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[05-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_05.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_05.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[06-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_06.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_06.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[07-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_07.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_07.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[08-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_08.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_08.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[09-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_09.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_09.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[10-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_10.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_10.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[11-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_11.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_11.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[12-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_12.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_12.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[13-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_13.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_13.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[14-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_14.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_14.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[15-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_15.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_15.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[16-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_16.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_16.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[17-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_17.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_17.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[18-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_18.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_18.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[19-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_19.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_19.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[20-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_20.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_20.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[21-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_21.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_21.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[22-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_22.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_22.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[23-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_23.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_23.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[24-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_24.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_24.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[25-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_25.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_25.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[26-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_26.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_26.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[27-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_27.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_27.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[28-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_28.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_28.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[29-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_29.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_29.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[30-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_30.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_30.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[31-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_31.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_31.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[32-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_32.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_32.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[33-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_33.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_33.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[34-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_34.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_34.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[35-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_35.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_35.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[36-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_36.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_36.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[37-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_37.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_37.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[38-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_38.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_38.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[39-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_39.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_39.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[40-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_40.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_40.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[41-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_41.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_41.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[42-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_42.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_42.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[43-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_43.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_43.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[44-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_44.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_44.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[45-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_45.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_45.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[46-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_46.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_46.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[47-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_47.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_47.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[48-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_48.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_48.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[49-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_49.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_49.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[50-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_50.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_50.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[51-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_51.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_51.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[52-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_52.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_52.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[53-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_53.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_53.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[54-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_54.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_54.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[55-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_55.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_55.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[56-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_56.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_56.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[57-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_57.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_57.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[58-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_58.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_58.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[59-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_59.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_59.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[60-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_60.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_60.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[61-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_61.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_61.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[62-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_62.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_62.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[63-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_63.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_63.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[64-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_64.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_64.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[65-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_65.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_65.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[66-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_66.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_66.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[67-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_67.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_67.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[68-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_68.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_68.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[69-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_69.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_69.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[70-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_70.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_70.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[71-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_71.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_71.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[72-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_72.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_72.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[73-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_73.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_73.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[74-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_74.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_74.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[75-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_75.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_75.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[76-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_76.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_76.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[77-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_77.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_77.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[78-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_78.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_78.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[79-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_79.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_79.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[80-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_80.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_80.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[81-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_81.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_81.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[82-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_82.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_82.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[83-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_83.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_83.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[84-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_84.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_84.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[85-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_85.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_85.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[86-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_86.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_86.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[87-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_87.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_87.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[88-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_88.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_88.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[89-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_89.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_89.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[90-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_90.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_90.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[91-OSHO-Ashtravakra Maha Geeta]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_91.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_91.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-    </channel>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>OSHO-Ashtravakra Maha Geeta</title>
+    <description>OSHO-Ashtravakra Maha Geeta</description>
+    <link>https://www.oshoworld.com</link>
+    <generator>Osho Podcasts</generator>
+    <lastBuildDate>Mon, 03 Nov 2025 21:16:04 GMT</lastBuildDate>
+    <atom:link href="https://aksbenz.github.io/oshodiscourses-stremio-addon/feeds/OSHO-Ashtravakra%20Maha%20Geeta.rss" rel="self" type="application/rss+xml"></atom:link>
+    <copyright>Oshoworld</copyright>
+    <language>hi</language>
+    <itunes:author>OSHO</itunes:author>
+    <itunes:summary>OSHO-Ashtravakra Maha Geeta</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>OSHO</itunes:name>
+      <itunes:email>osho@oshoworld.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Spirituality"></itunes:category>
+    </itunes:category>
+    <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+    <item>
+      <title>01-OSHO-Ashtravakra Maha Geeta</title>
+      <description>01-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">01-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_01.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>01-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>02-OSHO-Ashtravakra Maha Geeta</title>
+      <description>02-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">02-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_02.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>02-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>03-OSHO-Ashtravakra Maha Geeta</title>
+      <description>03-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">03-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_03.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>03-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>04-OSHO-Ashtravakra Maha Geeta</title>
+      <description>04-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">04-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_04.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>04-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>05-OSHO-Ashtravakra Maha Geeta</title>
+      <description>05-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">05-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_05.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>05-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>06-OSHO-Ashtravakra Maha Geeta</title>
+      <description>06-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">06-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_06.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>06-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>07-OSHO-Ashtravakra Maha Geeta</title>
+      <description>07-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">07-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_07.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>07-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>08-OSHO-Ashtravakra Maha Geeta</title>
+      <description>08-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">08-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_08.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>08-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>09-OSHO-Ashtravakra Maha Geeta</title>
+      <description>09-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">09-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_09.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>09-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>10-OSHO-Ashtravakra Maha Geeta</title>
+      <description>10-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">10-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_10.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>10-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>11-OSHO-Ashtravakra Maha Geeta</title>
+      <description>11-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">11-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_11.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>11-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>12-OSHO-Ashtravakra Maha Geeta</title>
+      <description>12-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">12-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_12.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>12-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>13-OSHO-Ashtravakra Maha Geeta</title>
+      <description>13-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">13-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_13.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>13-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>14-OSHO-Ashtravakra Maha Geeta</title>
+      <description>14-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">14-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_14.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>14-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>14</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>15-OSHO-Ashtravakra Maha Geeta</title>
+      <description>15-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">15-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_15.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>15-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>15</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>16-OSHO-Ashtravakra Maha Geeta</title>
+      <description>16-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">16-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_16.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>16-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>16</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>17-OSHO-Ashtravakra Maha Geeta</title>
+      <description>17-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">17-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_17.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>17-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>17</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>18-OSHO-Ashtravakra Maha Geeta</title>
+      <description>18-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">18-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_18.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>18-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>18</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>19-OSHO-Ashtravakra Maha Geeta</title>
+      <description>19-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">19-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_19.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>19-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>19</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>20-OSHO-Ashtravakra Maha Geeta</title>
+      <description>20-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">20-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_20.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>20-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>20</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>21-OSHO-Ashtravakra Maha Geeta</title>
+      <description>21-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">21-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_21.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>21-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>21</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>22-OSHO-Ashtravakra Maha Geeta</title>
+      <description>22-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">22-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_22.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>22-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>22</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>23-OSHO-Ashtravakra Maha Geeta</title>
+      <description>23-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">23-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_23.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>23-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>23</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>24-OSHO-Ashtravakra Maha Geeta</title>
+      <description>24-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">24-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_24.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>24-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>24</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>25-OSHO-Ashtravakra Maha Geeta</title>
+      <description>25-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">25-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_25.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>25-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>25</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>26-OSHO-Ashtravakra Maha Geeta</title>
+      <description>26-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">26-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_26.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>26-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>26</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>27-OSHO-Ashtravakra Maha Geeta</title>
+      <description>27-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">27-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_27.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>27-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>27</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>28-OSHO-Ashtravakra Maha Geeta</title>
+      <description>28-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">28-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_28.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>28-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>28</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>29-OSHO-Ashtravakra Maha Geeta</title>
+      <description>29-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">29-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_29.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>29-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>29</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>30-OSHO-Ashtravakra Maha Geeta</title>
+      <description>30-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">30-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_30.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>30-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>30</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>31-OSHO-Ashtravakra Maha Geeta</title>
+      <description>31-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">31-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_31.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>31-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>31</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>32-OSHO-Ashtravakra Maha Geeta</title>
+      <description>32-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">32-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_32.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>32-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>32</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>33-OSHO-Ashtravakra Maha Geeta</title>
+      <description>33-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">33-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_33.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>33-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>33</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>34-OSHO-Ashtravakra Maha Geeta</title>
+      <description>34-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">34-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_34.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>34-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>34</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>35-OSHO-Ashtravakra Maha Geeta</title>
+      <description>35-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">35-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_35.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>35-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>35</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>36-OSHO-Ashtravakra Maha Geeta</title>
+      <description>36-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">36-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_36.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>36-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>36</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>37-OSHO-Ashtravakra Maha Geeta</title>
+      <description>37-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">37-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_37.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>37-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>37</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>38-OSHO-Ashtravakra Maha Geeta</title>
+      <description>38-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">38-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_38.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>38-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>38</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>39-OSHO-Ashtravakra Maha Geeta</title>
+      <description>39-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">39-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_39.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>39-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>39</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>40-OSHO-Ashtravakra Maha Geeta</title>
+      <description>40-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">40-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_40.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>40-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>40</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>41-OSHO-Ashtravakra Maha Geeta</title>
+      <description>41-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">41-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_41.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>41-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>41</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>42-OSHO-Ashtravakra Maha Geeta</title>
+      <description>42-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">42-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_42.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>42-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>42</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>43-OSHO-Ashtravakra Maha Geeta</title>
+      <description>43-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">43-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_43.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>43-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>43</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>44-OSHO-Ashtravakra Maha Geeta</title>
+      <description>44-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">44-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_44.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>44-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>44</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>45-OSHO-Ashtravakra Maha Geeta</title>
+      <description>45-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">45-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_45.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>45-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>45</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>46-OSHO-Ashtravakra Maha Geeta</title>
+      <description>46-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">46-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_46.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>46-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>46</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>47-OSHO-Ashtravakra Maha Geeta</title>
+      <description>47-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">47-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_47.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>47-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>47</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>48-OSHO-Ashtravakra Maha Geeta</title>
+      <description>48-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">48-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_48.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>48-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>48</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>49-OSHO-Ashtravakra Maha Geeta</title>
+      <description>49-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">49-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_49.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>49-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>49</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>50-OSHO-Ashtravakra Maha Geeta</title>
+      <description>50-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">50-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_50.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>50-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>50</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>51-OSHO-Ashtravakra Maha Geeta</title>
+      <description>51-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">51-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_51.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>51-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>51</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>52-OSHO-Ashtravakra Maha Geeta</title>
+      <description>52-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">52-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_52.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>52-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>52</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>53-OSHO-Ashtravakra Maha Geeta</title>
+      <description>53-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">53-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_53.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>53-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>53</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>54-OSHO-Ashtravakra Maha Geeta</title>
+      <description>54-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">54-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_54.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>54-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>54</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>55-OSHO-Ashtravakra Maha Geeta</title>
+      <description>55-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">55-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_55.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>55-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>55</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>56-OSHO-Ashtravakra Maha Geeta</title>
+      <description>56-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">56-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_56.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>56-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>56</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>57-OSHO-Ashtravakra Maha Geeta</title>
+      <description>57-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">57-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_57.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>57-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>57</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>58-OSHO-Ashtravakra Maha Geeta</title>
+      <description>58-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">58-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_58.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>58-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>58</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>59-OSHO-Ashtravakra Maha Geeta</title>
+      <description>59-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">59-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_59.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>59-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>59</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>60-OSHO-Ashtravakra Maha Geeta</title>
+      <description>60-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">60-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_60.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>60-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>60</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>61-OSHO-Ashtravakra Maha Geeta</title>
+      <description>61-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">61-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_61.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>61-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>61</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>62-OSHO-Ashtravakra Maha Geeta</title>
+      <description>62-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">62-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_62.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>62-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>62</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>63-OSHO-Ashtravakra Maha Geeta</title>
+      <description>63-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">63-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_63.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>63-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>63</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>64-OSHO-Ashtravakra Maha Geeta</title>
+      <description>64-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">64-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_64.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>64-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>64</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>65-OSHO-Ashtravakra Maha Geeta</title>
+      <description>65-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">65-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_65.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>65-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>65</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>66-OSHO-Ashtravakra Maha Geeta</title>
+      <description>66-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">66-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_66.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>66-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>66</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>67-OSHO-Ashtravakra Maha Geeta</title>
+      <description>67-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">67-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_67.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>67-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>67</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>68-OSHO-Ashtravakra Maha Geeta</title>
+      <description>68-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">68-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_68.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>68-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>68</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>69-OSHO-Ashtravakra Maha Geeta</title>
+      <description>69-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">69-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_69.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>69-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>69</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>70-OSHO-Ashtravakra Maha Geeta</title>
+      <description>70-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">70-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_70.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>70-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>70</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>71-OSHO-Ashtravakra Maha Geeta</title>
+      <description>71-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">71-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_71.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>71-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>71</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>72-OSHO-Ashtravakra Maha Geeta</title>
+      <description>72-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">72-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_72.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>72-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>72</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>73-OSHO-Ashtravakra Maha Geeta</title>
+      <description>73-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">73-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_73.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>73-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>73</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>74-OSHO-Ashtravakra Maha Geeta</title>
+      <description>74-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">74-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_74.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>74-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>74</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>75-OSHO-Ashtravakra Maha Geeta</title>
+      <description>75-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">75-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_75.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>75-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>75</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>76-OSHO-Ashtravakra Maha Geeta</title>
+      <description>76-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">76-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_76.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>76-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>76</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>77-OSHO-Ashtravakra Maha Geeta</title>
+      <description>77-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">77-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_77.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>77-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>77</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>78-OSHO-Ashtravakra Maha Geeta</title>
+      <description>78-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">78-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_78.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>78-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>78</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>79-OSHO-Ashtravakra Maha Geeta</title>
+      <description>79-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">79-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_79.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>79-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>79</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>80-OSHO-Ashtravakra Maha Geeta</title>
+      <description>80-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">80-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_80.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>80-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>80</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>81-OSHO-Ashtravakra Maha Geeta</title>
+      <description>81-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">81-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_81.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>81-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>81</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>82-OSHO-Ashtravakra Maha Geeta</title>
+      <description>82-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">82-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_82.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>82-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>82</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>83-OSHO-Ashtravakra Maha Geeta</title>
+      <description>83-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">83-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_83.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>83-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>83</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>84-OSHO-Ashtravakra Maha Geeta</title>
+      <description>84-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">84-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_84.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>84-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>84</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>85-OSHO-Ashtravakra Maha Geeta</title>
+      <description>85-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">85-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_85.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>85-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>85</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>86-OSHO-Ashtravakra Maha Geeta</title>
+      <description>86-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">86-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_86.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>86-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>86</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>87-OSHO-Ashtravakra Maha Geeta</title>
+      <description>87-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">87-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_87.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>87-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>87</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>88-OSHO-Ashtravakra Maha Geeta</title>
+      <description>88-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">88-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_88.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>88-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>88</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>89-OSHO-Ashtravakra Maha Geeta</title>
+      <description>89-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">89-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_89.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>89-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>89</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>90-OSHO-Ashtravakra Maha Geeta</title>
+      <description>90-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">90-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_90.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>90-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>90</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>91-OSHO-Ashtravakra Maha Geeta</title>
+      <description>91-OSHO-Ashtravakra Maha Geeta</description>
+      <link>https://oshoworld.com/maha-geeta-by-osho-01-91</link>
+      <guid isPermaLink="false">91-OSHO-Ashtravakra Maha Geeta</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Maha_Geeta_91.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>91-OSHO-Ashtravakra Maha Geeta</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Ashtravakra%20Maha%20Geeta"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>91</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
 </rss>

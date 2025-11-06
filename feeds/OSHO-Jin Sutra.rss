@@ -1,383 +1,893 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title><![CDATA[OSHO-Jin Sutra]]></title>
-        <description><![CDATA[Osho Discource: OSHO-Jin Sutra]]></description>
-        <link>http://github.com/dylang/node-rss</link>
-        <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 06 Nov 2025 11:08:49 GMT</lastBuildDate>
-        <atom:link href="https://aksbenz.github.io/oshodiscourses-stremio-addon/feeds/OSHO-Jin Sutra.rss" rel="self" type="application/rss+xml"/>
-        <language><![CDATA[hi]]></language>
-        <item>
-            <title><![CDATA[01-OSHO-Jin Sutra]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_01.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_01.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[02-OSHO-Jin Sutra]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_02.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_02.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[03-OSHO-Jin Sutra]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_03.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_03.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[04-OSHO-Jin Sutra]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_04.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_04.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[05-OSHO-Jin Sutra]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_05.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_05.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[06-OSHO-Jin Sutra]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_06.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_06.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[07-OSHO-Jin Sutra]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_07.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_07.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[08-OSHO-Jin Sutra]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_08.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_08.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[09-OSHO-Jin Sutra]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_09.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_09.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[10-OSHO-Jin Sutra]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_10.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_10.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[11-OSHO-Jin Sutra]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_11.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_11.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[12-OSHO-Jin Sutra]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_12.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_12.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[13-OSHO-Jin Sutra]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_13.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_13.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[14-OSHO-Jin Sutra]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_14.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_14.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[15-OSHO-Jin Sutra]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_15.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_15.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[16-OSHO-Jin Sutra]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_16.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_16.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[17-OSHO-Jin Sutra]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_17.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_17.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[18-OSHO-Jin Sutra]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_18.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_18.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[19-OSHO-Jin Sutra]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_19.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_19.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[20-OSHO-Jin Sutra]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_20.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_20.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[21-OSHO-Jin Sutra]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_21.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_21.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[22-OSHO-Jin Sutra]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_22.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_22.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[23-OSHO-Jin Sutra]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_23.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_23.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[24-OSHO-Jin Sutra]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_24.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_24.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[25-OSHO-Jin Sutra]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_25.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_25.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[26-OSHO-Jin Sutra]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_26.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_26.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[27-OSHO-Jin Sutra]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_27.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_27.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[28-OSHO-Jin Sutra]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_28.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_28.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[29-OSHO-Jin Sutra]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_29.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_29.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[30-OSHO-Jin Sutra]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_30.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_30.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[31-OSHO-Jin Sutra]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_31.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_31.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[32-OSHO-Jin Sutra]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_32.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_32.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[33-OSHO-Jin Sutra]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_33.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_33.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[34-OSHO-Jin Sutra]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_34.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_34.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[35-OSHO-Jin Sutra]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_35.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_35.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[36-OSHO-Jin Sutra]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_36.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_36.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[37-OSHO-Jin Sutra]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_37.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_37.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[38-OSHO-Jin Sutra]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_38.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_38.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[39-OSHO-Jin Sutra]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_39.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_39.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[40-OSHO-Jin Sutra]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_40.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_40.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[41-OSHO-Jin Sutra]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_41.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_41.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[42-OSHO-Jin Sutra]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_42.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_42.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[43-OSHO-Jin Sutra]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_43.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_43.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[44-OSHO-Jin Sutra]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_44.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_44.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[45-OSHO-Jin Sutra]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_45.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_45.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[46-OSHO-Jin Sutra]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_46.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_46.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[47-OSHO-Jin Sutra]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_47.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_47.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[48-OSHO-Jin Sutra]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_48.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_48.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[49-OSHO-Jin Sutra]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_49.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_49.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[50-OSHO-Jin Sutra]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_50.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_50.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[51-OSHO-Jin Sutra]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_51.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_51.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[52-OSHO-Jin Sutra]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_52.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_52.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[53-OSHO-Jin Sutra]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_53.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_53.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[54-OSHO-Jin Sutra]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_54.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_54.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[55-OSHO-Jin Sutra]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_55.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_55.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[56-OSHO-Jin Sutra]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_56.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_56.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[57-OSHO-Jin Sutra]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_57.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_57.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[58-OSHO-Jin Sutra]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_58.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_58.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[59-OSHO-Jin Sutra]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_59.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_59.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[60-OSHO-Jin Sutra]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_60.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_60.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[61-OSHO-Jin Sutra]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_61.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_61.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[62-OSHO-Jin Sutra]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_62.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_62.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-    </channel>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>OSHO-Jin Sutra</title>
+    <description>OSHO-Jin Sutra</description>
+    <link>https://www.oshoworld.com</link>
+    <generator>Osho Podcasts</generator>
+    <lastBuildDate>Mon, 03 Nov 2025 21:16:04 GMT</lastBuildDate>
+    <atom:link href="https://aksbenz.github.io/oshodiscourses-stremio-addon/feeds/OSHO-Jin%20Sutra.rss" rel="self" type="application/rss+xml"></atom:link>
+    <copyright>Oshoworld</copyright>
+    <language>hi</language>
+    <itunes:author>OSHO</itunes:author>
+    <itunes:summary>OSHO-Jin Sutra</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>OSHO</itunes:name>
+      <itunes:email>osho@oshoworld.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Spirituality"></itunes:category>
+    </itunes:category>
+    <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jin%20Sutra"></itunes:image>
+    <item>
+      <title>01-OSHO-Jin Sutra</title>
+      <description>01-OSHO-Jin Sutra</description>
+      <link>https://oshoworld.com/jin-sutra-by-osho-01-62</link>
+      <guid isPermaLink="false">01-OSHO-Jin Sutra</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_01.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>01-OSHO-Jin Sutra</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jin%20Sutra"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>02-OSHO-Jin Sutra</title>
+      <description>02-OSHO-Jin Sutra</description>
+      <link>https://oshoworld.com/jin-sutra-by-osho-01-62</link>
+      <guid isPermaLink="false">02-OSHO-Jin Sutra</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_02.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>02-OSHO-Jin Sutra</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jin%20Sutra"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>03-OSHO-Jin Sutra</title>
+      <description>03-OSHO-Jin Sutra</description>
+      <link>https://oshoworld.com/jin-sutra-by-osho-01-62</link>
+      <guid isPermaLink="false">03-OSHO-Jin Sutra</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_03.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>03-OSHO-Jin Sutra</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jin%20Sutra"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>04-OSHO-Jin Sutra</title>
+      <description>04-OSHO-Jin Sutra</description>
+      <link>https://oshoworld.com/jin-sutra-by-osho-01-62</link>
+      <guid isPermaLink="false">04-OSHO-Jin Sutra</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_04.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>04-OSHO-Jin Sutra</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jin%20Sutra"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>05-OSHO-Jin Sutra</title>
+      <description>05-OSHO-Jin Sutra</description>
+      <link>https://oshoworld.com/jin-sutra-by-osho-01-62</link>
+      <guid isPermaLink="false">05-OSHO-Jin Sutra</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_05.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>05-OSHO-Jin Sutra</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jin%20Sutra"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>06-OSHO-Jin Sutra</title>
+      <description>06-OSHO-Jin Sutra</description>
+      <link>https://oshoworld.com/jin-sutra-by-osho-01-62</link>
+      <guid isPermaLink="false">06-OSHO-Jin Sutra</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_06.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>06-OSHO-Jin Sutra</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jin%20Sutra"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>07-OSHO-Jin Sutra</title>
+      <description>07-OSHO-Jin Sutra</description>
+      <link>https://oshoworld.com/jin-sutra-by-osho-01-62</link>
+      <guid isPermaLink="false">07-OSHO-Jin Sutra</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_07.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>07-OSHO-Jin Sutra</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jin%20Sutra"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>08-OSHO-Jin Sutra</title>
+      <description>08-OSHO-Jin Sutra</description>
+      <link>https://oshoworld.com/jin-sutra-by-osho-01-62</link>
+      <guid isPermaLink="false">08-OSHO-Jin Sutra</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_08.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>08-OSHO-Jin Sutra</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jin%20Sutra"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>09-OSHO-Jin Sutra</title>
+      <description>09-OSHO-Jin Sutra</description>
+      <link>https://oshoworld.com/jin-sutra-by-osho-01-62</link>
+      <guid isPermaLink="false">09-OSHO-Jin Sutra</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_09.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>09-OSHO-Jin Sutra</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jin%20Sutra"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>10-OSHO-Jin Sutra</title>
+      <description>10-OSHO-Jin Sutra</description>
+      <link>https://oshoworld.com/jin-sutra-by-osho-01-62</link>
+      <guid isPermaLink="false">10-OSHO-Jin Sutra</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_10.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>10-OSHO-Jin Sutra</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jin%20Sutra"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>11-OSHO-Jin Sutra</title>
+      <description>11-OSHO-Jin Sutra</description>
+      <link>https://oshoworld.com/jin-sutra-by-osho-01-62</link>
+      <guid isPermaLink="false">11-OSHO-Jin Sutra</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_11.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>11-OSHO-Jin Sutra</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jin%20Sutra"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>12-OSHO-Jin Sutra</title>
+      <description>12-OSHO-Jin Sutra</description>
+      <link>https://oshoworld.com/jin-sutra-by-osho-01-62</link>
+      <guid isPermaLink="false">12-OSHO-Jin Sutra</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_12.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>12-OSHO-Jin Sutra</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jin%20Sutra"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>13-OSHO-Jin Sutra</title>
+      <description>13-OSHO-Jin Sutra</description>
+      <link>https://oshoworld.com/jin-sutra-by-osho-01-62</link>
+      <guid isPermaLink="false">13-OSHO-Jin Sutra</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_13.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>13-OSHO-Jin Sutra</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jin%20Sutra"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>14-OSHO-Jin Sutra</title>
+      <description>14-OSHO-Jin Sutra</description>
+      <link>https://oshoworld.com/jin-sutra-by-osho-01-62</link>
+      <guid isPermaLink="false">14-OSHO-Jin Sutra</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_14.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>14-OSHO-Jin Sutra</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jin%20Sutra"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>14</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>15-OSHO-Jin Sutra</title>
+      <description>15-OSHO-Jin Sutra</description>
+      <link>https://oshoworld.com/jin-sutra-by-osho-01-62</link>
+      <guid isPermaLink="false">15-OSHO-Jin Sutra</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_15.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>15-OSHO-Jin Sutra</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jin%20Sutra"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>15</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>16-OSHO-Jin Sutra</title>
+      <description>16-OSHO-Jin Sutra</description>
+      <link>https://oshoworld.com/jin-sutra-by-osho-01-62</link>
+      <guid isPermaLink="false">16-OSHO-Jin Sutra</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_16.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>16-OSHO-Jin Sutra</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jin%20Sutra"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>16</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>17-OSHO-Jin Sutra</title>
+      <description>17-OSHO-Jin Sutra</description>
+      <link>https://oshoworld.com/jin-sutra-by-osho-01-62</link>
+      <guid isPermaLink="false">17-OSHO-Jin Sutra</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_17.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>17-OSHO-Jin Sutra</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jin%20Sutra"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>17</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>18-OSHO-Jin Sutra</title>
+      <description>18-OSHO-Jin Sutra</description>
+      <link>https://oshoworld.com/jin-sutra-by-osho-01-62</link>
+      <guid isPermaLink="false">18-OSHO-Jin Sutra</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_18.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>18-OSHO-Jin Sutra</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jin%20Sutra"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>18</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>19-OSHO-Jin Sutra</title>
+      <description>19-OSHO-Jin Sutra</description>
+      <link>https://oshoworld.com/jin-sutra-by-osho-01-62</link>
+      <guid isPermaLink="false">19-OSHO-Jin Sutra</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_19.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>19-OSHO-Jin Sutra</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jin%20Sutra"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>19</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>20-OSHO-Jin Sutra</title>
+      <description>20-OSHO-Jin Sutra</description>
+      <link>https://oshoworld.com/jin-sutra-by-osho-01-62</link>
+      <guid isPermaLink="false">20-OSHO-Jin Sutra</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_20.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>20-OSHO-Jin Sutra</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jin%20Sutra"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>20</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>21-OSHO-Jin Sutra</title>
+      <description>21-OSHO-Jin Sutra</description>
+      <link>https://oshoworld.com/jin-sutra-by-osho-01-62</link>
+      <guid isPermaLink="false">21-OSHO-Jin Sutra</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_21.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>21-OSHO-Jin Sutra</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jin%20Sutra"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>21</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>22-OSHO-Jin Sutra</title>
+      <description>22-OSHO-Jin Sutra</description>
+      <link>https://oshoworld.com/jin-sutra-by-osho-01-62</link>
+      <guid isPermaLink="false">22-OSHO-Jin Sutra</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_22.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>22-OSHO-Jin Sutra</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jin%20Sutra"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>22</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>23-OSHO-Jin Sutra</title>
+      <description>23-OSHO-Jin Sutra</description>
+      <link>https://oshoworld.com/jin-sutra-by-osho-01-62</link>
+      <guid isPermaLink="false">23-OSHO-Jin Sutra</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_23.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>23-OSHO-Jin Sutra</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jin%20Sutra"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>23</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>24-OSHO-Jin Sutra</title>
+      <description>24-OSHO-Jin Sutra</description>
+      <link>https://oshoworld.com/jin-sutra-by-osho-01-62</link>
+      <guid isPermaLink="false">24-OSHO-Jin Sutra</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_24.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>24-OSHO-Jin Sutra</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jin%20Sutra"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>24</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>25-OSHO-Jin Sutra</title>
+      <description>25-OSHO-Jin Sutra</description>
+      <link>https://oshoworld.com/jin-sutra-by-osho-01-62</link>
+      <guid isPermaLink="false">25-OSHO-Jin Sutra</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_25.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>25-OSHO-Jin Sutra</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jin%20Sutra"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>25</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>26-OSHO-Jin Sutra</title>
+      <description>26-OSHO-Jin Sutra</description>
+      <link>https://oshoworld.com/jin-sutra-by-osho-01-62</link>
+      <guid isPermaLink="false">26-OSHO-Jin Sutra</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_26.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>26-OSHO-Jin Sutra</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jin%20Sutra"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>26</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>27-OSHO-Jin Sutra</title>
+      <description>27-OSHO-Jin Sutra</description>
+      <link>https://oshoworld.com/jin-sutra-by-osho-01-62</link>
+      <guid isPermaLink="false">27-OSHO-Jin Sutra</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_27.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>27-OSHO-Jin Sutra</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jin%20Sutra"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>27</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>28-OSHO-Jin Sutra</title>
+      <description>28-OSHO-Jin Sutra</description>
+      <link>https://oshoworld.com/jin-sutra-by-osho-01-62</link>
+      <guid isPermaLink="false">28-OSHO-Jin Sutra</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_28.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>28-OSHO-Jin Sutra</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jin%20Sutra"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>28</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>29-OSHO-Jin Sutra</title>
+      <description>29-OSHO-Jin Sutra</description>
+      <link>https://oshoworld.com/jin-sutra-by-osho-01-62</link>
+      <guid isPermaLink="false">29-OSHO-Jin Sutra</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_29.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>29-OSHO-Jin Sutra</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jin%20Sutra"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>29</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>30-OSHO-Jin Sutra</title>
+      <description>30-OSHO-Jin Sutra</description>
+      <link>https://oshoworld.com/jin-sutra-by-osho-01-62</link>
+      <guid isPermaLink="false">30-OSHO-Jin Sutra</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_30.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>30-OSHO-Jin Sutra</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jin%20Sutra"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>30</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>31-OSHO-Jin Sutra</title>
+      <description>31-OSHO-Jin Sutra</description>
+      <link>https://oshoworld.com/jin-sutra-by-osho-01-62</link>
+      <guid isPermaLink="false">31-OSHO-Jin Sutra</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_31.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>31-OSHO-Jin Sutra</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jin%20Sutra"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>31</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>32-OSHO-Jin Sutra</title>
+      <description>32-OSHO-Jin Sutra</description>
+      <link>https://oshoworld.com/jin-sutra-by-osho-01-62</link>
+      <guid isPermaLink="false">32-OSHO-Jin Sutra</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_32.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>32-OSHO-Jin Sutra</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jin%20Sutra"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>32</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>33-OSHO-Jin Sutra</title>
+      <description>33-OSHO-Jin Sutra</description>
+      <link>https://oshoworld.com/jin-sutra-by-osho-01-62</link>
+      <guid isPermaLink="false">33-OSHO-Jin Sutra</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_33.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>33-OSHO-Jin Sutra</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jin%20Sutra"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>33</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>34-OSHO-Jin Sutra</title>
+      <description>34-OSHO-Jin Sutra</description>
+      <link>https://oshoworld.com/jin-sutra-by-osho-01-62</link>
+      <guid isPermaLink="false">34-OSHO-Jin Sutra</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_34.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>34-OSHO-Jin Sutra</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jin%20Sutra"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>34</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>35-OSHO-Jin Sutra</title>
+      <description>35-OSHO-Jin Sutra</description>
+      <link>https://oshoworld.com/jin-sutra-by-osho-01-62</link>
+      <guid isPermaLink="false">35-OSHO-Jin Sutra</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_35.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>35-OSHO-Jin Sutra</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jin%20Sutra"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>35</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>36-OSHO-Jin Sutra</title>
+      <description>36-OSHO-Jin Sutra</description>
+      <link>https://oshoworld.com/jin-sutra-by-osho-01-62</link>
+      <guid isPermaLink="false">36-OSHO-Jin Sutra</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_36.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>36-OSHO-Jin Sutra</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jin%20Sutra"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>36</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>37-OSHO-Jin Sutra</title>
+      <description>37-OSHO-Jin Sutra</description>
+      <link>https://oshoworld.com/jin-sutra-by-osho-01-62</link>
+      <guid isPermaLink="false">37-OSHO-Jin Sutra</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_37.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>37-OSHO-Jin Sutra</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jin%20Sutra"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>37</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>38-OSHO-Jin Sutra</title>
+      <description>38-OSHO-Jin Sutra</description>
+      <link>https://oshoworld.com/jin-sutra-by-osho-01-62</link>
+      <guid isPermaLink="false">38-OSHO-Jin Sutra</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_38.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>38-OSHO-Jin Sutra</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jin%20Sutra"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>38</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>39-OSHO-Jin Sutra</title>
+      <description>39-OSHO-Jin Sutra</description>
+      <link>https://oshoworld.com/jin-sutra-by-osho-01-62</link>
+      <guid isPermaLink="false">39-OSHO-Jin Sutra</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_39.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>39-OSHO-Jin Sutra</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jin%20Sutra"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>39</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>40-OSHO-Jin Sutra</title>
+      <description>40-OSHO-Jin Sutra</description>
+      <link>https://oshoworld.com/jin-sutra-by-osho-01-62</link>
+      <guid isPermaLink="false">40-OSHO-Jin Sutra</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_40.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>40-OSHO-Jin Sutra</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jin%20Sutra"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>40</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>41-OSHO-Jin Sutra</title>
+      <description>41-OSHO-Jin Sutra</description>
+      <link>https://oshoworld.com/jin-sutra-by-osho-01-62</link>
+      <guid isPermaLink="false">41-OSHO-Jin Sutra</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_41.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>41-OSHO-Jin Sutra</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jin%20Sutra"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>41</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>42-OSHO-Jin Sutra</title>
+      <description>42-OSHO-Jin Sutra</description>
+      <link>https://oshoworld.com/jin-sutra-by-osho-01-62</link>
+      <guid isPermaLink="false">42-OSHO-Jin Sutra</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_42.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>42-OSHO-Jin Sutra</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jin%20Sutra"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>42</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>43-OSHO-Jin Sutra</title>
+      <description>43-OSHO-Jin Sutra</description>
+      <link>https://oshoworld.com/jin-sutra-by-osho-01-62</link>
+      <guid isPermaLink="false">43-OSHO-Jin Sutra</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_43.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>43-OSHO-Jin Sutra</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jin%20Sutra"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>43</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>44-OSHO-Jin Sutra</title>
+      <description>44-OSHO-Jin Sutra</description>
+      <link>https://oshoworld.com/jin-sutra-by-osho-01-62</link>
+      <guid isPermaLink="false">44-OSHO-Jin Sutra</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_44.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>44-OSHO-Jin Sutra</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jin%20Sutra"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>44</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>45-OSHO-Jin Sutra</title>
+      <description>45-OSHO-Jin Sutra</description>
+      <link>https://oshoworld.com/jin-sutra-by-osho-01-62</link>
+      <guid isPermaLink="false">45-OSHO-Jin Sutra</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_45.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>45-OSHO-Jin Sutra</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jin%20Sutra"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>45</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>46-OSHO-Jin Sutra</title>
+      <description>46-OSHO-Jin Sutra</description>
+      <link>https://oshoworld.com/jin-sutra-by-osho-01-62</link>
+      <guid isPermaLink="false">46-OSHO-Jin Sutra</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_46.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>46-OSHO-Jin Sutra</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jin%20Sutra"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>46</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>47-OSHO-Jin Sutra</title>
+      <description>47-OSHO-Jin Sutra</description>
+      <link>https://oshoworld.com/jin-sutra-by-osho-01-62</link>
+      <guid isPermaLink="false">47-OSHO-Jin Sutra</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_47.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>47-OSHO-Jin Sutra</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jin%20Sutra"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>47</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>48-OSHO-Jin Sutra</title>
+      <description>48-OSHO-Jin Sutra</description>
+      <link>https://oshoworld.com/jin-sutra-by-osho-01-62</link>
+      <guid isPermaLink="false">48-OSHO-Jin Sutra</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_48.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>48-OSHO-Jin Sutra</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jin%20Sutra"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>48</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>49-OSHO-Jin Sutra</title>
+      <description>49-OSHO-Jin Sutra</description>
+      <link>https://oshoworld.com/jin-sutra-by-osho-01-62</link>
+      <guid isPermaLink="false">49-OSHO-Jin Sutra</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_49.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>49-OSHO-Jin Sutra</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jin%20Sutra"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>49</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>50-OSHO-Jin Sutra</title>
+      <description>50-OSHO-Jin Sutra</description>
+      <link>https://oshoworld.com/jin-sutra-by-osho-01-62</link>
+      <guid isPermaLink="false">50-OSHO-Jin Sutra</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_50.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>50-OSHO-Jin Sutra</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jin%20Sutra"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>50</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>51-OSHO-Jin Sutra</title>
+      <description>51-OSHO-Jin Sutra</description>
+      <link>https://oshoworld.com/jin-sutra-by-osho-01-62</link>
+      <guid isPermaLink="false">51-OSHO-Jin Sutra</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_51.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>51-OSHO-Jin Sutra</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jin%20Sutra"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>51</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>52-OSHO-Jin Sutra</title>
+      <description>52-OSHO-Jin Sutra</description>
+      <link>https://oshoworld.com/jin-sutra-by-osho-01-62</link>
+      <guid isPermaLink="false">52-OSHO-Jin Sutra</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_52.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>52-OSHO-Jin Sutra</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jin%20Sutra"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>52</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>53-OSHO-Jin Sutra</title>
+      <description>53-OSHO-Jin Sutra</description>
+      <link>https://oshoworld.com/jin-sutra-by-osho-01-62</link>
+      <guid isPermaLink="false">53-OSHO-Jin Sutra</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_53.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>53-OSHO-Jin Sutra</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jin%20Sutra"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>53</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>54-OSHO-Jin Sutra</title>
+      <description>54-OSHO-Jin Sutra</description>
+      <link>https://oshoworld.com/jin-sutra-by-osho-01-62</link>
+      <guid isPermaLink="false">54-OSHO-Jin Sutra</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_54.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>54-OSHO-Jin Sutra</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jin%20Sutra"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>54</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>55-OSHO-Jin Sutra</title>
+      <description>55-OSHO-Jin Sutra</description>
+      <link>https://oshoworld.com/jin-sutra-by-osho-01-62</link>
+      <guid isPermaLink="false">55-OSHO-Jin Sutra</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_55.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>55-OSHO-Jin Sutra</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jin%20Sutra"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>55</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>56-OSHO-Jin Sutra</title>
+      <description>56-OSHO-Jin Sutra</description>
+      <link>https://oshoworld.com/jin-sutra-by-osho-01-62</link>
+      <guid isPermaLink="false">56-OSHO-Jin Sutra</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_56.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>56-OSHO-Jin Sutra</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jin%20Sutra"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>56</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>57-OSHO-Jin Sutra</title>
+      <description>57-OSHO-Jin Sutra</description>
+      <link>https://oshoworld.com/jin-sutra-by-osho-01-62</link>
+      <guid isPermaLink="false">57-OSHO-Jin Sutra</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_57.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>57-OSHO-Jin Sutra</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jin%20Sutra"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>57</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>58-OSHO-Jin Sutra</title>
+      <description>58-OSHO-Jin Sutra</description>
+      <link>https://oshoworld.com/jin-sutra-by-osho-01-62</link>
+      <guid isPermaLink="false">58-OSHO-Jin Sutra</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_58.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>58-OSHO-Jin Sutra</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jin%20Sutra"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>58</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>59-OSHO-Jin Sutra</title>
+      <description>59-OSHO-Jin Sutra</description>
+      <link>https://oshoworld.com/jin-sutra-by-osho-01-62</link>
+      <guid isPermaLink="false">59-OSHO-Jin Sutra</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_59.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>59-OSHO-Jin Sutra</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jin%20Sutra"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>59</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>60-OSHO-Jin Sutra</title>
+      <description>60-OSHO-Jin Sutra</description>
+      <link>https://oshoworld.com/jin-sutra-by-osho-01-62</link>
+      <guid isPermaLink="false">60-OSHO-Jin Sutra</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_60.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>60-OSHO-Jin Sutra</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jin%20Sutra"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>60</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>61-OSHO-Jin Sutra</title>
+      <description>61-OSHO-Jin Sutra</description>
+      <link>https://oshoworld.com/jin-sutra-by-osho-01-62</link>
+      <guid isPermaLink="false">61-OSHO-Jin Sutra</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_61.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>61-OSHO-Jin Sutra</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jin%20Sutra"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>61</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>62-OSHO-Jin Sutra</title>
+      <description>62-OSHO-Jin Sutra</description>
+      <link>https://oshoworld.com/jin-sutra-by-osho-01-62</link>
+      <guid isPermaLink="false">62-OSHO-Jin Sutra</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Sutra_62.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>62-OSHO-Jin Sutra</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Jin%20Sutra"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>62</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
 </rss>

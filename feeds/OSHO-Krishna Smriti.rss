@@ -1,143 +1,333 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title><![CDATA[OSHO-Krishna Smriti]]></title>
-        <description><![CDATA[Osho Discource: OSHO-Krishna Smriti]]></description>
-        <link>http://github.com/dylang/node-rss</link>
-        <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 06 Nov 2025 11:08:49 GMT</lastBuildDate>
-        <atom:link href="https://aksbenz.github.io/oshodiscourses-stremio-addon/feeds/OSHO-Krishna Smriti.rss" rel="self" type="application/rss+xml"/>
-        <language><![CDATA[hi]]></language>
-        <item>
-            <title><![CDATA[01-OSHO-Krishna Smriti]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_01.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_01.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[02-OSHO-Krishna Smriti]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_02.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_02.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[03-OSHO-Krishna Smriti]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_03.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_03.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[04-OSHO-Krishna Smriti]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_04.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_04.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[05-OSHO-Krishna Smriti]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_05.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_05.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[06-OSHO-Krishna Smriti]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_06.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_06.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[07-OSHO-Krishna Smriti]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_07.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_07.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[08-OSHO-Krishna Smriti]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_08.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_08.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[09-OSHO-Krishna Smriti]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_09.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_09.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[10-OSHO-Krishna Smriti]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_10.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_10.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[11-OSHO-Krishna Smriti]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_11.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_11.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[12-OSHO-Krishna Smriti]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_12.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_12.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[13-OSHO-Krishna Smriti]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_13.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_13.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[14-OSHO-Krishna Smriti]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_14.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_14.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[15-OSHO-Krishna Smriti]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_15.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_15.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[16-OSHO-Krishna Smriti]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_16.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_16.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[17-OSHO-Krishna Smriti]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_17.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_17.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[18-OSHO-Krishna Smriti]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_18.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_18.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[19-OSHO-Krishna Smriti]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_19.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_19.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[20-OSHO-Krishna Smriti]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_20.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_20.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[21-OSHO-Krishna Smriti]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_21.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_21.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[22-OSHO-Krishna Smriti]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_22.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_22.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-    </channel>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>OSHO-Krishna Smriti</title>
+    <description>OSHO-Krishna Smriti</description>
+    <link>https://www.oshoworld.com</link>
+    <generator>Osho Podcasts</generator>
+    <lastBuildDate>Mon, 03 Nov 2025 21:16:04 GMT</lastBuildDate>
+    <atom:link href="https://aksbenz.github.io/oshodiscourses-stremio-addon/feeds/OSHO-Krishna%20Smriti.rss" rel="self" type="application/rss+xml"></atom:link>
+    <copyright>Oshoworld</copyright>
+    <language>hi</language>
+    <itunes:author>OSHO</itunes:author>
+    <itunes:summary>OSHO-Krishna Smriti</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>OSHO</itunes:name>
+      <itunes:email>osho@oshoworld.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Spirituality"></itunes:category>
+    </itunes:category>
+    <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Krishna%20Smriti"></itunes:image>
+    <item>
+      <title>01-OSHO-Krishna Smriti</title>
+      <description>01-OSHO-Krishna Smriti</description>
+      <link>https://oshoworld.com/krishna-smriti-by-osho-01-22</link>
+      <guid isPermaLink="false">01-OSHO-Krishna Smriti</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_01.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>01-OSHO-Krishna Smriti</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Krishna%20Smriti"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>02-OSHO-Krishna Smriti</title>
+      <description>02-OSHO-Krishna Smriti</description>
+      <link>https://oshoworld.com/krishna-smriti-by-osho-01-22</link>
+      <guid isPermaLink="false">02-OSHO-Krishna Smriti</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_02.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>02-OSHO-Krishna Smriti</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Krishna%20Smriti"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>03-OSHO-Krishna Smriti</title>
+      <description>03-OSHO-Krishna Smriti</description>
+      <link>https://oshoworld.com/krishna-smriti-by-osho-01-22</link>
+      <guid isPermaLink="false">03-OSHO-Krishna Smriti</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_03.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>03-OSHO-Krishna Smriti</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Krishna%20Smriti"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>04-OSHO-Krishna Smriti</title>
+      <description>04-OSHO-Krishna Smriti</description>
+      <link>https://oshoworld.com/krishna-smriti-by-osho-01-22</link>
+      <guid isPermaLink="false">04-OSHO-Krishna Smriti</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_04.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>04-OSHO-Krishna Smriti</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Krishna%20Smriti"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>05-OSHO-Krishna Smriti</title>
+      <description>05-OSHO-Krishna Smriti</description>
+      <link>https://oshoworld.com/krishna-smriti-by-osho-01-22</link>
+      <guid isPermaLink="false">05-OSHO-Krishna Smriti</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_05.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>05-OSHO-Krishna Smriti</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Krishna%20Smriti"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>06-OSHO-Krishna Smriti</title>
+      <description>06-OSHO-Krishna Smriti</description>
+      <link>https://oshoworld.com/krishna-smriti-by-osho-01-22</link>
+      <guid isPermaLink="false">06-OSHO-Krishna Smriti</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_06.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>06-OSHO-Krishna Smriti</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Krishna%20Smriti"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>07-OSHO-Krishna Smriti</title>
+      <description>07-OSHO-Krishna Smriti</description>
+      <link>https://oshoworld.com/krishna-smriti-by-osho-01-22</link>
+      <guid isPermaLink="false">07-OSHO-Krishna Smriti</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_07.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>07-OSHO-Krishna Smriti</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Krishna%20Smriti"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>08-OSHO-Krishna Smriti</title>
+      <description>08-OSHO-Krishna Smriti</description>
+      <link>https://oshoworld.com/krishna-smriti-by-osho-01-22</link>
+      <guid isPermaLink="false">08-OSHO-Krishna Smriti</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_08.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>08-OSHO-Krishna Smriti</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Krishna%20Smriti"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>09-OSHO-Krishna Smriti</title>
+      <description>09-OSHO-Krishna Smriti</description>
+      <link>https://oshoworld.com/krishna-smriti-by-osho-01-22</link>
+      <guid isPermaLink="false">09-OSHO-Krishna Smriti</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_09.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>09-OSHO-Krishna Smriti</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Krishna%20Smriti"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>10-OSHO-Krishna Smriti</title>
+      <description>10-OSHO-Krishna Smriti</description>
+      <link>https://oshoworld.com/krishna-smriti-by-osho-01-22</link>
+      <guid isPermaLink="false">10-OSHO-Krishna Smriti</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_10.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>10-OSHO-Krishna Smriti</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Krishna%20Smriti"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>11-OSHO-Krishna Smriti</title>
+      <description>11-OSHO-Krishna Smriti</description>
+      <link>https://oshoworld.com/krishna-smriti-by-osho-01-22</link>
+      <guid isPermaLink="false">11-OSHO-Krishna Smriti</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_11.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>11-OSHO-Krishna Smriti</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Krishna%20Smriti"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>12-OSHO-Krishna Smriti</title>
+      <description>12-OSHO-Krishna Smriti</description>
+      <link>https://oshoworld.com/krishna-smriti-by-osho-01-22</link>
+      <guid isPermaLink="false">12-OSHO-Krishna Smriti</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_12.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>12-OSHO-Krishna Smriti</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Krishna%20Smriti"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>13-OSHO-Krishna Smriti</title>
+      <description>13-OSHO-Krishna Smriti</description>
+      <link>https://oshoworld.com/krishna-smriti-by-osho-01-22</link>
+      <guid isPermaLink="false">13-OSHO-Krishna Smriti</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_13.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>13-OSHO-Krishna Smriti</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Krishna%20Smriti"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>14-OSHO-Krishna Smriti</title>
+      <description>14-OSHO-Krishna Smriti</description>
+      <link>https://oshoworld.com/krishna-smriti-by-osho-01-22</link>
+      <guid isPermaLink="false">14-OSHO-Krishna Smriti</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_14.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>14-OSHO-Krishna Smriti</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Krishna%20Smriti"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>14</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>15-OSHO-Krishna Smriti</title>
+      <description>15-OSHO-Krishna Smriti</description>
+      <link>https://oshoworld.com/krishna-smriti-by-osho-01-22</link>
+      <guid isPermaLink="false">15-OSHO-Krishna Smriti</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_15.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>15-OSHO-Krishna Smriti</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Krishna%20Smriti"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>15</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>16-OSHO-Krishna Smriti</title>
+      <description>16-OSHO-Krishna Smriti</description>
+      <link>https://oshoworld.com/krishna-smriti-by-osho-01-22</link>
+      <guid isPermaLink="false">16-OSHO-Krishna Smriti</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_16.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>16-OSHO-Krishna Smriti</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Krishna%20Smriti"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>16</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>17-OSHO-Krishna Smriti</title>
+      <description>17-OSHO-Krishna Smriti</description>
+      <link>https://oshoworld.com/krishna-smriti-by-osho-01-22</link>
+      <guid isPermaLink="false">17-OSHO-Krishna Smriti</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_17.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>17-OSHO-Krishna Smriti</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Krishna%20Smriti"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>17</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>18-OSHO-Krishna Smriti</title>
+      <description>18-OSHO-Krishna Smriti</description>
+      <link>https://oshoworld.com/krishna-smriti-by-osho-01-22</link>
+      <guid isPermaLink="false">18-OSHO-Krishna Smriti</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_18.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>18-OSHO-Krishna Smriti</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Krishna%20Smriti"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>18</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>19-OSHO-Krishna Smriti</title>
+      <description>19-OSHO-Krishna Smriti</description>
+      <link>https://oshoworld.com/krishna-smriti-by-osho-01-22</link>
+      <guid isPermaLink="false">19-OSHO-Krishna Smriti</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_19.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>19-OSHO-Krishna Smriti</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Krishna%20Smriti"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>19</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>20-OSHO-Krishna Smriti</title>
+      <description>20-OSHO-Krishna Smriti</description>
+      <link>https://oshoworld.com/krishna-smriti-by-osho-01-22</link>
+      <guid isPermaLink="false">20-OSHO-Krishna Smriti</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_20.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>20-OSHO-Krishna Smriti</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Krishna%20Smriti"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>20</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>21-OSHO-Krishna Smriti</title>
+      <description>21-OSHO-Krishna Smriti</description>
+      <link>https://oshoworld.com/krishna-smriti-by-osho-01-22</link>
+      <guid isPermaLink="false">21-OSHO-Krishna Smriti</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_21.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>21-OSHO-Krishna Smriti</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Krishna%20Smriti"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>21</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>22-OSHO-Krishna Smriti</title>
+      <description>22-OSHO-Krishna Smriti</description>
+      <link>https://oshoworld.com/krishna-smriti-by-osho-01-22</link>
+      <guid isPermaLink="false">22-OSHO-Krishna Smriti</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_22.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>22-OSHO-Krishna Smriti</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Krishna%20Smriti"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>22</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
 </rss>

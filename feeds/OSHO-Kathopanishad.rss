@@ -1,125 +1,291 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title><![CDATA[OSHO-Kathopanishad]]></title>
-        <description><![CDATA[Osho Discource: OSHO-Kathopanishad]]></description>
-        <link>http://github.com/dylang/node-rss</link>
-        <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 06 Nov 2025 11:08:49 GMT</lastBuildDate>
-        <atom:link href="https://aksbenz.github.io/oshodiscourses-stremio-addon/feeds/OSHO-Kathopanishad.rss" rel="self" type="application/rss+xml"/>
-        <language><![CDATA[hi]]></language>
-        <item>
-            <title><![CDATA[01-OSHO-Kathopanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_01.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_01.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[02-OSHO-Kathopanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_02.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_02.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[03-OSHO-Kathopanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_03.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_03.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[04-OSHO-Kathopanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_04.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_04.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[05-OSHO-Kathopanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_05.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_05.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[06-OSHO-Kathopanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_06.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_06.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[07-OSHO-Kathopanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_07.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_07.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[08-OSHO-Kathopanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_08.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_08.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[09-OSHO-Kathopanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_09.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_09.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[10-OSHO-Kathopanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_10.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_10.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[11-OSHO-Kathopanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_11.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_11.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[12-OSHO-Kathopanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_12.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_12.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[13-OSHO-Kathopanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_13.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_13.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[14-OSHO-Kathopanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_14.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_14.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[15-OSHO-Kathopanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_15.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_15.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[16-OSHO-Kathopanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_16.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_16.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[17-OSHO-Kathopanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_17.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_17.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[18-OSHO-Kathopanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_18.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_18.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[19-OSHO-Kathopanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_19.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_19.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-    </channel>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>OSHO-Kathopanishad</title>
+    <description>OSHO-Kathopanishad</description>
+    <link>https://www.oshoworld.com</link>
+    <generator>Osho Podcasts</generator>
+    <lastBuildDate>Mon, 03 Nov 2025 21:16:04 GMT</lastBuildDate>
+    <atom:link href="https://aksbenz.github.io/oshodiscourses-stremio-addon/feeds/OSHO-Kathopanishad.rss" rel="self" type="application/rss+xml"></atom:link>
+    <copyright>Oshoworld</copyright>
+    <language>hi</language>
+    <itunes:author>OSHO</itunes:author>
+    <itunes:summary>OSHO-Kathopanishad</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>OSHO</itunes:name>
+      <itunes:email>osho@oshoworld.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Spirituality"></itunes:category>
+    </itunes:category>
+    <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Kathopanishad"></itunes:image>
+    <item>
+      <title>01-OSHO-Kathopanishad</title>
+      <description>01-OSHO-Kathopanishad</description>
+      <link>https://oshoworld.com/kathopanishad-by-osho-01-19</link>
+      <guid isPermaLink="false">01-OSHO-Kathopanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_01.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>01-OSHO-Kathopanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Kathopanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>02-OSHO-Kathopanishad</title>
+      <description>02-OSHO-Kathopanishad</description>
+      <link>https://oshoworld.com/kathopanishad-by-osho-01-19</link>
+      <guid isPermaLink="false">02-OSHO-Kathopanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_02.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>02-OSHO-Kathopanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Kathopanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>03-OSHO-Kathopanishad</title>
+      <description>03-OSHO-Kathopanishad</description>
+      <link>https://oshoworld.com/kathopanishad-by-osho-01-19</link>
+      <guid isPermaLink="false">03-OSHO-Kathopanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_03.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>03-OSHO-Kathopanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Kathopanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>04-OSHO-Kathopanishad</title>
+      <description>04-OSHO-Kathopanishad</description>
+      <link>https://oshoworld.com/kathopanishad-by-osho-01-19</link>
+      <guid isPermaLink="false">04-OSHO-Kathopanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_04.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>04-OSHO-Kathopanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Kathopanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>05-OSHO-Kathopanishad</title>
+      <description>05-OSHO-Kathopanishad</description>
+      <link>https://oshoworld.com/kathopanishad-by-osho-01-19</link>
+      <guid isPermaLink="false">05-OSHO-Kathopanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_05.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>05-OSHO-Kathopanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Kathopanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>06-OSHO-Kathopanishad</title>
+      <description>06-OSHO-Kathopanishad</description>
+      <link>https://oshoworld.com/kathopanishad-by-osho-01-19</link>
+      <guid isPermaLink="false">06-OSHO-Kathopanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_06.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>06-OSHO-Kathopanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Kathopanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>07-OSHO-Kathopanishad</title>
+      <description>07-OSHO-Kathopanishad</description>
+      <link>https://oshoworld.com/kathopanishad-by-osho-01-19</link>
+      <guid isPermaLink="false">07-OSHO-Kathopanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_07.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>07-OSHO-Kathopanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Kathopanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>08-OSHO-Kathopanishad</title>
+      <description>08-OSHO-Kathopanishad</description>
+      <link>https://oshoworld.com/kathopanishad-by-osho-01-19</link>
+      <guid isPermaLink="false">08-OSHO-Kathopanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_08.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>08-OSHO-Kathopanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Kathopanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>09-OSHO-Kathopanishad</title>
+      <description>09-OSHO-Kathopanishad</description>
+      <link>https://oshoworld.com/kathopanishad-by-osho-01-19</link>
+      <guid isPermaLink="false">09-OSHO-Kathopanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_09.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>09-OSHO-Kathopanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Kathopanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>10-OSHO-Kathopanishad</title>
+      <description>10-OSHO-Kathopanishad</description>
+      <link>https://oshoworld.com/kathopanishad-by-osho-01-19</link>
+      <guid isPermaLink="false">10-OSHO-Kathopanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_10.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>10-OSHO-Kathopanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Kathopanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>11-OSHO-Kathopanishad</title>
+      <description>11-OSHO-Kathopanishad</description>
+      <link>https://oshoworld.com/kathopanishad-by-osho-01-19</link>
+      <guid isPermaLink="false">11-OSHO-Kathopanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_11.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>11-OSHO-Kathopanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Kathopanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>12-OSHO-Kathopanishad</title>
+      <description>12-OSHO-Kathopanishad</description>
+      <link>https://oshoworld.com/kathopanishad-by-osho-01-19</link>
+      <guid isPermaLink="false">12-OSHO-Kathopanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_12.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>12-OSHO-Kathopanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Kathopanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>13-OSHO-Kathopanishad</title>
+      <description>13-OSHO-Kathopanishad</description>
+      <link>https://oshoworld.com/kathopanishad-by-osho-01-19</link>
+      <guid isPermaLink="false">13-OSHO-Kathopanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_13.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>13-OSHO-Kathopanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Kathopanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>14-OSHO-Kathopanishad</title>
+      <description>14-OSHO-Kathopanishad</description>
+      <link>https://oshoworld.com/kathopanishad-by-osho-01-19</link>
+      <guid isPermaLink="false">14-OSHO-Kathopanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_14.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>14-OSHO-Kathopanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Kathopanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>14</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>15-OSHO-Kathopanishad</title>
+      <description>15-OSHO-Kathopanishad</description>
+      <link>https://oshoworld.com/kathopanishad-by-osho-01-19</link>
+      <guid isPermaLink="false">15-OSHO-Kathopanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_15.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>15-OSHO-Kathopanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Kathopanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>15</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>16-OSHO-Kathopanishad</title>
+      <description>16-OSHO-Kathopanishad</description>
+      <link>https://oshoworld.com/kathopanishad-by-osho-01-19</link>
+      <guid isPermaLink="false">16-OSHO-Kathopanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_16.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>16-OSHO-Kathopanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Kathopanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>16</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>17-OSHO-Kathopanishad</title>
+      <description>17-OSHO-Kathopanishad</description>
+      <link>https://oshoworld.com/kathopanishad-by-osho-01-19</link>
+      <guid isPermaLink="false">17-OSHO-Kathopanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_17.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>17-OSHO-Kathopanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Kathopanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>17</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>18-OSHO-Kathopanishad</title>
+      <description>18-OSHO-Kathopanishad</description>
+      <link>https://oshoworld.com/kathopanishad-by-osho-01-19</link>
+      <guid isPermaLink="false">18-OSHO-Kathopanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_18.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>18-OSHO-Kathopanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Kathopanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>18</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>19-OSHO-Kathopanishad</title>
+      <description>19-OSHO-Kathopanishad</description>
+      <link>https://oshoworld.com/kathopanishad-by-osho-01-19</link>
+      <guid isPermaLink="false">19-OSHO-Kathopanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_19.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>19-OSHO-Kathopanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Kathopanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>19</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
 </rss>

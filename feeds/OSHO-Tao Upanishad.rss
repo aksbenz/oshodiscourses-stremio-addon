@@ -1,773 +1,1803 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title><![CDATA[OSHO-Tao Upanishad]]></title>
-        <description><![CDATA[Osho Discource: OSHO-Tao Upanishad]]></description>
-        <link>http://github.com/dylang/node-rss</link>
-        <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 06 Nov 2025 11:08:49 GMT</lastBuildDate>
-        <atom:link href="https://aksbenz.github.io/oshodiscourses-stremio-addon/feeds/OSHO-Tao Upanishad.rss" rel="self" type="application/rss+xml"/>
-        <language><![CDATA[hi]]></language>
-        <item>
-            <title><![CDATA[001-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_001.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_001.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[002-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_002.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_002.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[003-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_003.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_003.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[004-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_004.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_004.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[005-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_005.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_005.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[006-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_006.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_006.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[007-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_007.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_007.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[008-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_008.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_008.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[009-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_009.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_009.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[010-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_010.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_010.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[011-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_011.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_011.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[012-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_012.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_012.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[013-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_013.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_013.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[014-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_014.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_014.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[015-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_015.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_015.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[016-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_016.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_016.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[017-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_017.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_017.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[018-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_018.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_018.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[019-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_019.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_019.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[020-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_020.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_020.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[021-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_021.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_021.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[022-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_022.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_022.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[023-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_023.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_023.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[024-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_024.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_024.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[025-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_025.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_025.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[026-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_026.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_026.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[027-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_027.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_027.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[028-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_028.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_028.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[029-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_029.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_029.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[030-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_030.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_030.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[031-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_031.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_031.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[032-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_032.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_032.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[033-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_033.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_033.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[034-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_034.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_034.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[035-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_035.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_035.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[036-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_036.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_036.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[037-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_037.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_037.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[038-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_038.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_038.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[039-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_039.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_039.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[040-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_040.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_040.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[041-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_041.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_041.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[042-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_042.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_042.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[043-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_043.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_043.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[044-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_044.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_044.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[045-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_045.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_045.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[046-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_046.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_046.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[047-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_047.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_047.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[048-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_048.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_048.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[049-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_049.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_049.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[050-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_050.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_050.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[051-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_051.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_051.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[052-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_052.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_052.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[053-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_053.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_053.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[054-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_054.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_054.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[055-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_055.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_055.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[056-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_056.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_056.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[057-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_057.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_057.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[058-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_058.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_058.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[059-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_059.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_059.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[060-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_060.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_060.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[061-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_061.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_061.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[062-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_062.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_062.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[063-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_063.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_063.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[064-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_064.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_064.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[065-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_065.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_065.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[066-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_066.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_066.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[067-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_067.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_067.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[068-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_068.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_068.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[069-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_069.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_069.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[070-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_070.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_070.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[071-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_071.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_071.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[072-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_072.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_072.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[073-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_073.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_073.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[074-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_074.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_074.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[075-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_075.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_075.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[076-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_076.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_076.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[077-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_077.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_077.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[078-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_078.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_078.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[079-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_079.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_079.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[080-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_080.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_080.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[081-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_081.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_081.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[082-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_082.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_082.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[083-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_083.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_083.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[084-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_084.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_084.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[085-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_085.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_085.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[086-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_086.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_086.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[087-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_087.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_087.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[088-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_088.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_088.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[089-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_089.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_089.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[090-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_090.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_090.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[091-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_091.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_091.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[092-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_092.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_092.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[093-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_093.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_093.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[094-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_094.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_094.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[095-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_095.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_095.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[096-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_096.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_096.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[097-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_097.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_097.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[098-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_098.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_098.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[099-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_099.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_099.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[100-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_100.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_100.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[101-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_101.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_101.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[102-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_102.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_102.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[103-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_103.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_103.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[104-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_104.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_104.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[105-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_105.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_105.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[106-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_106.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_106.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[107-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_107.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_107.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[108-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_108.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_108.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[109-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_109.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_109.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[110-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_110.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_110.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[111-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_111.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_111.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[112-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_112.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_112.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[113-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_113.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_113.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[114-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_114.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_114.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[115-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_115.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_115.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[116-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_116.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_116.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[117-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_117.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_117.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[118-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_118.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_118.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[119-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_119.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_119.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[120-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_120.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_120.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[121-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_121.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_121.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[122-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_122.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_122.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[123-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_123.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_123.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[124-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_124.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_124.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[125-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_125.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_125.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[126-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_126.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_126.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[127-OSHO-Tao Upanishad]]></title>
-            <link>https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_127.mp3</link>
-            <guid isPermaLink="true">https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_127.mp3</guid>
-            <pubDate>Sat, 31 Jan 1970 14:00:00 GMT</pubDate>
-        </item>
-    </channel>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>OSHO-Tao Upanishad</title>
+    <description>OSHO-Tao Upanishad</description>
+    <link>https://www.oshoworld.com</link>
+    <generator>Osho Podcasts</generator>
+    <lastBuildDate>Mon, 03 Nov 2025 21:16:04 GMT</lastBuildDate>
+    <atom:link href="https://aksbenz.github.io/oshodiscourses-stremio-addon/feeds/OSHO-Tao%20Upanishad.rss" rel="self" type="application/rss+xml"></atom:link>
+    <copyright>Oshoworld</copyright>
+    <language>hi</language>
+    <itunes:author>OSHO</itunes:author>
+    <itunes:summary>OSHO-Tao Upanishad</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>OSHO</itunes:name>
+      <itunes:email>osho@oshoworld.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Spirituality"></itunes:category>
+    </itunes:category>
+    <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+    <item>
+      <title>001-OSHO-Tao Upanishad</title>
+      <description>001-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">001-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_001.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>001-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>002-OSHO-Tao Upanishad</title>
+      <description>002-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">002-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_002.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>002-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>003-OSHO-Tao Upanishad</title>
+      <description>003-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">003-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_003.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>003-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>004-OSHO-Tao Upanishad</title>
+      <description>004-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">004-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_004.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>004-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>005-OSHO-Tao Upanishad</title>
+      <description>005-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">005-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_005.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>005-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>006-OSHO-Tao Upanishad</title>
+      <description>006-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">006-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_006.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>006-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>007-OSHO-Tao Upanishad</title>
+      <description>007-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">007-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_007.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>007-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>008-OSHO-Tao Upanishad</title>
+      <description>008-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">008-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_008.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>008-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>009-OSHO-Tao Upanishad</title>
+      <description>009-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">009-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_009.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>009-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>010-OSHO-Tao Upanishad</title>
+      <description>010-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">010-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_010.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>010-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>011-OSHO-Tao Upanishad</title>
+      <description>011-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">011-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_011.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>011-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>012-OSHO-Tao Upanishad</title>
+      <description>012-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">012-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_012.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>012-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>013-OSHO-Tao Upanishad</title>
+      <description>013-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">013-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_013.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>013-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>014-OSHO-Tao Upanishad</title>
+      <description>014-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">014-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_014.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>014-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>14</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>015-OSHO-Tao Upanishad</title>
+      <description>015-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">015-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_015.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>015-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>15</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>016-OSHO-Tao Upanishad</title>
+      <description>016-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">016-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_016.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>016-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>16</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>017-OSHO-Tao Upanishad</title>
+      <description>017-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">017-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_017.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>017-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>17</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>018-OSHO-Tao Upanishad</title>
+      <description>018-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">018-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_018.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>018-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>18</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>019-OSHO-Tao Upanishad</title>
+      <description>019-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">019-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_019.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>019-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>19</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>020-OSHO-Tao Upanishad</title>
+      <description>020-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">020-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_020.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>020-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>20</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>021-OSHO-Tao Upanishad</title>
+      <description>021-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">021-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_021.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>021-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>21</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>022-OSHO-Tao Upanishad</title>
+      <description>022-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">022-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_022.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>022-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>22</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>023-OSHO-Tao Upanishad</title>
+      <description>023-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">023-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_023.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>023-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>23</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>024-OSHO-Tao Upanishad</title>
+      <description>024-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">024-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_024.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>024-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>24</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>025-OSHO-Tao Upanishad</title>
+      <description>025-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">025-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_025.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>025-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>25</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>026-OSHO-Tao Upanishad</title>
+      <description>026-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">026-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_026.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>026-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>26</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>027-OSHO-Tao Upanishad</title>
+      <description>027-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">027-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_027.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>027-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>27</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>028-OSHO-Tao Upanishad</title>
+      <description>028-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">028-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_028.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>028-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>28</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>029-OSHO-Tao Upanishad</title>
+      <description>029-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">029-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_029.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>029-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>29</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>030-OSHO-Tao Upanishad</title>
+      <description>030-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">030-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_030.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>030-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>30</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>031-OSHO-Tao Upanishad</title>
+      <description>031-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">031-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_031.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>031-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>31</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>032-OSHO-Tao Upanishad</title>
+      <description>032-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">032-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_032.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>032-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>32</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>033-OSHO-Tao Upanishad</title>
+      <description>033-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">033-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_033.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>033-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>33</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>034-OSHO-Tao Upanishad</title>
+      <description>034-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">034-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_034.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>034-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>34</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>035-OSHO-Tao Upanishad</title>
+      <description>035-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">035-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_035.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>035-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>35</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>036-OSHO-Tao Upanishad</title>
+      <description>036-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">036-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_036.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>036-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>36</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>037-OSHO-Tao Upanishad</title>
+      <description>037-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">037-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_037.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>037-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>37</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>038-OSHO-Tao Upanishad</title>
+      <description>038-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">038-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_038.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>038-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>38</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>039-OSHO-Tao Upanishad</title>
+      <description>039-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">039-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_039.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>039-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>39</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>040-OSHO-Tao Upanishad</title>
+      <description>040-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">040-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_040.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>040-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>40</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>041-OSHO-Tao Upanishad</title>
+      <description>041-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">041-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_041.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>041-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>41</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>042-OSHO-Tao Upanishad</title>
+      <description>042-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">042-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_042.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>042-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>42</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>043-OSHO-Tao Upanishad</title>
+      <description>043-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">043-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_043.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>043-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>43</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>044-OSHO-Tao Upanishad</title>
+      <description>044-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">044-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_044.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>044-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>44</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>045-OSHO-Tao Upanishad</title>
+      <description>045-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">045-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_045.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>045-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>45</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>046-OSHO-Tao Upanishad</title>
+      <description>046-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">046-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_046.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>046-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>46</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>047-OSHO-Tao Upanishad</title>
+      <description>047-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">047-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_047.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>047-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>47</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>048-OSHO-Tao Upanishad</title>
+      <description>048-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">048-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_048.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>048-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>48</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>049-OSHO-Tao Upanishad</title>
+      <description>049-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">049-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_049.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>049-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>49</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>050-OSHO-Tao Upanishad</title>
+      <description>050-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">050-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_050.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>050-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>50</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>051-OSHO-Tao Upanishad</title>
+      <description>051-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">051-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_051.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>051-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>51</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>052-OSHO-Tao Upanishad</title>
+      <description>052-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">052-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_052.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>052-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>52</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>053-OSHO-Tao Upanishad</title>
+      <description>053-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">053-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_053.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>053-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>53</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>054-OSHO-Tao Upanishad</title>
+      <description>054-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">054-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_054.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>054-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>54</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>055-OSHO-Tao Upanishad</title>
+      <description>055-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">055-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_055.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>055-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>55</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>056-OSHO-Tao Upanishad</title>
+      <description>056-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">056-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_056.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>056-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>56</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>057-OSHO-Tao Upanishad</title>
+      <description>057-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">057-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_057.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>057-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>57</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>058-OSHO-Tao Upanishad</title>
+      <description>058-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">058-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_058.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>058-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>58</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>059-OSHO-Tao Upanishad</title>
+      <description>059-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">059-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_059.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>059-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>59</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>060-OSHO-Tao Upanishad</title>
+      <description>060-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">060-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_060.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>060-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>60</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>061-OSHO-Tao Upanishad</title>
+      <description>061-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">061-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_061.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>061-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>61</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>062-OSHO-Tao Upanishad</title>
+      <description>062-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">062-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_062.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>062-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>62</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>063-OSHO-Tao Upanishad</title>
+      <description>063-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">063-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_063.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>063-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>63</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>064-OSHO-Tao Upanishad</title>
+      <description>064-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">064-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_064.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>064-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>64</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>065-OSHO-Tao Upanishad</title>
+      <description>065-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">065-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_065.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>065-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>65</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>066-OSHO-Tao Upanishad</title>
+      <description>066-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">066-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_066.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>066-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>66</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>067-OSHO-Tao Upanishad</title>
+      <description>067-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">067-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_067.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>067-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>67</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>068-OSHO-Tao Upanishad</title>
+      <description>068-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">068-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_068.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>068-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>68</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>069-OSHO-Tao Upanishad</title>
+      <description>069-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">069-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_069.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>069-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>69</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>070-OSHO-Tao Upanishad</title>
+      <description>070-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">070-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_070.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>070-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>70</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>071-OSHO-Tao Upanishad</title>
+      <description>071-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">071-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_071.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>071-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>71</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>072-OSHO-Tao Upanishad</title>
+      <description>072-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">072-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_072.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>072-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>72</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>073-OSHO-Tao Upanishad</title>
+      <description>073-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">073-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_073.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>073-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>73</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>074-OSHO-Tao Upanishad</title>
+      <description>074-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">074-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_074.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>074-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>74</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>075-OSHO-Tao Upanishad</title>
+      <description>075-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">075-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_075.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>075-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>75</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>076-OSHO-Tao Upanishad</title>
+      <description>076-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">076-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_076.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>076-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>76</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>077-OSHO-Tao Upanishad</title>
+      <description>077-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">077-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_077.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>077-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>77</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>078-OSHO-Tao Upanishad</title>
+      <description>078-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">078-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_078.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>078-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>78</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>079-OSHO-Tao Upanishad</title>
+      <description>079-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">079-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_079.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>079-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>79</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>080-OSHO-Tao Upanishad</title>
+      <description>080-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">080-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_080.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>080-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>80</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>081-OSHO-Tao Upanishad</title>
+      <description>081-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">081-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_081.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>081-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>81</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>082-OSHO-Tao Upanishad</title>
+      <description>082-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">082-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_082.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>082-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>82</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>083-OSHO-Tao Upanishad</title>
+      <description>083-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">083-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_083.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>083-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>83</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>084-OSHO-Tao Upanishad</title>
+      <description>084-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">084-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_084.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>084-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>84</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>085-OSHO-Tao Upanishad</title>
+      <description>085-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">085-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_085.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>085-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>85</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>086-OSHO-Tao Upanishad</title>
+      <description>086-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">086-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_086.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>086-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>86</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>087-OSHO-Tao Upanishad</title>
+      <description>087-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">087-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_087.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>087-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>87</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>088-OSHO-Tao Upanishad</title>
+      <description>088-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">088-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_088.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>088-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>88</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>089-OSHO-Tao Upanishad</title>
+      <description>089-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">089-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_089.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>089-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>89</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>090-OSHO-Tao Upanishad</title>
+      <description>090-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">090-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_090.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>090-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>90</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>091-OSHO-Tao Upanishad</title>
+      <description>091-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">091-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_091.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>091-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>91</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>092-OSHO-Tao Upanishad</title>
+      <description>092-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">092-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_092.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>092-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>92</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>093-OSHO-Tao Upanishad</title>
+      <description>093-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">093-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_093.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>093-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>93</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>094-OSHO-Tao Upanishad</title>
+      <description>094-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">094-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_094.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>094-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>94</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>095-OSHO-Tao Upanishad</title>
+      <description>095-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">095-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_095.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>095-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>95</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>096-OSHO-Tao Upanishad</title>
+      <description>096-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">096-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_096.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>096-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>96</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>097-OSHO-Tao Upanishad</title>
+      <description>097-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">097-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_097.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>097-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>97</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>098-OSHO-Tao Upanishad</title>
+      <description>098-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">098-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_098.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>098-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>98</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>099-OSHO-Tao Upanishad</title>
+      <description>099-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">099-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_099.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>099-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>99</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>100-OSHO-Tao Upanishad</title>
+      <description>100-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">100-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_100.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>100-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>100</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>101-OSHO-Tao Upanishad</title>
+      <description>101-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">101-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_101.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>101-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>101</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>102-OSHO-Tao Upanishad</title>
+      <description>102-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">102-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_102.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>102-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>102</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>103-OSHO-Tao Upanishad</title>
+      <description>103-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">103-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_103.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>103-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>103</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>104-OSHO-Tao Upanishad</title>
+      <description>104-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">104-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_104.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>104-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>104</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>105-OSHO-Tao Upanishad</title>
+      <description>105-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">105-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_105.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>105-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>105</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>106-OSHO-Tao Upanishad</title>
+      <description>106-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">106-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_106.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>106-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>106</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>107-OSHO-Tao Upanishad</title>
+      <description>107-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">107-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_107.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>107-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>107</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>108-OSHO-Tao Upanishad</title>
+      <description>108-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">108-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_108.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>108-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>108</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>109-OSHO-Tao Upanishad</title>
+      <description>109-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">109-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_109.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>109-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>109</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>110-OSHO-Tao Upanishad</title>
+      <description>110-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">110-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_110.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>110-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>110</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>111-OSHO-Tao Upanishad</title>
+      <description>111-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">111-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_111.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>111-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>111</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>112-OSHO-Tao Upanishad</title>
+      <description>112-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">112-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_112.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>112-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>112</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>113-OSHO-Tao Upanishad</title>
+      <description>113-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">113-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_113.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>113-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>113</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>114-OSHO-Tao Upanishad</title>
+      <description>114-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">114-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_114.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>114-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>114</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>115-OSHO-Tao Upanishad</title>
+      <description>115-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">115-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_115.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>115-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>115</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>116-OSHO-Tao Upanishad</title>
+      <description>116-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">116-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_116.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>116-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>116</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>117-OSHO-Tao Upanishad</title>
+      <description>117-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">117-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_117.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>117-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>117</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>118-OSHO-Tao Upanishad</title>
+      <description>118-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">118-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_118.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>118-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>118</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>119-OSHO-Tao Upanishad</title>
+      <description>119-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">119-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_119.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>119-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>119</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>120-OSHO-Tao Upanishad</title>
+      <description>120-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">120-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_120.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>120-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>120</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>121-OSHO-Tao Upanishad</title>
+      <description>121-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">121-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_121.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>121-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>121</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>122-OSHO-Tao Upanishad</title>
+      <description>122-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">122-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_122.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>122-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>122</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>123-OSHO-Tao Upanishad</title>
+      <description>123-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">123-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_123.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>123-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>123</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>124-OSHO-Tao Upanishad</title>
+      <description>124-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">124-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_124.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>124-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>124</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>125-OSHO-Tao Upanishad</title>
+      <description>125-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">125-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_125.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>125-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>125</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>126-OSHO-Tao Upanishad</title>
+      <description>126-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">126-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_126.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>126-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>126</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>127-OSHO-Tao Upanishad</title>
+      <description>127-OSHO-Tao Upanishad</description>
+      <link>https://oshoworld.com/tao-upanishad-by-osho-01-127</link>
+      <guid isPermaLink="false">127-OSHO-Tao Upanishad</guid>
+      <dc:creator>Osho</dc:creator>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tao_Upanishad_127.mp3" length="0" type="audio/x-mp3"></enclosure>
+      <itunes:summary>127-OSHO-Tao Upanishad</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Tao%20Upanishad"></itunes:image>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>127</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
 </rss>

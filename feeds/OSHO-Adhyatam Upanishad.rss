@@ -7,7 +7,6 @@
     <generator>Osho Podcasts</generator>
     <lastBuildDate>Mon, 03 Nov 2025 21:16:04 GMT</lastBuildDate>
     <atom:link href="https://aksbenz.github.io/oshodiscourses-stremio-addon/feeds/OSHO-Adhyatam%20Upanishad.rss" rel="self" type="application/rss+xml"></atom:link>
-    <author>OSHO</author>
     <copyright>Oshoworld</copyright>
     <language>hi</language>
     <itunes:author>OSHO</itunes:author>
@@ -18,7 +17,9 @@
       <itunes:email>osho@oshoworld.com</itunes:email>
     </itunes:owner>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:category text="Spirituality"></itunes:category>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Spirituality"></itunes:category>
+    </itunes:category>
     <itunes:image href="https://dummyimage.com/320x240/595359/e8b80c.jpg&amp;text=OSHO-Adhyatam%20Upanishad"></itunes:image>
     <item>
       <title>01-OSHO-Adhyatam Upanishad</title>
@@ -26,7 +27,6 @@
       <link>https://oshoworld.com/adhyatam-upanishad-by-osho-1-17</link>
       <guid isPermaLink="false">01-OSHO-Adhyatam Upanishad</guid>
       <dc:creator>Osho</dc:creator>
-      <pubDate>Thu, 01 Jan 1970 00:00:00 GMT</pubDate>
       <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Adhyatam_Upanishad_01.mp3" length="0" type="audio/x-mp3"></enclosure>
       <itunes:summary>01-OSHO-Adhyatam Upanishad</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
@@ -41,7 +41,6 @@
       <link>https://oshoworld.com/adhyatam-upanishad-by-osho-1-17</link>
       <guid isPermaLink="false">02-OSHO-Adhyatam Upanishad</guid>
       <dc:creator>Osho</dc:creator>
-      <pubDate>Thu, 01 Jan 1970 00:00:00 GMT</pubDate>
       <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Adhyatam_Upanishad_02.mp3" length="0" type="audio/x-mp3"></enclosure>
       <itunes:summary>02-OSHO-Adhyatam Upanishad</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
@@ -56,7 +55,6 @@
       <link>https://oshoworld.com/adhyatam-upanishad-by-osho-1-17</link>
       <guid isPermaLink="false">03-OSHO-Adhyatam Upanishad</guid>
       <dc:creator>Osho</dc:creator>
-      <pubDate>Thu, 01 Jan 1970 00:00:00 GMT</pubDate>
       <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Adhyatam_Upanishad_03.mp3" length="0" type="audio/x-mp3"></enclosure>
       <itunes:summary>03-OSHO-Adhyatam Upanishad</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
@@ -71,7 +69,6 @@
       <link>https://oshoworld.com/adhyatam-upanishad-by-osho-1-17</link>
       <guid isPermaLink="false">04-OSHO-Adhyatam Upanishad</guid>
       <dc:creator>Osho</dc:creator>
-      <pubDate>Thu, 01 Jan 1970 00:00:00 GMT</pubDate>
       <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Adhyatam_Upanishad_04.mp3" length="0" type="audio/x-mp3"></enclosure>
       <itunes:summary>04-OSHO-Adhyatam Upanishad</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
@@ -86,7 +83,6 @@
       <link>https://oshoworld.com/adhyatam-upanishad-by-osho-1-17</link>
       <guid isPermaLink="false">05-OSHO-Adhyatam Upanishad</guid>
       <dc:creator>Osho</dc:creator>
-      <pubDate>Thu, 01 Jan 1970 00:00:00 GMT</pubDate>
       <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Adhyatam_Upanishad_05.mp3" length="0" type="audio/x-mp3"></enclosure>
       <itunes:summary>05-OSHO-Adhyatam Upanishad</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
@@ -101,7 +97,6 @@
       <link>https://oshoworld.com/adhyatam-upanishad-by-osho-1-17</link>
       <guid isPermaLink="false">06-OSHO-Adhyatam Upanishad</guid>
       <dc:creator>Osho</dc:creator>
-      <pubDate>Thu, 01 Jan 1970 00:00:00 GMT</pubDate>
       <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Adhyatam_Upanishad_06.mp3" length="0" type="audio/x-mp3"></enclosure>
       <itunes:summary>06-OSHO-Adhyatam Upanishad</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
@@ -116,7 +111,6 @@
       <link>https://oshoworld.com/adhyatam-upanishad-by-osho-1-17</link>
       <guid isPermaLink="false">07-OSHO-Adhyatam Upanishad</guid>
       <dc:creator>Osho</dc:creator>
-      <pubDate>Thu, 01 Jan 1970 00:00:00 GMT</pubDate>
       <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Adhyatam_Upanishad_07.mp3" length="0" type="audio/x-mp3"></enclosure>
       <itunes:summary>07-OSHO-Adhyatam Upanishad</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
@@ -131,7 +125,6 @@
       <link>https://oshoworld.com/adhyatam-upanishad-by-osho-1-17</link>
       <guid isPermaLink="false">08-OSHO-Adhyatam Upanishad</guid>
       <dc:creator>Osho</dc:creator>
-      <pubDate>Thu, 01 Jan 1970 00:00:00 GMT</pubDate>
       <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Adhyatam_Upanishad_08.mp3" length="0" type="audio/x-mp3"></enclosure>
       <itunes:summary>08-OSHO-Adhyatam Upanishad</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
@@ -146,7 +139,6 @@
       <link>https://oshoworld.com/adhyatam-upanishad-by-osho-1-17</link>
       <guid isPermaLink="false">09-OSHO-Adhyatam Upanishad</guid>
       <dc:creator>Osho</dc:creator>
-      <pubDate>Thu, 01 Jan 1970 00:00:00 GMT</pubDate>
       <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Adhyatam_Upanishad_09.mp3" length="0" type="audio/x-mp3"></enclosure>
       <itunes:summary>09-OSHO-Adhyatam Upanishad</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
@@ -161,7 +153,6 @@
       <link>https://oshoworld.com/adhyatam-upanishad-by-osho-1-17</link>
       <guid isPermaLink="false">10-OSHO-Adhyatam Upanishad</guid>
       <dc:creator>Osho</dc:creator>
-      <pubDate>Thu, 01 Jan 1970 00:00:00 GMT</pubDate>
       <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Adhyatam_Upanishad_10.mp3" length="0" type="audio/x-mp3"></enclosure>
       <itunes:summary>10-OSHO-Adhyatam Upanishad</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
@@ -176,7 +167,6 @@
       <link>https://oshoworld.com/adhyatam-upanishad-by-osho-1-17</link>
       <guid isPermaLink="false">11-OSHO-Adhyatam Upanishad</guid>
       <dc:creator>Osho</dc:creator>
-      <pubDate>Thu, 01 Jan 1970 00:00:00 GMT</pubDate>
       <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Adhyatam_Upanishad_11.mp3" length="0" type="audio/x-mp3"></enclosure>
       <itunes:summary>11-OSHO-Adhyatam Upanishad</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
@@ -191,7 +181,6 @@
       <link>https://oshoworld.com/adhyatam-upanishad-by-osho-1-17</link>
       <guid isPermaLink="false">12-OSHO-Adhyatam Upanishad</guid>
       <dc:creator>Osho</dc:creator>
-      <pubDate>Thu, 01 Jan 1970 00:00:00 GMT</pubDate>
       <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Adhyatam_Upanishad_12.mp3" length="0" type="audio/x-mp3"></enclosure>
       <itunes:summary>12-OSHO-Adhyatam Upanishad</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
@@ -206,7 +195,6 @@
       <link>https://oshoworld.com/adhyatam-upanishad-by-osho-1-17</link>
       <guid isPermaLink="false">13-OSHO-Adhyatam Upanishad</guid>
       <dc:creator>Osho</dc:creator>
-      <pubDate>Thu, 01 Jan 1970 00:00:00 GMT</pubDate>
       <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Adhyatam_Upanishad_13.mp3" length="0" type="audio/x-mp3"></enclosure>
       <itunes:summary>13-OSHO-Adhyatam Upanishad</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
@@ -221,7 +209,6 @@
       <link>https://oshoworld.com/adhyatam-upanishad-by-osho-1-17</link>
       <guid isPermaLink="false">14-OSHO-Adhyatam Upanishad</guid>
       <dc:creator>Osho</dc:creator>
-      <pubDate>Thu, 01 Jan 1970 00:00:00 GMT</pubDate>
       <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Adhyatam_Upanishad_14.mp3" length="0" type="audio/x-mp3"></enclosure>
       <itunes:summary>14-OSHO-Adhyatam Upanishad</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
@@ -236,7 +223,6 @@
       <link>https://oshoworld.com/adhyatam-upanishad-by-osho-1-17</link>
       <guid isPermaLink="false">15-OSHO-Adhyatam Upanishad</guid>
       <dc:creator>Osho</dc:creator>
-      <pubDate>Thu, 01 Jan 1970 00:00:00 GMT</pubDate>
       <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Adhyatam_Upanishad_15.mp3" length="0" type="audio/x-mp3"></enclosure>
       <itunes:summary>15-OSHO-Adhyatam Upanishad</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
@@ -251,7 +237,6 @@
       <link>https://oshoworld.com/adhyatam-upanishad-by-osho-1-17</link>
       <guid isPermaLink="false">16-OSHO-Adhyatam Upanishad</guid>
       <dc:creator>Osho</dc:creator>
-      <pubDate>Thu, 01 Jan 1970 00:00:00 GMT</pubDate>
       <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Adhyatam_Upanishad_16.mp3" length="0" type="audio/x-mp3"></enclosure>
       <itunes:summary>16-OSHO-Adhyatam Upanishad</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
@@ -266,7 +251,6 @@
       <link>https://oshoworld.com/adhyatam-upanishad-by-osho-1-17</link>
       <guid isPermaLink="false">17-OSHO-Adhyatam Upanishad</guid>
       <dc:creator>Osho</dc:creator>
-      <pubDate>Thu, 01 Jan 1970 00:00:00 GMT</pubDate>
       <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Adhyatam_Upanishad_17.mp3" length="0" type="audio/x-mp3"></enclosure>
       <itunes:summary>17-OSHO-Adhyatam Upanishad</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
